@@ -1,0 +1,398 @@
+{
+  "nodes": [
+    [
+      { "value": "Aparatos / Dispositivos" },
+      { "value": "gadgets", "audio": true },
+      {
+        "value": "Small mechanical or electronic devices with a practical use",
+        "audio": true
+      },
+      { "value": "Which gadgets are essential for you?", "audio": true }
+    ],
+    [
+      { "value": "Esencial / Imprescindible" },
+      { "value": "essential", "audio": true },
+      { "value": "Absolutely necessary or important", "audio": true },
+      { "value": "A smart phone is essential for many people.", "audio": true }
+    ],
+    [
+      { "value": "No esencial" },
+      { "value": "not essential", "audio": true },
+      { "value": "Not absolutely necessary", "audio": true },
+      { "value": "For some, a television is not essential.", "audio": true }
+    ],
+    [
+      { "value": "Teléfono inteligente" },
+      { "value": "smart phone", "audio": true },
+      {
+        "value": "A mobile phone that performs many of the functions of a computer",
+        "audio": true
+      },
+      { "value": "Speaker 1 thinks a smart phone is essential.", "audio": true }
+    ],
+    [
+      { "value": "Televisión" },
+      { "value": "television", "audio": true },
+      {
+        "value": "A system for transmitting visual images and sound",
+        "audio": true
+      },
+      {
+        "value": "Speaker 2 thinks a television is not essential.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Decidir" },
+      { "value": "decide", "audio": true },
+      {
+        "value": "To make a choice from a number of alternatives",
+        "audio": true
+      },
+      { "value": "Decide which gadgets are essential for you.", "audio": true }
+    ],
+    [
+      { "value": "Tomar algunas notas" },
+      { "value": "make some notes", "audio": true },
+      { "value": "To write down brief pieces of information", "audio": true },
+      { "value": "Make some notes about why you need them.", "audio": true }
+    ],
+    [
+      { "value": "Contar a tu grupo" },
+      { "value": "tell your group", "audio": true },
+      {
+        "value": "To communicate information to the members of your group",
+        "audio": true
+      },
+      { "value": "Tell your group why you need the gadgets.", "audio": true }
+    ],
+    [
+      { "value": "Eligió (pasado de elegir)" },
+      { "value": "chose", "audio": true },
+      { "value": "Past tense of choose; selected", "audio": true },
+      { "value": "Which are the gadgets you chose?", "audio": true }
+    ],
+    [
+      { "value": "Más populares" },
+      { "value": "most popular", "audio": true },
+      {
+        "value": "Liked, enjoyed, or supported by the most people",
+        "audio": true
+      },
+      {
+        "value": "Which gadgets are the most popular in your group?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Foro" },
+      { "value": "forum", "audio": true },
+      {
+        "value": "A place, meeting, or medium where ideas and views can be exchanged",
+        "audio": true
+      },
+      {
+        "value": "This is a people forum topic about technology.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Tema" },
+      { "value": "topic", "audio": true },
+      {
+        "value": "A matter dealt with in a text, discourse, or conversation",
+        "audio": true
+      },
+      {
+        "value": "The topic is: Is technology a good or a bad thing?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cambiado tu vida" },
+      { "value": "changed your life", "audio": true },
+      {
+        "value": "Altered the course or nature of your existence",
+        "audio": true
+      },
+      { "value": "How have computers changed your life?", "audio": true }
+    ],
+    [
+      { "value": "Hacer negocios" },
+      { "value": "do business", "audio": true },
+      { "value": "To engage in commercial activity", "audio": true },
+      { "value": "Have they changed the way we do business?", "audio": true }
+    ],
+    [
+      { "value": "Cosas buenas y malas" },
+      { "value": "good and bad things", "audio": true },
+      { "value": "Positive and negative aspects", "audio": true },
+      {
+        "value": "Are there good and bad things about technology?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Rápido" },
+      { "value": "fast", "audio": true },
+      { "value": "Moving or capable of moving at high speed", "audio": true },
+      { "value": "Technology has made our lives very fast.", "audio": true }
+    ],
+    [
+      { "value": "Conveniente / Práctico" },
+      { "value": "convenient", "audio": true },
+      {
+        "value": "Fitting in well with a person's needs, activities, and plans",
+        "audio": true
+      },
+      { "value": "Technology is very convenient.", "audio": true }
+    ],
+    [
+      { "value": "Hecho (El)" },
+      { "value": "fact (The)", "audio": true },
+      { "value": "A thing that is known or proved to be true", "audio": true },
+      {
+        "value": "The fact is that it has also made us very lonely.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Solitario/a" },
+      { "value": "lonely", "audio": true },
+      { "value": "Sad because one has no friends or company", "audio": true },
+      { "value": "It has made us very lonely.", "audio": true }
+    ],
+    [
+      { "value": "Interactuar con máquinas" },
+      { "value": "interact with machines", "audio": true },
+      {
+        "value": "To communicate or react with technological devices",
+        "audio": true
+      },
+      {
+        "value": "We interact with machines for 8-10 hours a day.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Interactuar con otros humanos" },
+      { "value": "interacting with other humans", "audio": true },
+      { "value": "Communicating or reacting with other people", "audio": true },
+      {
+        "value": "We spend less time interacting with other humans.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Algo bueno" },
+      { "value": "good thing", "audio": true },
+      { "value": "Something positive or beneficial", "audio": true },
+      {
+        "value": "It seems to me that technology is a good thing.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Me permite" },
+      { "value": "allows me to", "audio": true },
+      { "value": "Gives me the opportunity or means to", "audio": true },
+      {
+        "value": "It allows me to find out what is really happening.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Averiguar / Descubrir" },
+      { "value": "find out", "audio": true },
+      { "value": "To discover a fact or piece of information", "audio": true },
+      {
+        "value": "I can find out what is really happening in the world.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Lo que realmente sucede en el mundo" },
+      { "value": "really happening in the world", "audio": true },
+      { "value": "The true events occurring globally", "audio": true },
+      {
+        "value": "It allows me to find out what is really happening in the world.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Quieren que yo crea" },
+      { "value": "want me to believe", "audio": true },
+      { "value": "Desire for me to accept something as true", "audio": true },
+      {
+        "value": "...not just what the media want me to believe.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Controlar" },
+      { "value": "control", "audio": true },
+      {
+        "value": "To determine the behavior or supervise the running of",
+        "audio": true
+      },
+      {
+        "value": "Some governments want to control what is available on the internet.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Disponible en internet" },
+      { "value": "available on the internet", "audio": true },
+      { "value": "Accessible or obtainable via the internet", "audio": true },
+      {
+        "value": "They want to control what is available on the internet.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Eso es esencial." },
+      { "value": "That's essential.", "audio": true }
+    ],
+    [{ "value": "Me encanta." }, { "value": "I love it.", "audio": true }],
+    [
+      { "value": "Lo uso [todo el tiempo/todos los días]..." },
+      { "value": "I use it [all the time/every day] ...", "audio": true }
+    ],
+    [
+      { "value": "No podría vivir sin..." },
+      { "value": "I couldn't live without ...", "audio": true }
+    ],
+    [
+      { "value": "Es bueno/Importante porque..." },
+      { "value": "It's good/Important because ...", "audio": true }
+    ],
+    [
+      { "value": "No voy a ningún sitio sin él/Lo llevo a todas partes." },
+      {
+        "value": "I don't go anywhere without it/I take it everywhere.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Lo necesito por si acaso... / en caso de que..." },
+      { "value": "I need it in case ...", "audio": true }
+    ],
+    [
+      { "value": "Supongo que no necesito..." },
+      { "value": "I suppose I don't need ...", "audio": true }
+    ],
+    [
+      { "value": "Puedo vivir sin..." },
+      { "value": "I can live without ...", "audio": true }
+    ],
+    [
+      { "value": "Es muy útil." },
+      { "value": "It's very useful.", "audio": true }
+    ],
+    [
+      {
+        "value": "¿Cómo han cambiado tu vida las computadoras, internet, el correo electrónico y los teléfonos móviles?"
+      },
+      {
+        "value": "How have computers, the internet, email and mobile phones changed your life?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Han cambiado la forma en que hacemos negocios?" },
+      { "value": "Have they changed the way we do business?", "audio": true }
+    ],
+    [
+      { "value": "¿Hay cosas buenas y malas sobre la tecnología?" },
+      {
+        "value": "Are there good and bad things about technology?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué piensas?" },
+      { "value": "What do you think?", "audio": true }
+    ],
+    [
+      {
+        "value": "La mayoría de la gente dice que la tecnología ha hecho nuestras vidas muy rápidas y muy convenientes. Pero yo no lo creo."
+      },
+      {
+        "value": "Most people say technology has made our lives very fast and very convenient. But I don't think so.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "El hecho es que también nos ha hecho sentir muy solos." },
+      {
+        "value": "The fact is that it has also made us very lonely.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Interactuamos con máquinas durante 8-10 horas al día y pasamos menos de 2-3 horas interactuando con otros humanos."
+      },
+      {
+        "value": "We interact with machines for 8-10 hours a day and spend less than 2-3 hours interacting with other humans.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "A mí me parece que la tecnología es algo bueno." },
+      {
+        "value": "It seems to me that technology is a good thing.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me permite averiguar lo que realmente está sucediendo en el mundo, no solo lo que los medios quieren que yo crea."
+      },
+      {
+        "value": "It allows me to find out what is really happening in the world, not just what the media want me to believe.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El problema es que algunos gobiernos también quieren controlar lo que está disponible en internet."
+      },
+      {
+        "value": "The problem is that some governments want to control what is available on the internet too.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "A mí me parece que la tecnología..." },
+      { "value": "It seems to me that technology _______.", "audio": true }
+    ],
+    [
+      {
+        "value": "La mayoría de la gente dice... Pero no estoy seguro/a de eso / Yo no lo creo. En mi opinión,..."
+      },
+      {
+        "value": "Most people say ________. But I'm not sure about that/I don't think so. In my opinion, _______________.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Por ejemplo,..." },
+      { "value": "For example, _______________.", "audio": true }
+    ],
+    [
+      { "value": "El hecho es que... / El problema es que..." },
+      {
+        "value": "The fact is that/The problem is that _______.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Finalmente,... La tecnología _______ mi vida." },
+      {
+        "value": "Finally, _______. Technology _______ my life.",
+        "audio": true
+      }
+    ]
+  ]
+}

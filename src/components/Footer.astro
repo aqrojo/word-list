@@ -1,0 +1,140 @@
+---
+import ProgressBar from "./ProgressBar.astro";
+
+interface Props {
+  currentIndex?: number;
+  totalTerms?: number;
+  showNavigation?: boolean;
+}
+
+const { currentIndex = 1, totalTerms = 0, showNavigation = true } = Astro.props;
+console.log("->", currentIndex, totalTerms, showNavigation);
+---
+
+<div>
+  <ProgressBar currentIndex={currentIndex} totalTerms={totalTerms} />
+  <footer
+    class="py-4 px-6 bg-gray-50 dark:bg-gray-800 transition-colors duration-200"
+  >
+    <div class="relative max-w-6xl mx-auto flex justify-between items-center">
+      <div
+        class="absolute top-5 left-0 w-full text-center text-gray-500 dark:text-gray-400 text-sm transition-colors"
+      >
+        <span id="progress-indicator">{currentIndex}/{totalTerms}</span> términos
+      </div>
+    </div>
+
+    {
+      showNavigation && (
+        <div
+          class="flex justify-center mt-4 gap-4"
+          style={{ transform: "translateY(-60px) scale(1.2)" }}
+        >
+          <button
+            id="prev-button"
+            class="w-12 h-12 flex items-center justify-center bg-gray-100 hover:bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600 rounded-full transition-colors"
+            aria-label="Anterior"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6 text-gray-600 dark:text-gray-300"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+          <button
+            id="down-button"
+            class="w-12 h-12 flex items-center justify-center bg-gray-100 hover:bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600 rounded-full transition-colors"
+            aria-label="Mostrar"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6 text-gray-600 dark:text-gray-300"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+          <button
+            id="next-button"
+            class="w-12 h-12 flex items-center justify-center bg-gray-100 hover:bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600 rounded-full transition-colors"
+            aria-label="Siguiente"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-6 w-6 text-gray-600 dark:text-gray-300"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+                clip-rule="evenodd"
+              />
+            </svg>
+          </button>
+        </div>
+      )
+    }
+  </footer>
+</div>
+
+<script>
+  // Obtener el elemento del indicador de progreso
+  const progressIndicator = document.getElementById("progress-indicator");
+
+  // Función para actualizar el indicador de progreso textual
+  function updateProgressText(current: number, total: number): void {
+    if (progressIndicator) {
+      progressIndicator.textContent = `${current}/${total}`;
+    }
+  }
+
+  // Extender la interfaz Window para incluir la función de actualización
+  interface Window {
+    updateProgressText: (current: number, total: number) => void;
+  }
+
+  // Exponer la función para que pueda ser usada por otros componentes
+  (window as any).updateProgressText = updateProgressText;
+
+  // Configurar los botones de navegación
+  const prevButton = document.getElementById("prev-button");
+  const downButton = document.getElementById("down-button");
+  const nextButton = document.getElementById("next-button");
+
+  if (prevButton) {
+    prevButton.addEventListener("click", () => {
+      // Simular la pulsación de la tecla de flecha izquierda
+      const event = new KeyboardEvent("keydown", { key: "ArrowLeft" });
+      document.dispatchEvent(event);
+    });
+  }
+
+  if (downButton) {
+    downButton.addEventListener("click", () => {
+      // Simular la pulsación de la tecla de flecha abajo
+      const event = new KeyboardEvent("keydown", { key: "ArrowDown" });
+      document.dispatchEvent(event);
+    });
+  }
+
+  if (nextButton) {
+    nextButton.addEventListener("click", () => {
+      // Simular la pulsación de la tecla de flecha derecha
+      const event = new KeyboardEvent("keydown", { key: "ArrowRight" });
+      document.dispatchEvent(event);
+    });
+  }
+</script>

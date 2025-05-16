@@ -1,0 +1,428 @@
+{
+  "nodes": [
+    [
+      { "value": "Teléfono móvil" },
+      { "value": "mobile phone", "audio": true },
+      { "value": "A portable telephone", "audio": true },
+      {
+        "value": "Can you remember life without a mobile phone?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Página web" },
+      { "value": "webpage", "audio": true },
+      {
+        "value": "A hypertext document connected to the World Wide Web",
+        "audio": true
+      },
+      { "value": "Do any of your friends have a webpage?", "audio": true }
+    ],
+    [
+      { "value": "SMS (Mensaje de texto)" },
+      { "value": "SMS (text message)", "audio": true },
+      { "value": "A short message sent electronically", "audio": true },
+      { "value": "Do you prefer to send an SMS (text message)?", "audio": true }
+    ],
+    [
+      { "value": "Enlaces" },
+      { "value": "links", "audio": true },
+      {
+        "value": "Connections from one web page or document to another",
+        "audio": true
+      },
+      { "value": "What kind of links do you read interesting?", "audio": true }
+    ],
+    [
+      { "value": "Blogs" },
+      { "value": "blogs", "audio": true },
+      { "value": "Regularly updated websites or web pages", "audio": true },
+      { "value": "Are there any blogs that you read regularly?", "audio": true }
+    ],
+    [
+      { "value": "Chatear en línea" },
+      { "value": "chat online", "audio": true },
+      {
+        "value": "To take part in an exchange of remarks over the internet",
+        "audio": true
+      },
+      { "value": "Do you like to chat online?", "audio": true }
+    ],
+    [
+      { "value": "Acabas de comprar" },
+      { "value": "just bought", "audio": true },
+      { "value": "Recently purchased", "audio": true },
+      {
+        "value": "Tell me about something you have just bought.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aún no has comprado" },
+      { "value": "haven’t bought yet", "audio": true },
+      { "value": "Not purchased up to the present time", "audio": true },
+      {
+        "value": "What is something you haven’t bought yet, but would like to?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Ya has pasado/gastado" },
+      { "value": "already spent", "audio": true },
+      { "value": "Previously used or consumed (time/money)", "audio": true },
+      {
+        "value": "Think of a place where you have already spent a lot of time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aún no has ido" },
+      { "value": "haven’t been to yet", "audio": true },
+      { "value": "Not visited up to the present time", "audio": true },
+      {
+        "value": "Name something you haven’t been to yet, but you plan to.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Acabas de terminar" },
+      { "value": "just finished", "audio": true },
+      { "value": "Recently completed", "audio": true },
+      { "value": "What is something you have just finished?", "audio": true }
+    ],
+    [
+      { "value": "Ya has hecho" },
+      { "value": "done already", "audio": true },
+      { "value": "Completed prior to the present moment", "audio": true },
+      {
+        "value": "What is something you have done already today?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Nervioso/a" },
+      { "value": "nervous", "audio": true },
+      { "value": "Easily agitated or alarmed; anxious", "audio": true },
+      { "value": "I feel nervous when I have to do an exam.", "audio": true }
+    ],
+    [
+      { "value": "Solitario/a" },
+      { "value": "lonely", "audio": true },
+      { "value": "Sad because one has no friends or company", "audio": true },
+      { "value": "I feel lonely when all my friends are busy.", "audio": true }
+    ],
+    [
+      { "value": "Aburrido/a" },
+      { "value": "bored", "audio": true },
+      {
+        "value": "Feeling weary and restless through lack of interest",
+        "audio": true
+      },
+      { "value": "I feel bored when I have nothing to do.", "audio": true }
+    ],
+    [
+      { "value": "Incómodo/a" },
+      { "value": "uncomfortable", "audio": true },
+      {
+        "value": "Causing or feeling slight pain or physical discomfort; uneasy",
+        "audio": true
+      },
+      {
+        "value": "I feel uncomfortable when I'm in a crowded place.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Confundido/a" },
+      { "value": "confused", "audio": true },
+      {
+        "value": "Unable to think clearly or to understand something",
+        "audio": true
+      },
+      {
+        "value": "I feel confused when the instructions are not clear.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Preocupado/a" },
+      { "value": "worried", "audio": true },
+      {
+        "value": "Feeling anxious or troubled about actual/potential problems",
+        "audio": true
+      },
+      {
+        "value": "I feel worried when I'm waiting for important news.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Asombrado/a" },
+      { "value": "amazed", "audio": true },
+      { "value": "Greatly surprised; filled with astonishment", "audio": true },
+      { "value": "I feel amazed when I see a beautiful sunset.", "audio": true }
+    ],
+    [
+      { "value": "Emocionado/a" },
+      { "value": "excited", "audio": true },
+      { "value": "Feeling very enthusiastic and eager", "audio": true },
+      {
+        "value": "I feel excited when I'm about to go on holiday.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Supersticiones" },
+      { "value": "superstitions", "audio": true },
+      { "value": "Beliefs not based on reason or knowledge", "audio": true },
+      {
+        "value": "Do you have the same superstitions in your country?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Trabajo en el extranjero" },
+      { "value": "job abroad", "audio": true },
+      { "value": "Employment in a foreign country", "audio": true },
+      { "value": "I might find a job abroad.", "audio": true }
+    ],
+    [
+      { "value": "Consecuencias" },
+      { "value": "consequences", "audio": true },
+      {
+        "value": "Results or effects of an action or condition",
+        "audio": true
+      },
+      { "value": "Discuss the possible consequences.", "audio": true }
+    ],
+    [
+      { "value": "Mudarse de casa" },
+      { "value": "move house", "audio": true },
+      { "value": "To change one's place of residence", "audio": true },
+      {
+        "value": "If I get the job abroad, I'll have to move house.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Sitios para compartir videos" },
+      { "value": "video sharing sites", "audio": true },
+      {
+        "value": "Websites that allow users to upload and view videos",
+        "audio": true
+      },
+      {
+        "value": "I think video sharing sites can be dangerous.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Peligroso" },
+      { "value": "dangerous", "audio": true },
+      { "value": "Able or likely to cause harm or injury", "audio": true },
+      { "value": "These sites can be dangerous.", "audio": true }
+    ],
+    [
+      { "value": "Subir videos" },
+      { "value": "upload videos", "audio": true },
+      {
+        "value": "To transfer video files from one's device to an online platform",
+        "audio": true
+      },
+      { "value": "Anyone can upload videos of illegal things.", "audio": true }
+    ],
+    [
+      { "value": "Cosas ilegales" },
+      { "value": "illegal things", "audio": true },
+      {
+        "value": "Activities or items that are against the law",
+        "audio": true
+      },
+      { "value": "They might upload videos of illegal things.", "audio": true }
+    ],
+    [
+      {
+        "value": "¿Puedes recordar la vida sin un teléfono móvil? ¿Usas uno todos los días?"
+      },
+      {
+        "value": "Can you remember life without a mobile phone? Do you use one every day?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Alguno de tus amigos tiene una página web?" },
+      { "value": "Do any of your friends have a webpage?", "audio": true }
+    ],
+    [
+      {
+        "value": "¿Prefieres hablar con alguien por teléfono o enviar un SMS (mensaje de texto)?"
+      },
+      {
+        "value": "Do you prefer to speak to someone on the phone or send an SMS (text message)?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué tipo de enlaces lees interesantes?" },
+      { "value": "What kind of links do you read interesting?", "audio": true }
+    ],
+    [
+      { "value": "¿Hay algún blog que leas regularmente? ¿Por qué te gustan?" },
+      {
+        "value": "Are there any blogs that you read regularly? Why do you like them?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Te gusta chatear en línea?" },
+      { "value": "Do you like to chat online?", "audio": true }
+    ],
+    [
+      {
+        "value": "A: Un coche nuevo. - ¿Acabas de comprar uno? B: Así es. A: ¿Qué tipo de coche compraste? B: Un Peugeot."
+      },
+      {
+        "value": "A: A new car. - Have you just bought one? B: That's right. A: What kind of car did you buy? B: A Peugeot.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si rompes un espejo, tendrás siete años de mala suerte." },
+      {
+        "value": "If you break a mirror, you will have seven years’ bad luck.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si caminas debajo de una escalera, te podría caer pintura en la cabeza."
+      },
+      {
+        "value": "If you walk under a ladder, paint might fall on your head.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si encuentras un penique en el suelo, tendrás buena suerte todo el día."
+      },
+      {
+        "value": "If you find a penny on the floor, you will have good luck all day.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si comes una manzana al día, mantendrá alejado al médico." },
+      {
+        "value": "If you eat an apple a day, it will keep the doctor away.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si regalas un regalo de bodas (ya recibido), tu matrimonio fracasará."
+      },
+      {
+        "value": "If you give away a wedding present, your marriage will fail.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si un bebé nace a las 12 en punto, será muy afortunado/a cuando crezca."
+      },
+      {
+        "value": "If a baby is born at 12 o’clock, he/she will be very lucky when he/she grows up.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Podría encontrar un trabajo en el extranjero. B: ¿Qué pasará si haces eso? A: Tendré que mudarme de casa."
+      },
+      {
+        "value": "A: I might find a job abroad. B: What will happen if you do that? A: I'll have to move house.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Creo que los sitios para compartir videos son malos para los niños. B: Me temo que estoy totalmente en desacuerdo."
+      },
+      {
+        "value": "A: I think video sharing sites are bad for children. B: I'm afraid I totally disagree.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "A: Nadie debería comer carne. B: No estoy seguro/a de eso." },
+      {
+        "value": "A: Nobody should eat meat. B: I'm not sure about that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: En mi opinión, todas las drogas deberían ser legales. B: Lo siento, pero no creo que sea una buena idea."
+      },
+      {
+        "value": "A: In my opinion, all drugs should be legal. B: I'm sorry, but I don't think that's a good idea.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Realmente creo que a los profesores se les debería pagar más dinero. B: Yo también lo creo."
+      },
+      {
+        "value": "A: I really think teachers should be paid more money. B: I think so too.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: ¿Crees que el próximo gobierno será mejor? B: ¡Definitivamente!"
+      },
+      {
+        "value": "A: Do you think the next government will be better? B: Definitely!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Los niños menores de diez años no deberían tener un teléfono móvil. B: No lo creo."
+      },
+      {
+        "value": "A: Children under the age of ten shouldn't have a mobile phone. B: I don't think so.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Nunca encuentro nada que quiera ver en televisión. Todo es basura. B: Estoy de acuerdo."
+      },
+      {
+        "value": "A: I can never find anything I want to watch on television. It's all rubbish. B: I agree.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Todos los policías deberían llevar armas. B: Estoy totalmente en desacuerdo."
+      },
+      {
+        "value": "A: Policemen should all carry guns. B: I totally disagree.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: Creo que los sitios para compartir videos pueden ser peligrosos. B: Sí, estoy de acuerdo. Cualquiera puede subir videos de cosas ilegales."
+      },
+      {
+        "value": "A: I think video sharing sites can be dangerous. B: Yes, I agree. Anyone can upload videos of illegal things.",
+        "audio": true
+      }
+    ]
+  ]
+}

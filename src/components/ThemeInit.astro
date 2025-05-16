@@ -1,0 +1,17 @@
+<script is:inline>
+  // Esta función se ejecuta antes que el resto del JavaScript para evitar parpadeos
+  // al cargar la página con un tema incorrecto
+  function initThemeEarly() {
+    const savedTheme = localStorage.getItem("theme");
+    const prefersDark = window.matchMedia(
+      "(prefers-color-scheme: dark)"
+    ).matches;
+
+    if (savedTheme === "dark" || (!savedTheme && prefersDark)) {
+      document.documentElement.classList.add("dark");
+    }
+  }
+
+  initThemeEarly();
+</script>
+

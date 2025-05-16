@@ -1,0 +1,44 @@
+---
+interface Props {
+  currentIndex: number;
+  totalTerms: number;
+}
+
+const { currentIndex = 1, totalTerms = 1 } = Astro.props;
+const percentage = Math.min(
+  Math.max((currentIndex / totalTerms) * 100, 0),
+  100
+);
+---
+
+<div
+  class="w-full bg-gray-100 dark:bg-gray-700 h-1 transition-colors duration-200"
+>
+  <div
+    id="progress-bar"
+    class="h-full bg-primary-500 dark:bg-primary-400 transition-all duration-300 ease-in-out"
+    style={`width: ${percentage}%`}
+  >
+  </div>
+</div>
+
+<script>
+  // Obtener la barra de progreso
+  const progressBar = document.getElementById("progress-bar");
+
+  // Función para actualizar la barra de progreso
+  function updateProgressBar(current: number, total: number): void {
+    if (!progressBar) return;
+
+    const percentage = Math.min(Math.max((current / total) * 100, 0), 100);
+    progressBar.style.width = `${percentage}%`;
+  }
+
+  // Extender la interfaz Window para incluir la función updateProgressBar
+  interface Window {
+    updateProgressBar: (current: number, total: number) => void;
+  }
+
+  // Exponer la función para que pueda ser usada por otros componentes
+  (window as any).updateProgressBar = updateProgressBar;
+</script>

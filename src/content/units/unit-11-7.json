@@ -1,0 +1,535 @@
+{
+  "nodes": [
+    [
+      { "value": "Teléfono inteligente" },
+      { "value": "smart phone", "audio": true },
+      {
+        "value": "A mobile phone with advanced computing capabilities",
+        "audio": true
+      },
+      { "value": "Most people own a smart phone nowadays.", "audio": true }
+    ],
+    [
+      { "value": "Portátil (ordenador)" },
+      { "value": "laptop", "audio": true },
+      { "value": "A portable computer", "audio": true },
+      { "value": "I use my laptop for work every day.", "audio": true }
+    ],
+    [
+      { "value": "Televisión / Televisor" },
+      { "value": "TV", "audio": true },
+      { "value": "Television set", "audio": true },
+      { "value": "How many hours do you watch TV per week?", "audio": true }
+    ],
+    [
+      { "value": "Reproductor de DVD" },
+      { "value": "DVD player", "audio": true },
+      { "value": "A device that plays DVDs", "audio": true },
+      { "value": "DVD players are less common now.", "audio": true }
+    ],
+    [
+      { "value": "Microondas" },
+      { "value": "microwave", "audio": true },
+      {
+        "value": "An oven using microwaves to cook or heat food quickly",
+        "audio": true
+      },
+      { "value": "I heat my lunch in the microwave.", "audio": true }
+    ],
+    [
+      { "value": "Tableta" },
+      { "value": "tablet", "audio": true },
+      {
+        "value": "A portable PC, typically with a touchscreen display",
+        "audio": true
+      },
+      { "value": "Children often use a tablet to play games.", "audio": true }
+    ],
+    [
+      { "value": "Cámara digital" },
+      { "value": "digital camera", "audio": true },
+      {
+        "value": "A camera that records images in digital form",
+        "audio": true
+      },
+      { "value": "I bought a new digital camera for my trip.", "audio": true }
+    ],
+    [
+      { "value": "Poseer / Ser dueño de" },
+      { "value": "own", "audio": true },
+      { "value": "To possess; have something as one's own", "audio": true },
+      { "value": "Which of these items do you own?", "audio": true }
+    ],
+    [
+      { "value": "Todos los días" },
+      { "value": "every day", "audio": true },
+      { "value": "Happening or used each day", "audio": true },
+      { "value": "Which devices do you use every day?", "audio": true }
+    ],
+    [
+      { "value": "Artículos / Objetos" },
+      { "value": "items", "audio": true },
+      { "value": "Individual articles or units", "audio": true },
+      { "value": "Which items are the most useful?", "audio": true }
+    ],
+    [
+      { "value": "Útil" },
+      { "value": "useful", "audio": true },
+      { "value": "Able to be used for a practical purpose", "audio": true },
+      { "value": "A smart phone is very useful.", "audio": true }
+    ],
+    [
+      { "value": "Clasificar / Ordenar" },
+      { "value": "rank", "audio": true },
+      {
+        "value": "To give (someone or something) a rank or place within a grading system",
+        "audio": true
+      },
+      {
+        "value": "Please rank the items from most to least useful.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Promedio" },
+      { "value": "average", "audio": true },
+      {
+        "value": "A standard or level considered typical or usual",
+        "audio": true
+      },
+      {
+        "value": "A child watches TV for an average of X hours.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Por ciento" },
+      { "value": "percent", "audio": true },
+      {
+        "value": "By a specified amount in or for every hundred",
+        "audio": true
+      },
+      { "value": "More than X percent of children have a TV.", "audio": true }
+    ],
+    [
+      { "value": "Niños de escuela primaria" },
+      { "value": "primary school children", "audio": true },
+      {
+        "value": "Children attending the first stage of compulsory education",
+        "audio": true
+      },
+      {
+        "value": "Primary school children often watch cartoons.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Dormitorio / Habitación" },
+      { "value": "bedroom", "audio": true },
+      { "value": "A room for sleeping in", "audio": true },
+      { "value": "Many children have a TV in their bedroom.", "audio": true }
+    ],
+    [
+      { "value": "Pasar (tiempo)" },
+      { "value": "spend (time)", "audio": true },
+      { "value": "To pass time in a specified way or place", "audio": true },
+      {
+        "value": "The average person spends X years watching TV.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Menores de tres años" },
+      { "value": "under three years old", "audio": true },
+      { "value": "Children younger than the age of three", "audio": true },
+      {
+        "value": "Children under three years old watch a lot of TV.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Concentrarse" },
+      { "value": "concentrating", "audio": true },
+      {
+        "value": "Focusing all one's attention on a particular object or activity",
+        "audio": true
+      },
+      {
+        "value": "TV may cause problems concentrating at school.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Conversaciones significativas" },
+      { "value": "meaningful conversations", "audio": true },
+      {
+        "value": "Discussions that are serious, important, or useful",
+        "audio": true
+      },
+      {
+        "value": "Families spend little time having meaningful conversations.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Por semana" },
+      { "value": "per week", "audio": true },
+      { "value": "For each week", "audio": true },
+      { "value": "How many hours do you watch TV per week?", "audio": true }
+    ],
+    [
+      { "value": "Demasiado" },
+      { "value": "too much", "audio": true },
+      { "value": "An excessive amount", "audio": true },
+      {
+        "value": "Do you think watching 5 hours a day is too much?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No suficiente" },
+      { "value": "not enough", "audio": true },
+      { "value": "Less than the required or desired amount", "audio": true },
+      {
+        "value": "Maybe watching only 1 hour per week is not enough.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Información del programa" },
+      { "value": "programme information", "audio": true },
+      { "value": "Details about a TV show or documentary", "audio": true },
+      { "value": "Read the programme information first.", "audio": true }
+    ],
+    [
+      { "value": "Quitados / Retirados" },
+      { "value": "taken away", "audio": true },
+      { "value": "Removed from a person's possession", "audio": true },
+      {
+        "value": "Their televisions and video games are taken away.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Padres" },
+      { "value": "parents", "audio": true },
+      { "value": "A person's father or mother", "audio": true },
+      { "value": "How do you think the parents will feel?", "audio": true }
+    ],
+    [
+      { "value": "Sentir(se)" },
+      { "value": "feel", "audio": true },
+      { "value": "To experience an emotion or sensation", "audio": true },
+      {
+        "value": "How will the parents feel during the experiment?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Experimento" },
+      { "value": "experiment", "audio": true },
+      {
+        "value": "A scientific procedure undertaken to test a hypothesis or demonstrate a fact",
+        "audio": true
+      },
+      {
+        "value": "The documentary shows families in an experiment.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Serie documental" },
+      { "value": "documentary series", "audio": true },
+      { "value": "A series of documentary films or programmes", "audio": true },
+      { "value": "Panorama is a BBC documentary series.", "audio": true }
+    ],
+    [
+      { "value": "Analiza / Examina" },
+      { "value": "looks at", "audio": true },
+      { "value": "Considers or examines something", "audio": true },
+      { "value": "The series looks at important issues.", "audio": true }
+    ],
+    [
+      { "value": "Asuntos / Temas" },
+      { "value": "issues", "audio": true },
+      {
+        "value": "Important topics or problems for debate or discussion",
+        "audio": true
+      },
+      {
+        "value": "It looks at important issues like the effect of TV on kids.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Familias" },
+      { "value": "families", "audio": true },
+      {
+        "value": "Groups consisting of parents and children living together",
+        "audio": true
+      },
+      { "value": "Several families have to live without TV.", "audio": true }
+    ],
+    [
+      { "value": "Vivir sin" },
+      { "value": "live without", "audio": true },
+      {
+        "value": "To manage or survive in the absence of something typically available",
+        "audio": true
+      },
+      {
+        "value": "They have to live without televisions, computers and video games.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Sobrevivir" },
+      { "value": "survive", "audio": true },
+      {
+        "value": "To continue to live or exist, especially in spite of danger/hardship",
+        "audio": true
+      },
+      { "value": "Can the families survive without technology?", "audio": true }
+    ],
+    [
+      { "value": "Aprender de" },
+      { "value": "learn from", "audio": true },
+      {
+        "value": "To gain knowledge or skill from an experience",
+        "audio": true
+      },
+      { "value": "What can we learn from the experiment?", "audio": true }
+    ],
+    [
+      { "value": "Engordar" },
+      { "value": "get fat", "audio": true },
+      { "value": "To become overweight", "audio": true },
+      { "value": "Do children who watch too much TV get fat?", "audio": true }
+    ],
+    [
+      { "value": "Escuela secundaria" },
+      { "value": "secondary school", "audio": true },
+      { "value": "School attended after primary school", "audio": true },
+      { "value": "The programme went to a secondary school.", "audio": true }
+    ],
+    [
+      { "value": "Hogares" },
+      { "value": "homes", "audio": true },
+      { "value": "The place where one lives permanently", "audio": true },
+      {
+        "value": "They took microwaves out of the homes of children.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mitad" },
+      { "value": "half", "audio": true },
+      {
+        "value": "Either of two equal or corresponding parts into which something is divided",
+        "audio": true
+      },
+      { "value": "Half the children in the class participated.", "audio": true }
+    ],
+    [
+      { "value": "Grabar" },
+      { "value": "record", "audio": true },
+      {
+        "value": "To convert sound or vision into a permanent form for later reproduction",
+        "audio": true
+      },
+      {
+        "value": "They gave the children a camera to record events.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Trabajar más duro" },
+      { "value": "work harder", "audio": true },
+      { "value": "To put more effort into one's job or tasks", "audio": true },
+      { "value": "The parents had to work harder without TVs.", "audio": true }
+    ],
+    [
+      { "value": "Misma cantidad" },
+      { "value": "same amount", "audio": true },
+      { "value": "An equal quantity or number", "audio": true },
+      {
+        "value": "They watched the same amount of TV as before.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mantener entretenidos a los niños" },
+      { "value": "keep children entertained", "audio": true },
+      {
+        "value": "To provide children with amusement or enjoyment",
+        "audio": true
+      },
+      {
+        "value": "How do parents keep their children entertained?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cuáles de las cosas... posees?" },
+      { "value": "Which of the things... do you own?", "audio": true }
+    ],
+    [
+      { "value": "¿Cuáles usas todos los días?" },
+      { "value": "Which do you use every day?", "audio": true }
+    ],
+    [
+      { "value": "¿Qué artículos... son los más útiles?" },
+      { "value": "Which items... are the most useful?", "audio": true }
+    ],
+    [
+      { "value": "Clasifica los artículos." },
+      { "value": "Rank the items.", "audio": true }
+    ],
+    [
+      { "value": "1 En EE.UU. un niño ve la TV una media de __ horas al día." },
+      {
+        "value": "1 In the USA a child watches TV for an average of __ hours a day.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "2 En partes del Reino Unido, más del __ por ciento de los niños de escuela primaria tienen una TV en su dormitorio."
+      },
+      {
+        "value": "2 In parts of the UK, more than __ percent of primary school children have a TV in their bedroom.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "3 La persona promedio pasa __ años comiendo y __ años viendo la TV."
+      },
+      {
+        "value": "3 The average person spends __ years eating and __ years watching TV.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "4 Los niños menores de tres años que ven más de __ hora(s) de TV al día pueden tener problemas para concentrarse en la escuela cuando son mayores."
+      },
+      {
+        "value": "4 Children under three years old who watch more than __ hour(s) of TV a day may have problems concentrating at school when they are older.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "5 En EE.UU. algunas familias pasan solo __ minutos a la semana teniendo conversaciones significativas con sus hijos. Esos niños pasan __ minutos a la semana viendo la TV."
+      },
+      {
+        "value": "5 In the USA some families spend only __ minutes a week having meaningful conversations with their children. Those children spend __ minutes a week watching TV.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cuántas horas pasas viendo la TV por semana?" },
+      {
+        "value": "How many hours do you spend watching TV per week?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "1 ¿Qué crees que harán los niños cuando les quiten sus televisiones y videojuegos?"
+      },
+      {
+        "value": "1 What do you think the children will do when their televisions and video games are taken away?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "2 ¿Cómo crees que se sentirán los padres durante el experimento?"
+      },
+      {
+        "value": "2 How do you think the parents will feel during the experiment?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Es mala la TV para los niños?" },
+      { "value": "Is TV Bad For Kids?", "audio": true }
+    ],
+    [
+      { "value": "Vivir sin televisiones, computadoras y videojuegos." },
+      {
+        "value": "live without televisions, computers and video games",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "1 Los niños que ven demasiada TV engordan." },
+      { "value": "1 Children who watch too much TV get fat.", "audio": true }
+    ],
+    [
+      {
+        "value": "2 El programa Panorama fue a una escuela secundaria en Manchester."
+      },
+      {
+        "value": "2 The programme Panorama went to a secondary school in Manchester.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "3 Sacaron los microondas de los hogares de la mitad de los niños de la clase."
+      },
+      {
+        "value": "3 They took the microwaves out of the homes of half the children in the class.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "4 Dieron a los niños una cámara para grabar lo que sucedió."
+      },
+      {
+        "value": "4 They gave the children a camera to record what happened.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "5 Los padres tuvieron que trabajar mucho más duro cuando no había televisiones."
+      },
+      {
+        "value": "5 The parents had to work a lot harder when there were no TVs.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "6 Después del experimento, las familias vieron la misma cantidad de TV que antes."
+      },
+      {
+        "value": "6 After the experiment, the families watched the same amount of TV as before.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "1 ¿Qué piensas del experimento? ¿Crees que fue una buena idea?"
+      },
+      {
+        "value": "1 What do you think of the experiment? Do you think it was a good idea?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "2 ¿Cómo mantienen entretenidos los padres a sus hijos en tu país?"
+      },
+      {
+        "value": "2 How do parents keep their children entertained in your country?",
+        "audio": true
+      }
+    ]
+  ]
+}

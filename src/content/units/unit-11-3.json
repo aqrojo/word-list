@@ -1,0 +1,424 @@
+{
+  "nodes": [
+    [
+      { "value": "Tender a usar" },
+      { "value": "tend to use", "audio": true },
+      { "value": "To often or usually do something", "audio": true },
+      {
+        "value": "I tend to use social media sites when I’m bored.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aburrido/a" },
+      { "value": "bored", "audio": true },
+      {
+        "value": "Feeling weary and restless through lack of interest",
+        "audio": true
+      },
+      {
+        "value": "I get bored if I have nothing to do for a long time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Nervioso/a" },
+      { "value": "nervous", "audio": true },
+      { "value": "Easily agitated or alarmed; anxious", "audio": true },
+      { "value": "Social media makes me feel nervous.", "audio": true }
+    ],
+    [
+      { "value": "Incómodo/a" },
+      { "value": "uncomfortable", "audio": true },
+      {
+        "value": "Causing or feeling slight pain or physical discomfort",
+        "audio": true
+      },
+      {
+        "value": "I’m uncomfortable sharing information with people I don’t know.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Compartir información" },
+      { "value": "sharing information", "audio": true },
+      { "value": "Giving personal details or data to others", "audio": true },
+      { "value": "Sharing information online can be risky.", "audio": true }
+    ],
+    [
+      { "value": "Asombrado/a" },
+      { "value": "amazed", "audio": true },
+      { "value": "Greatly surprised; filled with astonishment", "audio": true },
+      {
+        "value": "I’m always amazed by how much useful information you can find.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Información útil" },
+      { "value": "useful information", "audio": true },
+      { "value": "Information that is helpful or beneficial", "audio": true },
+      {
+        "value": "Social media can be a source of useful information.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Encontrar (en redes)" },
+      { "value": "find (on social media)", "audio": true },
+      {
+        "value": "To discover something on social media platforms",
+        "audio": true
+      },
+      { "value": "You can find old friends on social media.", "audio": true }
+    ],
+    [
+      { "value": "Herramienta de aprendizaje" },
+      { "value": "learning tool", "audio": true },
+      { "value": "Something used to facilitate learning", "audio": true },
+      {
+        "value": "For me, social media is like a learning tool.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Confundido/a en cuanto a por qué" },
+      { "value": "confused as to why", "audio": true },
+      { "value": "Not understanding the reason for something", "audio": true },
+      {
+        "value": "I’m confused as to why this app is so popular.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Preocupado/a" },
+      { "value": "worried", "audio": true },
+      {
+        "value": "Feeling anxious or troubled about actual/potential problems",
+        "audio": true
+      },
+      {
+        "value": "I’m worried that it actually makes people feel lonely.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Solitario/a" },
+      { "value": "lonely", "audio": true },
+      { "value": "Sad because one has no friends or company", "audio": true },
+      {
+        "value": "Some people feel lonely even with many online 'friends'.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "En lugar de" },
+      { "value": "instead of", "audio": true },
+      { "value": "As an alternative to", "audio": true },
+      {
+        "value": "Instead of calling, many people send messages.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cientos de" },
+      { "value": "hundreds of", "audio": true },
+      {
+        "value": "A large number, approximately many times 100",
+        "audio": true
+      },
+      {
+        "value": "Young people now have hundreds of ‘friends’ they know nothing about.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Emocionado/a por" },
+      { "value": "excited about", "audio": true },
+      {
+        "value": "Feeling very enthusiastic and eager about something",
+        "audio": true
+      },
+      { "value": "I’m really excited about the new project.", "audio": true }
+    ],
+    [
+      { "value": "Cambiar el mundo" },
+      { "value": "change the world", "audio": true },
+      {
+        "value": "To have a significant impact on global affairs/society",
+        "audio": true
+      },
+      {
+        "value": "Many believe technology can help people to change the world.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mantenerse en contacto" },
+      { "value": "keep in touch", "audio": true },
+      { "value": "To maintain communication with someone", "audio": true },
+      {
+        "value": "Social media can be a good way to keep in touch with friends.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Chatear / Conversar" },
+      { "value": "chat", "audio": true },
+      { "value": "To talk in a friendly and informal way", "audio": true },
+      { "value": "People chat about the latest news online.", "audio": true }
+    ],
+    [
+      { "value": "Última descarga de música" },
+      { "value": "latest music download", "audio": true },
+      {
+        "value": "The most recent music obtained from the internet",
+        "audio": true
+      },
+      { "value": "They talk about the latest music download.", "audio": true }
+    ],
+    [
+      { "value": "Jugar videojuegos" },
+      { "value": "play games", "audio": true },
+      { "value": "To engage in games, often electronic", "audio": true },
+      { "value": "Friends play games with each other online.", "audio": true }
+    ],
+    [
+      { "value": "Tecnología móvil" },
+      { "value": "mobile technology", "audio": true },
+      { "value": "Technology used for cellular communication", "audio": true },
+      { "value": "Many young people use mobile technology.", "audio": true }
+    ],
+    [
+      { "value": "Generación" },
+      { "value": "generation", "audio": true },
+      {
+        "value": "All of the people born and living at about the same time",
+        "audio": true
+      },
+      {
+        "value": "If this generation isn’t happy, they’ll use social media.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Políticos" },
+      { "value": "politicians", "audio": true },
+      {
+        "value": "People who are professionally involved in politics",
+        "audio": true
+      },
+      {
+        "value": "They won’t wait for politicians to change things.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Marcar la diferencia" },
+      { "value": "make a difference", "audio": true },
+      {
+        "value": "To have a significant positive effect on a person/situation",
+        "audio": true
+      },
+      {
+        "value": "Young people use social media to really make a difference.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Usas las redes sociales?" },
+      { "value": "Do you use social media?", "audio": true }
+    ],
+    [
+      { "value": "¿Cuáles son populares en tu país?" },
+      { "value": "Which ones are popular in your country?", "audio": true }
+    ],
+    [
+      { "value": "¿Estás de acuerdo con las opiniones de abajo?" },
+      { "value": "Do you agree with the opinions below?", "audio": true }
+    ],
+    [
+      {
+        "value": "Tiendo a usar sitios de redes sociales cuando estoy aburrido/a y no hay nada mejor que hacer."
+      },
+      {
+        "value": "I tend to use social media sites when I’m bored and there’s nothing better to do.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Las redes sociales me hacen sentir nervioso/a. Me siento incómodo/a compartiendo información con gente que no conozco."
+      },
+      {
+        "value": "Social media makes me feel nervous. I’m uncomfortable sharing information with people I don’t know.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Siempre me asombra cuánta información útil puedes encontrar en las redes sociales. Para mí, es como una herramienta de aprendizaje."
+      },
+      {
+        "value": "I’m always amazed by how much useful information you can find on social media. For me, it’s like a learning tool.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy confundido/a en cuanto a por qué las redes sociales son tan populares. Me preocupa que en realidad hagan sentir solas a las personas."
+      },
+      {
+        "value": "I’m confused as to why social media is so popular. I’m worried that it actually makes people feel lonely.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En lugar de tener unos pocos amigos realmente buenos con los que pueden hablar, los jóvenes ahora tienen cientos de 'amigos' de los que no saben nada."
+      },
+      {
+        "value": "Instead of having a few really good friends who they can talk to, young people now have hundreds of ‘friends’ who they know nothing about.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy realmente emocionado/a por las redes sociales porque creo que pueden ayudar a la gente a cambiar el mundo."
+      },
+      {
+        "value": "I’m really excited about social media because I think it can help people to change the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A: La última vez que estuve realmente emocionado/a fue antes de mi fiesta de cumpleaños."
+      },
+      {
+        "value": "A: The last time I was really excited was before my birthday party.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "B: ¿En serio? ¿Qué hiciste?" },
+      { "value": "B: Really? What did you do?", "audio": true }
+    ],
+    [
+      { "value": "A: Hice una barbacoa en el jardín." },
+      { "value": "A: I had a barbecue in the garden.", "audio": true }
+    ],
+    [
+      {
+        "value": "Para algunas personas, las redes sociales podrían ser una buena manera de mantenerse en contacto con amigos, chatear sobre la última descarga de música o jugar videojuegos entre ellos."
+      },
+      {
+        "value": "For some people, social media might be a good way to keep in touch with friends, chat about the latest music download, or play games with each other.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero las redes sociales también están siendo utilizadas por los jóvenes para cambiar el mundo."
+      },
+      {
+        "value": "But social media is also being used by young people to change the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El 43 por ciento de los jóvenes tiene 24 años o menos, y muchos de estos jóvenes usan tecnología móvil."
+      },
+      {
+        "value": "43 percent of young people are 24 years old or younger, and many of these young people use mobile technology.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si esta generación no está contenta con algo, no esperarán a que los políticos lo cambien, usarán las redes sociales para cambiar las cosas ellos mismos."
+      },
+      {
+        "value": "If this generation isn’t happy about something, they won’t wait for politicians to change it, they’ll use social media to change things themselves.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estos son algunos ejemplos de cómo los jóvenes de todo el mundo usan la tecnología y las redes sociales para realmente marcar la diferencia."
+      },
+      {
+        "value": "These are some examples of how young people from around the world use technology and social media to really make a difference.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lee la introducción a un artículo y responde las preguntas."
+      },
+      {
+        "value": "Read the introduction to an article and answer the questions.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué tipo de situaciones crees que la gente puede cambiar usando las redes sociales?"
+      },
+      {
+        "value": "What kind of situations do you think people can change by using social networks?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cómo crees que podrían hacer esto?" },
+      { "value": "How do you think they might do this?", "audio": true }
+    ],
+    [
+      { "value": "Lee el resto del artículo. ¿Menciona tus ideas?" },
+      {
+        "value": "Read the rest of the article. Does it mention your ideas?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo pueden las redes sociales ayudar a los jóvenes a organizar el cambio político?"
+      },
+      {
+        "value": "How can social media help young people to organize political change?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué quería hacer McKenna Pope? ¿Tuvo éxito?" },
+      {
+        "value": "What did McKenna Pope want to do? Was she successful?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cómo empezó la fundación Karen Klein?" },
+      { "value": "How did the Karen Klein foundation start?", "audio": true }
+    ],
+    [
+      {
+        "value": "¿Qué ejemplos en el artículo crees que son buenos usos de las redes sociales?"
+      },
+      {
+        "value": "Which examples in the article do you think are good uses of social media?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Usarías las redes sociales para este tipo de cosas? ¿Por qué / Por qué no?"
+      },
+      {
+        "value": "Would you use social media for these kinds of things? Why/Why not?",
+        "audio": true
+      }
+    ]
+  ]
+}

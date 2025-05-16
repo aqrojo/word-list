@@ -1,0 +1,607 @@
+{
+  "nodes": [
+    [
+      { "value": "Cambio social" },
+      { "value": "Social change", "audio": true },
+      {
+        "value": "Transformation in social order/structures in a society",
+        "audio": true
+      },
+      {
+        "value": "Education can be a powerful tool for social change.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Protestas políticas" },
+      { "value": "Political protests", "audio": true },
+      {
+        "value": "Public expressions of objection to government policies",
+        "audio": true
+      },
+      {
+        "value": "Political protests erupted across the country.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Organizar(se)" },
+      { "value": "Organize", "audio": true },
+      {
+        "value": "Arrange or structure in a systematic way; gather people",
+        "audio": true
+      },
+      {
+        "value": "They helped organize a community fundraising event.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Gobiernos" },
+      { "value": "Governments", "audio": true },
+      {
+        "value": "The governing body of a nation, state, or community",
+        "audio": true
+      },
+      {
+        "value": "People expect governments to provide basic services.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Medios (de comunicación)" },
+      { "value": "Media", "audio": true },
+      {
+        "value": "Main means of mass communication (e.g., TV, internet)",
+        "audio": true
+      },
+      {
+        "value": "The media plays a crucial role in informing the public.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Comunidades" },
+      { "value": "Communities", "audio": true },
+      {
+        "value": "Groups of people living together or sharing interests",
+        "audio": true
+      },
+      {
+        "value": "Online communities connect people with shared hobbies.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Luchar contra" },
+      { "value": "Fight against", "audio": true },
+      { "value": "To take action to stop or defeat something", "audio": true },
+      { "value": "We need to fight against injustice.", "audio": true }
+    ],
+    [
+      { "value": "Injusto" },
+      { "value": "Unfair", "audio": true },
+      {
+        "value": "Not based on or behaving according to fairness",
+        "audio": true
+      },
+      {
+        "value": "It felt unfair that only one person received a prize.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Economía global" },
+      { "value": "Global economy", "audio": true },
+      {
+        "value": "The interconnected worldwide economic activities",
+        "audio": true
+      },
+      {
+        "value": "The global economy is affected by events in different countries.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El cambio social ha sido muy importante para las protestas políticas y el cambio social en todo el mundo."
+      },
+      {
+        "value": "Social change has been very important for political protests and social change around the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Grandes grupos de personas ahora pueden organizarse rápidamente para protestar contra los gobiernos y usar los medios para mostrar al resto del mundo lo que está sucediendo."
+      },
+      {
+        "value": "Large groups of people can now quickly organize themselves to protest against governments and use media to show the rest of the world what’s happening.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Grupos como Occupy Wall Street construyen comunidades en línea que intentan luchar contra lo que ven como una economía global injusta."
+      },
+      {
+        "value": "Groups like Occupy Wall Street build online communities which try to fight against what they see as an unfair global economy.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Disfrutaba" },
+      { "value": "Enjoyed", "audio": true },
+      {
+        "value": "Past tense of enjoy; took delight or pleasure in",
+        "audio": true
+      },
+      {
+        "value": "Her younger brother enjoyed cooking with his new toy.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cocinar" },
+      { "value": "Cooking", "audio": true },
+      { "value": "The practice or skill of preparing food", "audio": true },
+      { "value": "Cooking can be a relaxing hobby.", "audio": true }
+    ],
+    [
+      { "value": "Horno de juguete" },
+      { "value": "Toy oven", "audio": true },
+      {
+        "value": "A toy that resembles a real oven for children to play with",
+        "audio": true
+      },
+      { "value": "She wanted to buy her brother a toy oven.", "audio": true }
+    ],
+    [
+      { "value": "Regalo" },
+      { "value": "Present", "audio": true },
+      {
+        "value": "A gift; something given to someone without payment",
+        "audio": true
+      },
+      { "value": "He received many presents for his birthday.", "audio": true }
+    ],
+    [
+      { "value": "Diseñado para" },
+      { "value": "Designed for", "audio": true },
+      {
+        "value": "Created or intended for a particular purpose or person",
+        "audio": true
+      },
+      { "value": "The toy ovens were designed for girls.", "audio": true }
+    ],
+    [
+      { "value": "Petición" },
+      { "value": "Petition", "audio": true },
+      {
+        "value": "A formal written request, typically signed by many people",
+        "audio": true
+      },
+      {
+        "value": "She started an online petition to the toy company.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pedir / Solicitar" },
+      { "value": "Asking", "audio": true },
+      {
+        "value": "Requesting someone to do or provide something",
+        "audio": true
+      },
+      {
+        "value": "The petition was asking them to make ovens for boys.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Firmas" },
+      { "value": "Signatures", "audio": true },
+      {
+        "value": "A person's name written in a distinctive way as validation",
+        "audio": true
+      },
+      {
+        "value": "The petition quickly gathered thousands of signatures.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Empaque / Embalaje" },
+      { "value": "Packaging", "audio": true },
+      { "value": "Materials used to wrap or protect goods", "audio": true },
+      {
+        "value": "Hasbro decided to change the packaging for their ovens.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "McKenna Pope, de 13 años, vio que a su hermano menor le gustaba cocinar y quiso comprarle un horno de juguete como regalo."
+      },
+      {
+        "value": "13-year-old McKenna Pope saw that her younger brother enjoyed cooking and wanted to buy him a toy oven as a present.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Buscó en línea, pero descubrió que solo podía comprar hornos de juguete diseñados para niñas."
+      },
+      {
+        "value": "She went online, but found that she could only buy toy ovens designed for girls.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Decidió iniciar una petición en línea a Hasbro Toys pidiéndoles que hicieran hornos de juguete para niños."
+      },
+      {
+        "value": "She decided to start an online petition to Hasbro toys asking them to make toy ovens for boys.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En menos de un mes, su petición recibió 45,000 firmas y Hasbro decidió cambiar el empaque de sus hornos."
+      },
+      {
+        "value": "In less than a month her petition received 45,000 signatures and Hasbro decided to change the packaging for their ovens.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Intimidadores adolescentes" },
+      { "value": "Teenage bullies", "audio": true },
+      {
+        "value": "Young people who habitually seek to harm or intimidate others",
+        "audio": true
+      },
+      {
+        "value": "Teenage bullies filmed the school bus driver.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Filmado" },
+      { "value": "Filmed", "audio": true },
+      {
+        "value": "Past tense of film; recorded an event with a camera",
+        "audio": true
+      },
+      { "value": "They filmed themselves making him cry.", "audio": true }
+    ],
+    [
+      { "value": "Conductor de autobús escolar" },
+      { "value": "School bus driver", "audio": true },
+      {
+        "value": "A person who drives a bus that transports students",
+        "audio": true
+      },
+      { "value": "The school bus driver was visibly upset.", "audio": true }
+    ],
+    [
+      { "value": "Llorar" },
+      { "value": "Cry", "audio": true },
+      {
+        "value": "Shed tears, typically as an expression of distress",
+        "audio": true
+      },
+      { "value": "The video showed the driver starting to cry.", "audio": true }
+    ],
+    [
+      { "value": "Subieron (a internet)" },
+      { "value": "Uploaded", "audio": true },
+      {
+        "value": "Transferred data from one computer system to another",
+        "audio": true
+      },
+      { "value": "They uploaded the video to YouTube.", "audio": true }
+    ],
+    [
+      { "value": "Se hizo viral" },
+      { "value": "Went viral", "audio": true },
+      {
+        "value": "Became very popular by circulating quickly on the internet",
+        "audio": true
+      },
+      { "value": "The video quickly went viral.", "audio": true }
+    ],
+    [
+      { "value": "Conmocionado / Impactado" },
+      { "value": "Shocked", "audio": true },
+      {
+        "value": "Surprised and upset by something unexpected and unpleasant",
+        "audio": true
+      },
+      { "value": "He was shocked when he saw the video.", "audio": true }
+    ],
+    [
+      { "value": "Campaña" },
+      { "value": "Campaign", "audio": true },
+      {
+        "value": "An organized course of action to achieve a particular goal",
+        "audio": true
+      },
+      {
+        "value": "He started a campaign to raise money for her.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Recaudar fondos" },
+      { "value": "Raise money", "audio": true },
+      { "value": "Collect money for a particular purpose", "audio": true },
+      {
+        "value": "The campaign aimed to raise money for a holiday.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Vacaciones / Descanso" },
+      { "value": "Holiday", "audio": true },
+      {
+        "value": "A period of leisure and recreation away from work",
+        "audio": true
+      },
+      { "value": "They wanted to give Karen Klein a holiday.", "audio": true }
+    ],
+    [
+      { "value": "Recibió" },
+      { "value": "Received", "audio": true },
+      {
+        "value": "Was given, presented with, or paid something",
+        "audio": true
+      },
+      {
+        "value": "Karen received over $600,000 from the campaign.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Establecer / Fundar" },
+      { "value": "Set up", "audio": true },
+      {
+        "value": "To establish a business, institution, or other organization",
+        "audio": true
+      },
+      {
+        "value": "She used the money to set up the Karen Klein Foundation.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Fundación" },
+      { "value": "Foundation", "audio": true },
+      {
+        "value": "An organization established to provide funds for a cause",
+        "audio": true
+      },
+      { "value": "The foundation aims to stop bullying.", "audio": true }
+    ],
+    [
+      { "value": "Detener el acoso" },
+      { "value": "Stop bullying", "audio": true },
+      {
+        "value": "To prevent or put an end to bullying behavior",
+        "audio": true
+      },
+      { "value": "The goal is to stop bullying across America.", "audio": true }
+    ],
+    [
+      { "value": "Lo que sea" },
+      { "value": "Whatever", "audio": true },
+      {
+        "value": "It doesn't matter what; anything or everything",
+        "audio": true
+      },
+      {
+        "value": "Whatever your problem is, social media can help.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando unos intimidadores adolescentes en Nueva York se filmaron haciendo llorar al conductor de su autobús escolar, subieron el video a YouTube y se hizo viral."
+      },
+      {
+        "value": "When teenage bullies in New York filmed themselves making their school bus driver cry, they uploaded the video to YouTube and it went viral.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Max Sidorov, un canadiense de 25 años, vio el video y quedó conmocionado."
+      },
+      {
+        "value": "Max Sidorov, a 25-year-old Canadian man, saw the video and was shocked.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Él inició una campaña usando las redes sociales para recaudar fondos y darle unas vacaciones a la conductora del autobús, Karen Klein, de 68 años."
+      },
+      {
+        "value": "He started a campaign using social media to raise money to give the bus driver, 68-year-old Karen Klein, a holiday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Él quería recaudar $5,000. Sin embargo, en tres semanas la campaña recaudó más de $600,000."
+      },
+      {
+        "value": "He wanted to raise $5,000. However, within three weeks the campaign raised more than $600,000.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando Karen recibió el dinero, usó $100,000 para establecer la Fundación Karen Klein e intentar detener el acoso en toda América."
+      },
+      {
+        "value": "When Karen received the money, she used $100,000 to set up the Karen Klein Foundation to try and stop bullying across America.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Así que, sea cual sea tu problema, si usas las redes sociales, ayudarás a la gente que te ayudará a cambiar el mundo."
+      },
+      {
+        "value": "So whatever your problem is, if you use social media, you’ll help people who will help you change the world.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Condicionales reales" },
+      { "value": "Real conditionals", "audio": true },
+      {
+        "value": "Sentences describing results of likely/certain situations",
+        "audio": true
+      },
+      { "value": "Real conditionals often use 'if' or 'when'.", "audio": true }
+    ],
+    [
+      { "value": "Presente simple" },
+      { "value": "Present simple", "audio": true },
+      {
+        "value": "Basic tense for facts, habits, scheduled events",
+        "audio": true
+      },
+      {
+        "value": "'She eats apples' is an example of present simple.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Futuro (con 'will')" },
+      { "value": "Will (future)", "audio": true },
+      {
+        "value": "Used to express future intentions or predictions",
+        "audio": true
+      },
+      {
+        "value": "'It will rain tomorrow' uses 'will' for the future.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Consecuencia" },
+      { "value": "Consequence", "audio": true },
+      {
+        "value": "A result or effect of an action or condition",
+        "audio": true
+      },
+      { "value": "Every action has a consequence.", "audio": true }
+    ],
+    [
+      { "value": "Situación" },
+      { "value": "Situation", "audio": true },
+      { "value": "A set of circumstances", "audio": true },
+      { "value": "This is a difficult situation.", "audio": true }
+    ],
+    [
+      { "value": "Probable" },
+      { "value": "Likely", "audio": true },
+      {
+        "value": "Such as well might happen or be true; probable",
+        "audio": true
+      },
+      { "value": "It's likely to rain later.", "audio": true }
+    ],
+    [
+      { "value": "Cierto / Seguro" },
+      { "value": "Certain", "audio": true },
+      { "value": "Known for sure; established beyond doubt", "audio": true },
+      {
+        "value": "It is certain that the sun will rise tomorrow.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cláusula" },
+      { "value": "Clause", "audio": true },
+      {
+        "value": "A unit of grammatical organization with a subject & verb",
+        "audio": true
+      },
+      {
+        "value": "A sentence can have a main clause and a subordinate clause.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "a) Si usas las redes sociales, encontrarás gente que te ayudará."
+      },
+      {
+        "value": "a) If you use social media, you’ll find people who will help you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "b) Si recaudamos suficiente dinero, el conductor del autobús no necesitará trabajar más."
+      },
+      {
+        "value": "b) If we raise enough money, the bus driver won’t need to work any more.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "c) Cuando la gente vea lo que está pasando, se sorprenderán."
+      },
+      {
+        "value": "c) When people see what’s happening, they will be shocked.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "d) Las protestas continuarán si no cambian el gobierno." },
+      {
+        "value": "d) The protests will continue if they don’t change the government.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "1 Usa condicionales reales (si/cuando + presente simple + will) para hablar sobre la consecuencia presente o futura de una situación específica."
+      },
+      {
+        "value": "1 Use real conditionals (if/when + present simple + will) to talk about the present/future consequence of a specific situation.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "2 Usa 'if' para una situación que es probable/cierta." },
+      {
+        "value": "2 Use if for a situation which is likely/certain.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "3 Usa 'when' para una situación que es probable/cierta." },
+      {
+        "value": "3 Use when for a situation which is likely/certain.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "4 La cláusula if/when puede estar al principio o al final de la oración."
+      },
+      {
+        "value": "4 The if/when clause can be at the beginning or the end of the sentence.",
+        "audio": true
+      }
+    ]
+  ]
+}
