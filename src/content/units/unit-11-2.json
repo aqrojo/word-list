@@ -1,192 +1,244 @@
 {
   "nodes": [
     [
-      { "value": "Curso" },
-      { "value": "course", "audio": true },
-      { "value": "a series of lessons or studies", "audio": true },
-      { "value": "Izmir, the course, my new friends.", "audio": true }
+      { "value": "¿Qué cosas ya ha hecho la mujer?" },
+      { "value": "What things has the woman already done?", "audio": true }
     ],
     [
-      { "value": "Centro de la ciudad" },
-      { "value": "city centre", "audio": true },
-      { "value": "the main commercial/business area", "audio": true },
-      { "value": "The museums and the city centre are great.", "audio": true }
+      { "value": "Ya he estado allí." },
+      { "value": "I've been there already", "audio": true }
     ],
     [
-      { "value": "Museos" },
-      { "value": "museums", "audio": true },
-      { "value": "buildings for historical objects", "audio": true },
-      { "value": "There are lots of museums here.", "audio": true }
+      { "value": "Aún no la conozco." },
+      { "value": "I haven't met her yet", "audio": true }
     ],
     [
-      { "value": "Restaurantes" },
-      { "value": "restaurants", "audio": true },
-      { "value": "places where meals are served", "audio": true },
+      { "value": "Acabamos de ver una película." },
+      { "value": "We've just seen a film", "audio": true }
+    ],
+    [
+      { "value": "Ya se han ido." },
+      { "value": "They've already gone", "audio": true }
+    ],
+    [
+      { "value": "Aún no hemos terminado." },
+      { "value": "We haven't finished yet", "audio": true }
+    ],
+    [
+      { "value": "Él acaba de hablar con ella." },
+      { "value": "He's just spoken to her", "audio": true }
+    ],
+    [
+      { "value": "Ya he viajado al extranjero varias veces por trabajo." },
       {
-        "value": "There are lots of bars and restaurants near there.",
+        "value": "I’ve already traveled abroad several times for work.",
         "audio": true
       }
     ],
     [
-      { "value": "Cerca" },
-      { "value": "near", "audio": true },
-      { "value": "at a short distance", "audio": true },
+      { "value": "¿Ya has empezado un programa de ejercicios?" },
+      { "value": "Have you started an exercise programme yet?", "audio": true }
+    ],
+    [
       {
-        "value": "There should be good for going out near there.",
+        "value": "Ella aún no ha escrito un blog regularmente, pero está pensando en ello."
+      },
+      {
+        "value": "She hasn’t written a regular blog yet, but she’s thinking about it.",
         "audio": true
       }
     ],
     [
-      { "value": "Vida de estudiante" },
-      { "value": "student's life", "audio": true },
-      { "value": "the typical experiences of a student", "audio": true },
+      { "value": "¡Acabo de aprender a tocar la guitarra!" },
+      { "value": "I’ve just learned to play the guitar!", "audio": true }
+    ],
+    [
+      { "value": "¿Ya ha aprendido él a conducir un coche?" },
+      { "value": "Has he learned to drive a car yet?", "audio": true }
+    ],
+    [
+      { "value": "Ellos ya han creado su propia página web para el proyecto." },
       {
-        "value": "Most of them are students too, so student's life is good.",
+        "value": "They’ve already created their own webpage for the project.",
         "audio": true
       }
     ],
     [
-      { "value": "Compañeros de piso" },
-      { "value": "flatmates", "audio": true },
-      { "value": "people who share an apartment", "audio": true },
-      { "value": "The flatmates haven't met him yet.", "audio": true }
+      { "value": "Necesito organizar mis vacaciones." },
+      { "value": "I need to organise my holiday.", "audio": true }
     ],
     [
-      { "value": "Siguiente" },
-      { "value": "next", "audio": true },
-      { "value": "coming immediately after", "audio": true },
-      { "value": "Next message.", "audio": true }
+      { "value": "OK. ¿Ya has decidido dónde ir?" },
+      { "value": "OK. Have you already decided where to go?", "audio": true }
     ],
     [
-      { "value": "Anterior" },
-      { "value": "previous", "audio": true },
-      { "value": "existing or occurring before", "audio": true },
-      { "value": "Previous message.", "audio": true }
+      { "value": "Sí. Pero aún no he reservado los billetes." },
+      { "value": "Yes. But I haven't booked the tickets yet.", "audio": true }
     ],
     [
-      { "value": "Actualizar (a alguien)" },
-      { "value": "update (someone)", "audio": true },
-      { "value": "give someone the latest information", "audio": true },
+      { "value": "Quiero ponerme en forma este año." },
+      { "value": "I want to get in shape this year.", "audio": true }
+    ],
+    [
+      { "value": "¡Genial! ¿Ya has empezado un programa de ejercicios?" },
       {
-        "value": "I thought we should update you on Alecia and my car.",
+        "value": "Great! Have you already started an exercise programme?",
         "audio": true
       }
     ],
     [
-      { "value": "Hungría" },
-      { "value": "Hungary", "audio": true },
-      { "value": "a country in Central Europe", "audio": true },
-      { "value": "We had a really good time in Hungary.", "audio": true }
+      { "value": "Sí, acabo de apuntarme a un gimnasio cerca de mi casa." },
+      { "value": "Yes, I’ve just joined a gym near my house.", "audio": true }
     ],
     [
-      { "value": "Llamado (un nombre)" },
-      { "value": "called (a name)", "audio": true },
-      { "value": "known by a particular name", "audio": true },
-      { "value": "We met a man called George.", "audio": true }
+      { "value": "Estoy pensando en empezar un blog." },
+      { "value": "I’m thinking of starting a blog.", "audio": true }
     ],
     [
-      { "value": "He llegado a Izmir." },
+      { "value": "¡Qué bien! ¿Ya has escrito alguna entrada?" },
+      { "value": "Nice! Have you written any posts yet?", "audio": true }
+    ],
+    [
+      { "value": "No, todavía no. Pero ya he elegido un nombre para él." },
+      {
+        "value": "No, not yet. But I’ve already chosen a name for it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Estoy planeando construir un sitio web personal." },
+      { "value": "I’m planning to build a personal website.", "audio": true }
+    ],
+    [
+      { "value": "¡Genial! ¿Ya has creado la página web?" },
+      { "value": "Cool! Have you created the webpage already?", "audio": true }
+    ],
+    [
+      { "value": "No, acabo de empezar a aprender cómo hacerlo." },
+      { "value": "No, I’ve just started learning how to do it.", "audio": true }
+    ],
+    [
+      { "value": "Acabo de llegar a Izmir." },
       { "value": "I've just arrived in Izmir.", "audio": true }
     ],
     [
+      { "value": "Es grande, hermosa y concurrida, y la gente es muy amable." },
       {
-        "value": "La mayoría de ellos también son estudiantes, así que la vida de estudiante es buena."
+        "value": "It's big, beautiful and busy, and the people are so friendly.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo llevo aquí una semana y ya he hecho muchos amigos nuevos."
       },
       {
-        "value": "Most of them are students too, so student's life is good.",
+        "value": "I've only been here for one week and I've made lots of new friends already.",
         "audio": true
       }
     ],
     [
       {
-        "value": "Nuestra casa no ha cambiado mucho, pero estoy realmente entusiasmado con ello."
+        "value": "La mayoría de ellos también son estudiantes y son nuevos en Izmir."
       },
       {
-        "value": "Our house hasn't changed yet, but I'm really looking forward to it.",
+        "value": "Most of them are students too, and they're new to Izmir.",
         "audio": true
       }
     ],
     [
       {
-        "value": "Los compañeros de piso aún no lo han conocido, pero su habitación es muy bonita."
+        "value": "Nuestro curso aún no ha comenzado, pero tengo muchas ganas de que empiece."
       },
       {
-        "value": "The flatmates haven't met him yet, but his room is very nice.",
+        "value": "Our course hasn't started yet, but I'm really looking forward to it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Voy a compartir piso con otro estudiante, Ahmed." },
+      {
+        "value": "I'm going to share a flat with another student, Ahmed.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aún no lo conozco, pero parece agradable por teléfono." },
+      {
+        "value": "I haven't met him yet, but he sounds nice on the phone.",
         "audio": true
       }
     ],
     [
       {
-        "value": "Hay muchos museos, y el centro de la ciudad y los bares y restaurantes cerca de allí deberían estar bien para salir por la noche."
+        "value": "El piso está cerca del centro de la ciudad y hay muchos bares y restaurantes cerca, así que debería estar bien para salir por la noche."
       },
       {
-        "value": "There are lots of museums, and the city centre and the bars and restaurants near there should be good for going out at night.",
-        "audio": true
-      }
-    ],
-    [
-      { "value": "Me pondré en contacto de nuevo pronto." },
-      { "value": "I’ll be in touch again soon.", "audio": true }
-    ],
-    [
-      { "value": "Alecia y yo finalmente hemos llegado a Bucarest." },
-      {
-        "value": "Alecia and I have finally arrived in Bucharest.",
+        "value": "The flat is near the city centre and there are lots of bars and restaurants near there so it should be good for going out at night.",
         "audio": true
       }
     ],
     [
       {
-        "value": "Pensamos que deberíamos ponerte al día sobre Alecia y mi coche."
+        "value": "Alecia y yo finalmente hemos llegado a Bucarest, y a Alecia y a mí nos encanta Bucarest."
       },
       {
-        "value": "We thought we should update you on Alecia and my car.",
+        "value": "Alecia and I have finally arrived in Bucharest, and Alecia and I love Bucharest.",
         "audio": true
       }
     ],
     [
-      { "value": "Amamos Bucarest." },
-      { "value": "We love Bucharest.", "audio": true }
+      {
+        "value": "Pensamos que deberíamos poneros al día sobre la gira de Alecia y mía."
+      },
+      {
+        "value": "We thought we should update you on Alecia's and my tour.",
+        "audio": true
+      }
     ],
     [
-      { "value": "Conocimos a un hombre llamado George, que fue muy amable." },
+      { "value": "El mes pasado estuvimos en Hungría." },
+      { "value": "Last month we were in Hungary.", "audio": true }
+    ],
+    [
+      { "value": "Lo pasamos muy bien en Hungría." },
+      { "value": "We had a really good time in Hungary.", "audio": true }
+    ],
+    [
+      {
+        "value": "Conocimos a un hombre llamado George, que era muy amigable."
+      },
       {
         "value": "We met a man called George, who was very friendly.",
         "audio": true
       }
     ],
     [
-      { "value": "Nos llevó a algunos lagos y castillos maravillosos." },
       {
-        "value": "George took us to some wonderful lakes and castles.",
-        "audio": true
-      }
-    ],
-    [
-      { "value": "Realmente disfrutamos los lagos y castillos." },
-      { "value": "We really enjoyed the lakes and castles.", "audio": true }
-    ],
-    [
-      {
-        "value": "Nos hemos decidido a quedarnos en Bucarest al menos dos años."
+        "value": "George nos llevó a unos lagos y castillos maravillosos, y disfrutamos mucho de los lagos y castillos."
       },
       {
-        "value": "We have decided to stay in Bucharest for at least two years.",
+        "value": "George took us to some wonderful lakes and castles, and we really enjoyed the lakes and castles.",
         "audio": true
       }
     ],
     [
       {
-        "value": "Creemos que Bucarest será una experiencia maravillosa para Alecia."
+        "value": "La otra noticia es que hemos decidido quedarnos en Bucarest durante al menos dos años."
       },
       {
-        "value": "We think Bucharest will be a wonderful experience for Alecia.",
+        "value": "The other news is that we have decided to stay in Bucharest for at least two years.",
         "audio": true
       }
     ],
     [
-      { "value": "Es grande, bonito y concurrido... es Izmir." },
-      { "value": "It's big, beautiful and busy... It = Izmir", "audio": true }
+      {
+        "value": "Creemos que vivir en Bucarest será una experiencia maravillosa para Alecia y para mí."
+      },
+      {
+        "value": "We think living in Bucharest will be a wonderful experience for Alecia and me.",
+        "audio": true
+      }
     ]
   ]
 }
