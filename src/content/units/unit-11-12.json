@@ -1,0 +1,10 @@
+{
+  "nodes": [
+    [
+      { "value": "Nadie" },
+      { "value": "No one", "audio": true },
+      { "value": "not any person; nobody", "audio": true },
+      { "value": "No one was at home when she arrived.", "audio": true }
+    ]
+  ]
+}
