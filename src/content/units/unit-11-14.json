@@ -1,11 +1,474 @@
 {
   "nodes": [
     [
-      { "value": "Playa" },
-      { "value": "ビーチ", "audio": true },
-      { "value": "海に面した、砂や小石でできた海岸。", "audio": true },
+      { "value": "Reservar" },
+      { "value": "to book", "audio": true },
+      { "value": "to reserve accommodation, a ticket, etc.", "audio": true },
       {
-        "value": "子供たちはビーチで砂のお城を作るのが大好きです。",
+        "value": "You should book your flight tickets in advance.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Vacaciones de verano" },
+      { "value": "summer holiday", "audio": true },
+      { "value": "a vacation taken during the summer months", "audio": true },
+      {
+        "value": "They are planning a summer holiday to the coast.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Esperar" },
+      { "value": "to wait", "audio": true },
+      { "value": "to stay where one is or delay action", "audio": true },
+      { "value": "Please wait here until your name is called.", "audio": true }
+    ],
+    [
+      { "value": "Más tiempo, por más tiempo (en negativas/condicionales)" },
+      { "value": "any longer", "audio": true },
+      { "value": "for any further period of time", "audio": true },
+      { "value": "I can't stay any longer, I have to go.", "audio": true }
+    ],
+    [
+      { "value": "Completo, todo reservado" },
+      { "value": "fully booked", "audio": true },
+      { "value": "all places or tickets are reserved", "audio": true },
+      {
+        "value": "The popular restaurant is often fully booked on weekends.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Tienes razón" },
+      { "value": "You're right", "audio": true },
+      { "value": "expression of agreement with someone", "audio": true },
+      {
+        "value": "You're right, we should check the weather first.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Adónde ir" },
+      { "value": "where to go", "audio": true },
+      { "value": "which place or destination to choose", "audio": true },
+      {
+        "value": "With so many options, it's hard to decide where to go.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué tal...? / ¿Y si...? (para sugerir)" },
+      { "value": "How about...?", "audio": true },
+      { "value": "used for making a suggestion", "audio": true },
+      { "value": "How about watching a movie tonight?", "audio": true }
+    ],
+    [
+      { "value": "Buen tiempo" },
+      { "value": "good weather", "audio": true },
+      {
+        "value": "pleasant atmospheric conditions (sunny, warm)",
+        "audio": true
+      },
+      { "value": "We had good weather throughout our vacation.", "audio": true }
+    ],
+    [
+      { "value": "Siempre" },
+      { "value": "always", "audio": true },
+      { "value": "at all times; on all occasions", "audio": true },
+      {
+        "value": "She always brings a book to read on the train.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Podríamos intentarlo/probar" },
+      { "value": "We could try", "audio": true },
+      {
+        "value": "suggesting a possibility to attempt something",
+        "audio": true
+      },
+      {
+        "value": "This recipe looks difficult, but we could try making it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Gastar dinero" },
+      { "value": "to spend money", "audio": true },
+      { "value": "to use money to pay for goods or services", "audio": true },
+      {
+        "value": "He needs to be careful not to spend too much money.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mucho dinero" },
+      { "value": "lots of money", "audio": true },
+      { "value": "a large sum or amount of money", "audio": true },
+      {
+        "value": "It costs lots of money to buy a house in the city.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Caro/a" },
+      { "value": "expensive", "audio": true },
+      { "value": "costing a lot of money to buy or do", "audio": true },
+      { "value": "Designer clothes are usually very expensive.", "audio": true }
+    ],
+    [
+      { "value": "Realmente, muy (intensificador)" },
+      { "value": "really", "audio": true },
+      {
+        "value": "very; to a great degree (used as an intensifier)",
+        "audio": true
+      },
+      { "value": "This is a really interesting book.", "audio": true }
+    ],
+    [
+      { "value": "Idioma, lengua" },
+      { "value": "language", "audio": true },
+      { "value": "the system of communication used by people", "audio": true },
+      { "value": "She speaks three foreign languages fluently.", "audio": true }
+    ],
+    [
+      { "value": "Eso no importa" },
+      { "value": "That doesn't matter", "audio": true },
+      { "value": "it is not important or significant", "audio": true },
+      { "value": "If you're a bit late, that doesn't matter.", "audio": true }
+    ],
+    [
+      { "value": "Buscar en internet" },
+      { "value": "to look on the internet", "audio": true },
+      {
+        "value": "to search for information online using the web",
+        "audio": true
+      },
+      {
+        "value": "You can look on the internet for cheap flight deals.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Podría (posibilidad)" },
+      { "value": "might", "audio": true },
+      {
+        "value": "used to express possibility in the present or future",
+        "audio": true
+      },
+      { "value": "Take an umbrella, it might rain later.", "audio": true }
+    ],
+    [
+      { "value": "Encontrar" },
+      { "value": "to find", "audio": true },
+      { "value": "to discover or locate something", "audio": true },
+      { "value": "I can't find my keys anywhere.", "audio": true }
+    ],
+    [
+      { "value": "Ofertas baratas, buenas ofertas" },
+      { "value": "cheap deals", "audio": true },
+      {
+        "value": "bargains; products or services at low prices",
+        "audio": true
+      },
+      {
+        "value": "She is always looking for cheap deals when shopping online.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Es una buena idea" },
+      { "value": "That's a good idea", "audio": true },
+      {
+        "value": "expression of approval for a suggestion or plan",
+        "audio": true
+      },
+      { "value": "Let's go to the beach. That's a good idea!", "audio": true }
+    ],
+    [
+      { "value": "¿Buscarás? / ¿Puedes buscar?" },
+      { "value": "Will you look?", "audio": true },
+      { "value": "asking someone to search in the future", "audio": true },
+      {
+        "value": "The information is online; will you look for it?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No voy a (futuro negado)" },
+      { "value": "I'm not going to", "audio": true },
+      {
+        "value": "expressing a negative future intention or plan",
+        "audio": true
+      },
+      { "value": "I'm not going to the party tonight.", "audio": true }
+    ],
+    [
+      { "value": "Suficiente dinero" },
+      { "value": "enough money", "audio": true },
+      { "value": "a sufficient or adequate amount of money", "audio": true },
+      { "value": "We don't have enough money for a new car.", "audio": true }
+    ],
+    [
+      { "value": "Cruzar" },
+      { "value": "to cross", "audio": true },
+      {
+        "value": "to go from one side to the other of something",
+        "audio": true
+      },
+      {
+        "value": "Always look both ways before you cross the road.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Puente" },
+      { "value": "bridge", "audio": true },
+      {
+        "value": "a structure carrying a path over an obstacle",
+        "audio": true
+      },
+      { "value": "The old stone bridge crosses the river.", "audio": true }
+    ],
+    [
+      { "value": "Flores" },
+      { "value": "flowers", "audio": true },
+      {
+        "value": "the reproductive part of a plant, often colorful",
+        "audio": true
+      },
+      {
+        "value": "She received a beautiful bouquet of flowers for her birthday.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Elefante" },
+      { "value": "elephant", "audio": true },
+      {
+        "value": "a very large grey mammal with a trunk and tusks",
+        "audio": true
+      },
+      { "value": "We saw a majestic elephant on our safari.", "audio": true }
+    ],
+    [
+      { "value": "Romper(se)" },
+      { "value": "to break", "audio": true },
+      { "value": "to separate into pieces; to stop working", "audio": true },
+      { "value": "If you drop the vase, it will break.", "audio": true }
+    ],
+    [
+      { "value": "Caer(se)" },
+      { "value": "to fall", "audio": true },
+      {
+        "value": "to move downwards, typically rapidly and freely",
+        "audio": true
+      },
+      { "value": "Be careful not to fall on the icy path.", "audio": true }
+    ],
+    [
+      { "value": "Cocodrilos" },
+      { "value": "crocodiles", "audio": true },
+      { "value": "large predatory reptiles with long jaws", "audio": true },
+      {
+        "value": "Warning signs indicated crocodiles in the river.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Gritar" },
+      { "value": "to scream", "audio": true },
+      { "value": "to give a long, loud, piercing cry", "audio": true },
+      {
+        "value": "She wanted to scream when she saw the horror movie.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Serpiente, víbora" },
+      { "value": "snake", "audio": true },
+      { "value": "a long, legless reptile, often feared", "audio": true },
+      { "value": "A colorful snake slithered across the path.", "audio": true }
+    ],
+    [
+      { "value": "Morder" },
+      { "value": "to bite", "audio": true },
+      { "value": "to cut into something with the teeth", "audio": true },
+      { "value": "The dog is friendly and doesn't bite.", "audio": true }
+    ],
+    [
+      { "value": "Poder (habilidad, permiso, posibilidad)" },
+      { "value": "can", "audio": true },
+      { "value": "used to express ability or possibility", "audio": true },
+      { "value": "He can speak Spanish fluently.", "audio": true }
+    ],
+    [
+      { "value": "Guardar, quedarse con, conservar" },
+      { "value": "to keep", "audio": true },
+      { "value": "to retain possession of something", "audio": true },
+      { "value": "You can keep this pen if you like it.", "audio": true }
+    ],
+    [
+      { "value": "Mucho más fácil" },
+      { "value": "a lot easier", "audio": true },
+      { "value": "significantly less difficult or complicated", "audio": true },
+      {
+        "value": "Using this new tool makes the job a lot easier.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Necesitamos reservar nuestras vacaciones de verano." },
+      { "value": "We need to book our summer holiday.", "audio": true }
+    ],
+    [
+      { "value": "Si esperamos más tiempo, estará todo completo." },
+      {
+        "value": "If we wait any longer, everything will be fully booked.",
+        "audio": true
+      }
+    ],
+    [{ "value": "Tienes razón." }, { "value": "You're right.", "audio": true }],
+    [
+      { "value": "Pero todavía no hemos decidido adónde ir." },
+      { "value": "But we still haven't decided where to go.", "audio": true }
+    ],
+    [
+      { "value": "¿Qué tal España?" },
+      { "value": "How about Spain?", "audio": true }
+    ],
+    [
+      {
+        "value": "Si vamos a España, estoy seguro/a de que tendremos buen tiempo."
+      },
+      {
+        "value": "If we go to Spain, I'm sure we will have good weather.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pero siempre vamos a España." },
+      { "value": "But we always go to Spain.", "audio": true }
+    ],
+    [{ "value": "¿París?" }, { "value": "Paris?", "audio": true }],
+    [
+      {
+        "value": "Podríamos intentarlo, pero si nos quedamos en París, gastaremos mucho dinero."
+      },
+      {
+        "value": "We could try, but if we stay in Paris, we will spend lots of money.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "París es realmente caro." },
+      { "value": "Paris is really expensive.", "audio": true }
+    ],
+    [
+      { "value": "Vale. ¿Qué tal Rumanía o Bulgaria?" },
+      { "value": "OK. How about Romania or Bulgaria?", "audio": true }
+    ],
+    [
+      { "value": "Podríamos intentar eso." },
+      { "value": "We could try that.", "audio": true }
+    ],
+    [
+      { "value": "Pero si vamos allí, no sabremos el idioma." },
+      {
+        "value": "But if we go there, we won't know the language.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Eso no importa." },
+      { "value": "That doesn't matter.", "audio": true }
+    ],
+    [
+      {
+        "value": "Lo sé, y si buscamos en internet, podríamos encontrar algunas ofertas baratas."
+      },
+      {
+        "value": "I know, and if we look on the internet, we might find some cheap deals.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Es una buena idea." },
+      { "value": "That's a good idea.", "audio": true }
+    ],
+    [
+      { "value": "Si tienes tiempo más tarde, ¿buscarás?" },
+      { "value": "If you have time later, will you look?", "audio": true }
+    ],
+    [
+      { "value": "Vale. Pero no voy a ir a París." },
+      { "value": "OK. But I'm not going to Paris.", "audio": true }
+    ],
+    [
+      { "value": "¡No tengo suficiente dinero!" },
+      { "value": "I don't have enough money!", "audio": true }
+    ],
+    [
+      {
+        "value": "Cuando el hombre cruce el puente, le dará las flores a su novia"
+      },
+      {
+        "value": "When the man crosses the bridge, he will give his girlfriend the flowers",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si el elefante camina sobre el puente, el puente se romperá"
+      },
+      {
+        "value": "If the elephant walks on the bridge, the bridge will break",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si el puente se rompe, el elefante se caerá" },
+      { "value": "If the bridge breaks, the elephant will fall", "audio": true }
+    ],
+    [
+      { "value": "Si el elefante se cae, los cocodrilos se lo comerán" },
+      {
+        "value": "If the elephant falls, the crocodiles will eat it",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si el hombre se cae, su novia gritará" },
+      { "value": "If the man falls, his girlfriend will scream", "audio": true }
+    ],
+    [
+      { "value": "Si su novia grita, la serpiente se despertará" },
+      {
+        "value": "If his girlfriend screams, the snake will wake up",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si la serpiente se despierta, morderá a su novia." },
+      {
+        "value": "If the snake wakes up, it will bite his girlfriend.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si el hombre no cruza el puente, puede quedarse con las flores"
+      },
+      {
+        "value": "If the man doesn't cross the bridge, he can keep the flowers",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si se queda con las flores, será mucho más fácil" },
+      {
+        "value": "If he keeps the flowers, it will be a lot easier",
         "audio": true
       }
     ]

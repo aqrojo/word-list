@@ -1,10 +1,393 @@
 {
   "nodes": [
     [
-      { "value": "Nadie" },
-      { "value": "No one", "audio": true },
-      { "value": "not any person; nobody", "audio": true },
-      { "value": "No one was at home when she arrived.", "audio": true }
+      { "value": "Ir a dar un paseo, salir a caminar" },
+      { "value": "to go for a walk", "audio": true },
+      { "value": "to take a stroll for leisure or exercise", "audio": true },
+      {
+        "value": "Every evening, they go for a walk in the park.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Tiempo (meteorológico), clima" },
+      { "value": "weather", "audio": true },
+      {
+        "value": "atmospheric conditions (temperature, rain, etc.)",
+        "audio": true
+      },
+      {
+        "value": "The weather forecast says it will be sunny tomorrow.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mejorar" },
+      { "value": "to get better", "audio": true },
+      { "value": "to improve in condition or quality", "audio": true },
+      { "value": "I hope your cold will get better soon.", "audio": true }
+    ],
+    [
+      { "value": "Aprobar los exámenes" },
+      { "value": "to pass exams", "audio": true },
+      { "value": "to succeed in academic tests or assessments", "audio": true },
+      {
+        "value": "She studied very hard to pass her final exams.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Universidad" },
+      { "value": "university", "audio": true },
+      {
+        "value": "an institution for higher education and research",
+        "audio": true
+      },
+      {
+        "value": "He plans to go to university to study engineering.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Estar allí para recibir/encontrar a alguien" },
+      { "value": "to be there to meet someone", "audio": true },
+      { "value": "to wait for someone's arrival at a place", "audio": true },
+      {
+        "value": "My parents will be there to meet me at the station.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Avión" },
+      { "value": "plane", "audio": true },
+      {
+        "value": "an aircraft with wings and one or more engines",
+        "audio": true
+      },
+      { "value": "Our plane is scheduled to depart at 3 PM.", "audio": true }
+    ],
+    [
+      { "value": "Estoy seguro/a" },
+      { "value": "I'm sure", "audio": true },
+      { "value": "expressing certainty or strong belief", "audio": true },
+      { "value": "I'm sure you'll enjoy the movie.", "audio": true }
+    ],
+    [
+      { "value": "Hacer amigos" },
+      { "value": "to make friends", "audio": true },
+      { "value": "to form new friendships with people", "audio": true },
+      {
+        "value": "It's easy to make friends when you join a club.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Muchos/as, un montón de" },
+      { "value": "lots of", "audio": true },
+      { "value": "a large number or amount of", "audio": true },
+      { "value": "She has lots of books in her library.", "audio": true }
+    ],
+    [
+      { "value": "Curso (académico)" },
+      { "value": "course (academic)", "audio": true },
+      { "value": "a series of lessons or studies", "audio": true },
+      { "value": "He enrolled in a Spanish language course.", "audio": true }
+    ],
+    [
+      { "value": "Conseguir/comprar algo para alguien" },
+      { "value": "to get someone something", "audio": true },
+      {
+        "value": "to obtain or buy something for another person",
+        "audio": true
+      },
+      { "value": "Can you get me a glass of water, please?", "audio": true }
+    ],
+    [
+      { "value": "Volver, regresar" },
+      { "value": "to come back", "audio": true },
+      { "value": "to return to a place or person", "audio": true },
+      { "value": "He promised he would come back soon.", "audio": true }
+    ],
+    [
+      { "value": "Entrar" },
+      { "value": "to come in", "audio": true },
+      {
+        "value": "to enter a place, such as a room or building",
+        "audio": true
+      },
+      { "value": "Please feel free to come in and have a seat.", "audio": true }
+    ],
+    [
+      { "value": "Hacer ruido" },
+      { "value": "to make noise", "audio": true },
+      { "value": "to create sounds, often loud or distracting", "audio": true },
+      {
+        "value": "The construction workers are making a lot of noise.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Demasiado/a (cantidad)" },
+      { "value": "too much", "audio": true },
+      { "value": "an excessive amount of something", "audio": true },
+      { "value": "There is too much salt in this soup.", "audio": true }
+    ],
+    [
+      { "value": "Planificar, planear" },
+      { "value": "to plan", "audio": true },
+      { "value": "to decide on and arrange in advance", "audio": true },
+      {
+        "value": "We need to plan our trip carefully to save money.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Charla, discurso, presentación" },
+      { "value": "talk (speech)", "audio": true },
+      { "value": "a speech or lecture on a particular subject", "audio": true },
+      {
+        "value": "She gave an excellent talk about her research.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cuidadosamente, con cuidado" },
+      { "value": "carefully", "audio": true },
+      { "value": "with great attention, caution, or precision", "audio": true },
+      { "value": "Handle the antique vase carefully.", "audio": true }
+    ],
+    [
+      { "value": "Estar bien, ir bien" },
+      { "value": "to be fine", "audio": true },
+      {
+        "value": "to be all right, satisfactory, or acceptable",
+        "audio": true
+      },
+      { "value": "Don't worry about me, I'll be fine.", "audio": true }
+    ],
+    [
+      { "value": "Tarde (adjetivo - llegar tarde)" },
+      { "value": "late", "audio": true },
+      {
+        "value": "arriving after the expected or scheduled time",
+        "audio": true
+      },
+      { "value": "He apologized for being late to the meeting.", "audio": true }
+    ],
+    [
+      { "value": "Novia" },
+      { "value": "girlfriend", "audio": true },
+      { "value": "a person's regular female romantic partner", "audio": true },
+      { "value": "He bought flowers for his girlfriend.", "audio": true }
+    ],
+    [
+      { "value": "Furioso/a, enfurecido/a" },
+      { "value": "furious", "audio": true },
+      { "value": "extremely angry or enraged", "audio": true },
+      {
+        "value": "She was furious when she discovered the mistake.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Decir/contar algo a alguien" },
+      { "value": "to tell someone (something)", "audio": true },
+      {
+        "value": "to communicate information or news to someone",
+        "audio": true
+      },
+      { "value": "Can you tell me what happened?", "audio": true }
+    ],
+    [
+      { "value": "Taxi" },
+      { "value": "taxi", "audio": true },
+      { "value": "a car with a driver for public hire", "audio": true },
+      { "value": "We called a taxi to take us to the airport.", "audio": true }
+    ],
+    [
+      { "value": "Pronto, en breve" },
+      { "value": "soon", "audio": true },
+      { "value": "in or after a short period of time", "audio": true },
+      {
+        "value": "The movie will start soon, so let's find our seats.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Otro trabajo/empleo" },
+      { "value": "another job", "audio": true },
+      {
+        "value": "a different or additional employment position",
+        "audio": true
+      },
+      {
+        "value": "He's looking for another job with better pay.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Ganar dinero (trabajando)" },
+      { "value": "to earn money", "audio": true },
+      { "value": "to receive payment for work done", "audio": true },
+      { "value": "She works hard to earn money for her family.", "audio": true }
+    ],
+    [
+      { "value": "Un poco más" },
+      { "value": "a bit more", "audio": true },
+      { "value": "a slightly larger amount or quantity", "audio": true },
+      { "value": "Could you add a bit more sugar to my tea?", "audio": true }
+    ],
+    [
+      { "value": "Dinero" },
+      { "value": "money", "audio": true },
+      { "value": "a medium of exchange; currency", "audio": true },
+      { "value": "He saved enough money to buy a new car.", "audio": true }
+    ],
+    [
+      { "value": "Hambriento/a, tener hambre" },
+      { "value": "hungry", "audio": true },
+      { "value": "feeling a need or desire for food", "audio": true },
+      { "value": "After the long hike, I was very hungry.", "audio": true }
+    ],
+    [
+      { "value": "Cambiar de opinión/idea" },
+      { "value": "to change one's mind", "audio": true },
+      { "value": "to alter one's decision, opinion, or plan", "audio": true },
+      {
+        "value": "I was going to the beach, but I changed my mind.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Hotel" },
+      { "value": "hotel", "audio": true },
+      {
+        "value": "an establishment providing accommodation and meals",
+        "audio": true
+      },
+      {
+        "value": "We are staying at a nice hotel near the city center.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué harás?" },
+      { "value": "What will you do?", "audio": true },
+      {
+        "value": "asking about someone's future actions or plans",
+        "audio": true
+      },
+      { "value": "What will you do after you graduate?", "audio": true }
+    ],
+    [
+      { "value": "Perder el trabajo/empleo" },
+      { "value": "to lose one's job", "audio": true },
+      { "value": "to become unemployed, usually involuntarily", "audio": true },
+      { "value": "It's a difficult time if you lose your job.", "audio": true }
+    ],
+    [
+      { "value": "Iremos a dar un paseo si el tiempo mejora" },
+      {
+        "value": "We'll go for a walk if the weather gets better",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si aprueba sus exámenes, irá a la universidad" },
+      {
+        "value": "If she passes her exams she'll go to university",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estaremos allí para recibirte en el aeropuerto cuando llegue el avión"
+      },
+      {
+        "value": "We'll be there to meet you at the airport when the plane arrives",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy seguro de que hará muchos amigos nuevos cuando empiece su curso"
+      },
+      {
+        "value": "I'm sure he'll make lots of new friends when he starts his course",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si te gusta la música, te conseguiré un CD" },
+      { "value": "If you like the music, I'll get you a CD", "audio": true }
+    ],
+    [
+      { "value": "Si estás muy ocupado ahora, volveré más tarde" },
+      {
+        "value": "If you're very busy now, I'll come back later",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Nos oirán entrar si hacemos demasiado ruido" },
+      {
+        "value": "They'll hear us coming in if we make too much noise",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si planificas tu charla cuidadosamente, te irá bien" },
+      {
+        "value": "If you plan your talk carefully, you'll be fine",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¡Si llego tarde otra vez, mi novia se pondrá furiosa!" },
+      {
+        "value": "If I am late again, my girlfriend will be furious!",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Te llamaré si hay algún problema." },
+      { "value": "I will call you if there is a problem.", "audio": true }
+    ],
+    [
+      { "value": "Cuando vea a Mary, le diré que estuviste aquí." },
+      {
+        "value": "When I see Mary, I will tell her you were here.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si el taxi no llega pronto, llegaremos tarde." },
+      {
+        "value": "If the taxi doesn't come soon, we will be late.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Si consigo otro trabajo, ganaré un poco más de dinero." },
+      {
+        "value": "If get another job, I will earn a bit more money.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Te compraré el almuerzo si tienes hambre." },
+      { "value": "I will buy you some lunch if you are hungry.", "audio": true }
+    ],
+    [
+      { "value": "Cambiarán de opinión cuando vean el hotel." },
+      {
+        "value": "They will change their minds when they see the hotel.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué harás si pierdes tu trabajo?" },
+      { "value": "What will you do if you lose your job?", "audio": true }
     ]
   ]
 }
