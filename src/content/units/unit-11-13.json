@@ -1,0 +1,830 @@
+{
+  "nodes": [
+    [
+      { "value": "Playa" },
+      { "value": "beach", "audio": true },
+      { "value": "a sandy or pebbly shore by ocean", "audio": true },
+      {
+        "value": "Children love building sandcastles on the beach.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Un tiempo encantador, un buen rato" },
+      { "value": "a lovely time", "audio": true },
+      { "value": "a very enjoyable experience or period", "audio": true },
+      {
+        "value": "We had a lovely time at the picnic yesterday.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Visitar" },
+      { "value": "to visit", "audio": true },
+      { "value": "to go to see a person or place", "audio": true },
+      { "value": "I plan to visit my cousins next summer.", "audio": true }
+    ],
+    [
+      { "value": "Abuela" },
+      { "value": "grandmother", "audio": true },
+      { "value": "the mother of one's parent", "audio": true },
+      { "value": "My grandmother bakes the best cookies.", "audio": true }
+    ],
+    [
+      { "value": "Invitar a alguien a almorzar (fuera)" },
+      { "value": "to take someone out to lunch", "audio": true },
+      { "value": "to invite and pay for someone's lunch", "audio": true },
+      {
+        "value": "He decided to take his colleague out to lunch to celebrate.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Ver a amigos, reunirse con amigos" },
+      { "value": "to see friends", "audio": true },
+      { "value": "to meet with friends socially", "audio": true },
+      {
+        "value": "I'm going to see some old school friends this weekend.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Durante mucho tiempo, por mucho tiempo" },
+      { "value": "for a long time", "audio": true },
+      { "value": "a considerable duration or period", "audio": true },
+      {
+        "value": "They haven't traveled abroad for a long time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Nuevo trabajo/empleo" },
+      { "value": "new job", "audio": true },
+      { "value": "a recently started employment position", "audio": true },
+      {
+        "value": "She is very excited about her new job opportunity.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Disfrutar" },
+      { "value": "to enjoy", "audio": true },
+      { "value": "to take delight or pleasure in", "audio": true },
+      {
+        "value": "I really enjoy listening to music while I work.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Camarero, mesero" },
+      { "value": "waiter", "audio": true },
+      { "value": "a man serving food in a restaurant", "audio": true },
+      { "value": "The waiter was very attentive and polite.", "audio": true }
+    ],
+    [
+      { "value": "Cuenta, factura (en restaurante)" },
+      { "value": "bill (restaurant)", "audio": true },
+      { "value": "statement of money owed for food", "audio": true },
+      { "value": "Could we have the bill, please?", "audio": true }
+    ],
+    [
+      { "value": "Hermoso/a, bello/a" },
+      { "value": "beautiful", "audio": true },
+      { "value": "pleasing the senses or mind aesthetically", "audio": true },
+      {
+        "value": "The view from the top of the mountain was beautiful.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Quedarse, permanecer" },
+      { "value": "to stay", "audio": true },
+      { "value": "to remain in the same place", "audio": true },
+      {
+        "value": "We decided to stay an extra day at the resort.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Para siempre" },
+      { "value": "forever", "audio": true },
+      { "value": "for all future time; always", "audio": true },
+      { "value": "They promised to be best friends forever.", "audio": true }
+    ],
+    [
+      { "value": "Emocionado/a, entusiasmado/a" },
+      { "value": "excited", "audio": true },
+      { "value": "feeling very enthusiastic and eager", "audio": true },
+      {
+        "value": "The children were excited about opening their presents.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Dar/organizar una fiesta, tener una fiesta" },
+      { "value": "to have a party", "audio": true },
+      { "value": "to organize or host a social gathering", "audio": true },
+      {
+        "value": "We're planning to have a party for New Year's Eve.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Confundido/a, perplejo/a" },
+      { "value": "confused", "audio": true },
+      { "value": "unable to think clearly or understand", "audio": true },
+      {
+        "value": "The complex instructions left him feeling very confused.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Instrucciones" },
+      { "value": "instructions", "audio": true },
+      { "value": "detailed information on how to do something", "audio": true },
+      {
+        "value": "Please read the instructions carefully before use.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Incómodo/a" },
+      { "value": "uncomfortable", "audio": true },
+      { "value": "causing or feeling slight unease", "audio": true },
+      {
+        "value": "This chair is quite uncomfortable to sit on for long.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Abarrotado/a, lleno/llena de gente" },
+      { "value": "crowded", "audio": true },
+      { "value": "full of people, packed tightly", "audio": true },
+      {
+        "value": "The market was very crowded on Saturday morning.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Llevar, cargar" },
+      { "value": "to carry", "audio": true },
+      {
+        "value": "to support and move something from one place",
+        "audio": true
+      },
+      {
+        "value": "Could you help me carry these heavy groceries?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Bolsas/maletas pesadas" },
+      { "value": "heavy bags", "audio": true },
+      { "value": "bags that weigh a lot", "audio": true },
+      {
+        "value": "He struggled to lift the heavy bags into the car.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Demasiado caluroso, con demasiado calor" },
+      { "value": "too hot", "audio": true },
+      { "value": "excessively warm in temperature", "audio": true },
+      { "value": "It's too hot to go for a run right now.", "audio": true }
+    ],
+    [
+      { "value": "Nervioso/a" },
+      { "value": "nervous", "audio": true },
+      { "value": "easily agitated or alarmed; anxious", "audio": true },
+      {
+        "value": "She always feels nervous before an important exam.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Dar una charla/conferencia" },
+      { "value": "to give a talk", "audio": true },
+      { "value": "to deliver a speech or presentation", "audio": true },
+      {
+        "value": "The professor will give a talk on modern art.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Solitario/a, sentirse solo/a" },
+      { "value": "lonely", "audio": true },
+      { "value": "sad from being without friends or company", "audio": true },
+      {
+        "value": "He felt lonely when he first moved to the big city.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pasar (tiempo)" },
+      { "value": "to spend (time)", "audio": true },
+      { "value": "to pass time in a particular way", "audio": true },
+      { "value": "How do you like to spend your holidays?", "audio": true }
+    ],
+    [
+      { "value": "Otro país" },
+      { "value": "another country", "audio": true },
+      { "value": "a different nation from one's own", "audio": true },
+      {
+        "value": "She dreams of traveling to another country each year.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Conocer amigos, hacer amigos" },
+      { "value": "to meet friends", "audio": true },
+      { "value": "to make new acquaintances socially", "audio": true },
+      { "value": "Joining clubs is a good way to meet friends.", "audio": true }
+    ],
+    [
+      { "value": "Preocupado/a" },
+      { "value": "worried", "audio": true },
+      { "value": "feeling anxious or troubled about problems", "audio": true },
+      { "value": "She was worried that she might be late.", "audio": true }
+    ],
+    [
+      { "value": "Tos fuerte/mala" },
+      { "value": "bad cough", "audio": true },
+      { "value": "a severe or persistent cough", "audio": true },
+      {
+        "value": "If you have a bad cough, you should see a doctor.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Asombrado/a, maravillado/a" },
+      { "value": "amazed", "audio": true },
+      { "value": "greatly surprised, impressed, or astonished", "audio": true },
+      {
+        "value": "I was amazed by the incredible skill of the performers.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aeropuerto" },
+      { "value": "airport", "audio": true },
+      {
+        "value": "a place where aircraft regularly take off and land",
+        "audio": true
+      },
+      {
+        "value": "We arrived at the airport three hours before our flight.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aburrido/a" },
+      { "value": "bored", "audio": true },
+      { "value": "feeling weary due to dullness", "audio": true },
+      {
+        "value": "He quickly got bored with the repetitive task.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Retrasado/a, demorado/a" },
+      { "value": "delayed", "audio": true },
+      { "value": "late; not happening at the scheduled time", "audio": true },
+      {
+        "value": "Our train was delayed by an hour due to track work.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aburrirse" },
+      { "value": "to get bored", "audio": true },
+      { "value": "to begin to feel bored or uninterested", "audio": true },
+      {
+        "value": "Children often get bored on long journeys if not entertained.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Fácilmente" },
+      { "value": "easily", "audio": true },
+      { "value": "without difficulty or great effort", "audio": true },
+      { "value": "She solved the puzzle easily.", "audio": true }
+    ],
+    [
+      { "value": "Preferir" },
+      { "value": "to prefer", "audio": true },
+      { "value": "to like one thing better than another", "audio": true },
+      { "value": "I prefer coffee in the morning.", "audio": true }
+    ],
+    [
+      { "value": "Ocupado/a" },
+      { "value": "busy", "audio": true },
+      { "value": "having a great deal to do", "audio": true },
+      { "value": "He is always busy with his projects.", "audio": true }
+    ],
+    [
+      { "value": "No hacer nada" },
+      { "value": "to do nothing", "audio": true },
+      { "value": "to be inactive or idle; relax", "audio": true },
+      {
+        "value": "Sometimes it's nice to just sit and do nothing.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Activo/a" },
+      { "value": "active", "audio": true },
+      { "value": "engaging in physical or mental activity", "audio": true },
+      {
+        "value": "Leading an active lifestyle is good for health.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pareja, socio/a" },
+      { "value": "partner", "audio": true },
+      { "value": "person one is in a relationship with", "audio": true },
+      { "value": "She lives with her partner in the city.", "audio": true }
+    ],
+    [
+      { "value": "Irse/viajar por trabajo" },
+      { "value": "to go away for work", "audio": true },
+      { "value": "to travel for professional reasons", "audio": true },
+      {
+        "value": "My colleague has to go away for work next week.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Solo/a, por mi/tu/su cuenta" },
+      { "value": "on my own", "audio": true },
+      { "value": "alone, independently, without help", "audio": true },
+      { "value": "He enjoys spending weekends on his own.", "audio": true }
+    ],
+    [
+      { "value": "Ya no (en frases negativas)" },
+      { "value": "anymore", "audio": true },
+      { "value": "no longer; not now as formerly", "audio": true },
+      { "value": "She doesn't work here anymore.", "audio": true }
+    ],
+    [
+      { "value": "Confundirse" },
+      { "value": "to get confused", "audio": true },
+      { "value": "to become unable to think clearly", "audio": true },
+      {
+        "value": "It's easy to get confused with so many options.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Números" },
+      { "value": "numbers", "audio": true },
+      { "value": "arithmetical values representing quantity", "audio": true },
+      { "value": "He is excellent at working with numbers.", "audio": true }
+    ],
+    [
+      { "value": "Revisar/comprobar facturas/cuentas" },
+      { "value": "to check bills", "audio": true },
+      { "value": "to examine invoices for accuracy", "audio": true },
+      { "value": "It's wise to check bills before paying them.", "audio": true }
+    ],
+    [
+      { "value": "Tasas/tipos de interés bancarios" },
+      { "value": "bank rates", "audio": true },
+      { "value": "interest rates set by banks", "audio": true },
+      { "value": "Changes in bank rates can affect loans.", "audio": true }
+    ],
+    [
+      { "value": "Cosas así, cosas por el estilo" },
+      { "value": "things like that", "audio": true },
+      { "value": "similar items or matters", "audio": true },
+      {
+        "value": "I enjoy reading, writing, and things like that.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Odiar, detestar" },
+      { "value": "to hate", "audio": true },
+      { "value": "to feel intense dislike for", "audio": true },
+      { "value": "Many people hate going to the dentist.", "audio": true }
+    ],
+    [
+      { "value": "Encontrar (algo) confuso" },
+      { "value": "to find (something) confusing", "audio": true },
+      {
+        "value": "to perceive something as difficult to understand",
+        "audio": true
+      },
+      {
+        "value": "She finds the new software interface confusing.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Estar asombrado/a por, maravillarse con" },
+      { "value": "to be amazed by", "audio": true },
+      { "value": "to be greatly surprised or impressed by", "audio": true },
+      { "value": "You will be amazed by the stunning scenery.", "audio": true }
+    ],
+    [
+      { "value": "Naturaleza" },
+      { "value": "nature", "audio": true },
+      { "value": "the physical world and everything in it", "audio": true },
+      {
+        "value": "Spending time in nature is good for the soul.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Asombroso/a, increíble" },
+      { "value": "amazing", "audio": true },
+      { "value": "causing great surprise or wonder", "audio": true },
+      { "value": "The magician performed some amazing tricks.", "audio": true }
+    ],
+    [
+      { "value": "Ponerse nervioso/a" },
+      { "value": "to get nervous", "audio": true },
+      { "value": "to begin to feel anxious or apprehensive", "audio": true },
+      {
+        "value": "Many people get nervous before public speaking.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Organizar" },
+      { "value": "to organise", "audio": true },
+      { "value": "to arrange or plan an event or activity", "audio": true },
+      { "value": "They need to organise a meeting soon.", "audio": true }
+    ],
+    [
+      { "value": "Evento social" },
+      { "value": "social event", "audio": true },
+      { "value": "a gathering for social purposes", "audio": true },
+      { "value": "The wedding was a large social event.", "audio": true }
+    ],
+    [
+      { "value": "(Invitar) a cenar a casa" },
+      { "value": "round to dinner", "audio": true },
+      { "value": "invited to one's home for dinner", "audio": true },
+      {
+        "value": "We're having some friends round to dinner tonight.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Preocuparse por" },
+      { "value": "to worry about", "audio": true },
+      { "value": "to feel anxious or troubled about", "audio": true },
+      {
+        "value": "Try not to worry about things you cannot change.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Todo tipo de cosas" },
+      { "value": "all kinds of things", "audio": true },
+      { "value": "a wide variety of items or matters", "audio": true },
+      {
+        "value": "The museum displays all kinds of things from history.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "A menudo, frecuentemente" },
+      { "value": "often", "audio": true },
+      { "value": "frequently; many times", "audio": true },
+      { "value": "We often go for a walk after dinner.", "audio": true }
+    ],
+    [
+      { "value": "Noticias" },
+      { "value": "news", "audio": true },
+      { "value": "information about recent events", "audio": true },
+      {
+        "value": "I usually catch up on the news in the evening.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Problemas" },
+      { "value": "problems", "audio": true },
+      { "value": "matters regarded as unwelcome or harmful", "audio": true },
+      {
+        "value": "Every situation can have its own set of problems.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Tantos/as" },
+      { "value": "so many", "audio": true },
+      { "value": "a very large number of", "audio": true },
+      { "value": "There are so many stars visible tonight.", "audio": true }
+    ],
+    [
+      { "value": "La mayor parte del tiempo, muchas veces" },
+      { "value": "a lot of the time", "audio": true },
+      { "value": "frequently or usually", "audio": true },
+      { "value": "A lot of the time, I prefer to stay home.", "audio": true }
+    ],
+    [
+      { "value": "Intentar no" },
+      { "value": "to try not to", "audio": true },
+      { "value": "to make an effort to avoid doing", "audio": true },
+      { "value": "I try not to be late for appointments.", "audio": true }
+    ],
+    [
+      { "value": "Pensar en/sobre" },
+      { "value": "to think about", "audio": true },
+      { "value": "to consider or reflect on something", "audio": true },
+      {
+        "value": "She needs some time to think about the offer.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "De repente, súbitamente" },
+      { "value": "suddenly", "audio": true },
+      { "value": "quickly and unexpectedly", "audio": true },
+      {
+        "value": "Suddenly, the power went out in the entire building.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Empezar a preocuparse" },
+      { "value": "to start to worry", "audio": true },
+      { "value": "to begin feeling anxious or concerned", "audio": true },
+      {
+        "value": "People often start to worry when they hear uncertain news.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Fuimos a la playa." },
+      { "value": "We went to the beach.", "audio": true }
+    ],
+    [
+      { "value": "Pasamos un tiempo encantador allí." },
+      { "value": "We had a lovely time there.", "audio": true }
+    ],
+    [
+      { "value": "Visité a mi abuela." },
+      { "value": "I visited my grandmother.", "audio": true }
+    ],
+    [
+      { "value": "La llevé a almorzar." },
+      { "value": "I took her out to lunch.", "audio": true }
+    ],
+    [
+      { "value": "Voy a ver a unos amigos." },
+      { "value": "I'm seeing some friends.", "audio": true }
+    ],
+    [
+      { "value": "No los he visto desde hace mucho tiempo." },
+      { "value": "I haven't seen them for a long time.", "audio": true }
+    ],
+    [
+      { "value": "Él acaba de empezar un nuevo trabajo." },
+      { "value": "He's just started a new job.", "audio": true }
+    ],
+    [
+      { "value": "Lo está disfrutando." },
+      { "value": "He's enjoying it.", "audio": true }
+    ],
+    [
+      { "value": "El camarero nos sonrió a Mark y a mí." },
+      { "value": "The waiter smiled at Mark and me.", "audio": true }
+    ],
+    [
+      { "value": "Luego nos dio la cuenta." },
+      { "value": "Then he gave us the bill.", "audio": true }
+    ],
+    [
+      { "value": "Este lugar es tan hermoso." },
+      { "value": "This place is so beautiful.", "audio": true }
+    ],
+    [
+      { "value": "Me gustaría quedarme aquí para siempre." },
+      { "value": "I'd like to stay here forever.", "audio": true }
+    ],
+    [
+      { "value": "emocionado/a: Es tu cumpleaños y vas a dar una fiesta." },
+      {
+        "value": "excited: It's your birthday and you're having a party.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "confundido/a: Acabas de comprar un ordenador nuevo y estás intentando leer las instrucciones."
+      },
+      {
+        "value": "confused: You've just bought a new computer and you are trying to read the instructions.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "incómodo/a: Estás de pie en un tren abarrotado, cargando bolsas pesadas, y tienes demasiado calor."
+      },
+      {
+        "value": "uncomfortable: You are standing on a crowded train, carrying heavy bags, and you are too hot.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "nervioso/a: Tienes que dar una charla ante 300 personas." },
+      {
+        "value": "nervous: You have to give a talk to 300 people.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "solitario/a (sentirse solo/a): Has decidido pasar un año en otro país, pero aún no has conocido a ningún amigo."
+      },
+      {
+        "value": "lonely: You have decided to spend a year in another country, but you haven't met any friends yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "preocupado/a: Tienes una tos fuerte y la has tenido durante más de seis meses."
+      },
+      {
+        "value": "worried: You have got a bad cough and you have had it for more than six months.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "asombrado/a: Estás esperando en un aeropuerto y ves a un amigo que no has visto en diez años."
+      },
+      {
+        "value": "amazed: You're waiting at an airport and you see a friend who you haven't seen for ten years.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "aburrido/a: Estás esperando en una estación y tu tren se ha retrasado dos horas."
+      },
+      {
+        "value": "bored: You are waiting at a station and your train has been delayed for two hours.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Me aburro muy fácilmente." },
+      { "value": "I get bored very easily.", "audio": true }
+    ],
+    [
+      {
+        "value": "Prefiero estar ocupado/a, así que siempre estoy haciendo cosas."
+      },
+      {
+        "value": "I prefer being busy, so I'm always doing things.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A algunas personas simplemente les gusta sentarse y no hacer nada."
+      },
+      {
+        "value": "Some people just like to sit down and do nothing.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pero yo no puedo hacer eso." },
+      { "value": "But I can't do that.", "audio": true }
+    ],
+    [
+      { "value": "Necesito estar activo/a." },
+      { "value": "I need to be active.", "audio": true }
+    ],
+    [
+      {
+        "value": "A veces me siento solo/a si mi pareja se va por trabajo y estoy solo/a en casa."
+      },
+      {
+        "value": "I feel lonely sometimes if my partner goes away for work and I’m on my own at home.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pero entonces llamo a un amigo/a o a mi hermana." },
+      { "value": "But then I call a friend or my sister.", "audio": true }
+    ],
+    [
+      {
+        "value": "O hablo con alguien con quien no he hablado en mucho tiempo."
+      },
+      {
+        "value": "Or I speak to someone who I haven't spoken to for a long time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Entonces ya no me siento solo/a." },
+      { "value": "Then I don't feel lonely anymore.", "audio": true }
+    ],
+    [
+      { "value": "Me confundo mucho cuando tengo que hacer algo con números," },
+      {
+        "value": "I get really confused when I have to do anything with numbers,",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "como revisar facturas o tasas bancarias y cosas por el estilo."
+      },
+      {
+        "value": "like check bills or bank rates and things like that.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Odio ese tipo de cosas." },
+      { "value": "I hate that kind of thing.", "audio": true }
+    ],
+    [
+      { "value": "Realmente encuentro los números confusos." },
+      { "value": "I do find numbers confusing.", "audio": true }
+    ],
+    [
+      { "value": "Siempre me asombra la naturaleza." },
+      { "value": "I am always amazed by nature.", "audio": true }
+    ],
+    [
+      { "value": "La belleza de la naturaleza." },
+      { "value": "The beauty of nature.", "audio": true }
+    ],
+    [
+      {
+        "value": "Puedes simplemente estar en un lugar hermoso y mirarlo, y es simplemente asombroso."
+      },
+      {
+        "value": "You can just stand in a beautiful place and look at it, and it's just amazing.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me pongo nervioso/a cuando tengo que organizar un evento social,"
+      },
+      {
+        "value": "I get nervous when I have to organise a social event,",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "como si voy a dar una fiesta o invitar a mucha gente a cenar a casa."
+      },
+      {
+        "value": "like if I'm having a party or lots of people round to dinner.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me pongo nervioso/a sobre qué voy a cocinar y si tendré tiempo para hacerlo todo."
+      },
+      {
+        "value": "I get nervous about what I'm going to cook and if I'll have time to do everything.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Me preocupo por todo tipo de cosas." },
+      { "value": "I worry about all kinds of things.", "audio": true }
+    ],
+    [
+      {
+        "value": "A menudo me siento preocupado/a por el mundo cuando veo las noticias y todos los problemas."
+      },
+      {
+        "value": "Often I feel worried about the world when I see the news and all the problems.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Hay tantos problemas en el mundo" },
+      { "value": "There are so many problems in the world", "audio": true }
+    ],
+    [
+      { "value": "y la mayor parte del tiempo intento no pensar en ellos," },
+      {
+        "value": "and a lot of the time I try not to think about them,",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "y entonces, de repente, empiezo a preocuparme." },
+      { "value": "and then suddenly, I'll start to worry.", "audio": true }
+    ]
+  ]
+}

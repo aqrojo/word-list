@@ -1,0 +1,441 @@
+{
+  "nodes": [
+    [
+      { "value": "Todavía" },
+      { "value": "still", "audio": true },
+      { "value": "continuing to happen or exist", "audio": true },
+      { "value": "He is still waiting for his friend.", "audio": true }
+    ],
+    [
+      { "value": "Cansado/a" },
+      { "value": "tired", "audio": true },
+      { "value": "feeling a need for sleep", "audio": true },
+      { "value": "After the long journey, she felt very tired.", "audio": true }
+    ],
+    [
+      { "value": "Despertarse" },
+      { "value": "to wake up", "audio": true },
+      { "value": "to stop sleeping, become conscious", "audio": true },
+      { "value": "I usually wake up at 7 AM on weekdays.", "audio": true }
+    ],
+    [
+      { "value": "Acabar de (hacer algo)" },
+      { "value": "have just (done something)", "audio": true },
+      { "value": "indicates a very recent action", "audio": true },
+      { "value": "They have just arrived at the party.", "audio": true }
+    ],
+    [
+      { "value": "Bien hecho" },
+      { "value": "Well done", "audio": true },
+      { "value": "expression of praise or congratulations", "audio": true },
+      { "value": "Well done on passing your exams!", "audio": true }
+    ],
+    [
+      { "value": "Terminar, acabar" },
+      { "value": "to finish", "audio": true },
+      { "value": "to complete or bring to an end", "audio": true },
+      { "value": "She needs to finish her report by Friday.", "audio": true }
+    ],
+    [
+      { "value": "Por hoy" },
+      { "value": "for today", "audio": true },
+      { "value": "referring specifically to the current day", "audio": true },
+      { "value": "That's enough work for today.", "audio": true }
+    ],
+    [
+      { "value": "Alguno, ninguno (en negativas/interrogativas)" },
+      { "value": "any", "audio": true },
+      { "value": "used in questions and negative statements", "audio": true },
+      { "value": "Do you have any milk left?", "audio": true }
+    ],
+    [
+      { "value": "Almuerzo" },
+      { "value": "lunch", "audio": true },
+      { "value": "a meal eaten in middle of day", "audio": true },
+      { "value": "We usually have lunch at 1 PM.", "audio": true }
+    ],
+    [
+      { "value": "Comer" },
+      { "value": "to eat", "audio": true },
+      { "value": "to consume food", "audio": true },
+      { "value": "It's important to eat healthy vegetables.", "audio": true }
+    ],
+    [
+      { "value": "No lo creo" },
+      { "value": "I don't believe it", "audio": true },
+      { "value": "expression of surprise or disbelief", "audio": true },
+      { "value": "You won the lottery? I don't believe it!", "audio": true }
+    ],
+    [
+      { "value": "Perder" },
+      { "value": "to lose", "audio": true },
+      { "value": "to misplace or unable to find", "audio": true },
+      { "value": "Be careful not to lose your keys.", "audio": true }
+    ],
+    [
+      { "value": "Otra vez, de nuevo" },
+      { "value": "again", "audio": true },
+      { "value": "one more time, on another occasion", "audio": true },
+      { "value": "Could you please say that again?", "audio": true }
+    ],
+    [
+      { "value": "¡Eso es genial!" },
+      { "value": "That's brilliant!", "audio": true },
+      { "value": "expression of great approval or admiration", "audio": true },
+      { "value": "You got the job? That's brilliant news!", "audio": true }
+    ],
+    [
+      { "value": "Aprobar (un examen)" },
+      { "value": "to pass (a test)", "audio": true },
+      { "value": "to succeed in an examination", "audio": true },
+      {
+        "value": "He studied hard and managed to pass the test.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Examen de conducir" },
+      { "value": "driving test", "audio": true },
+      { "value": "an official test of driving ability", "audio": true },
+      {
+        "value": "She was very nervous before her driving test.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Lo siento mucho" },
+      { "value": "I'm really sorry", "audio": true },
+      { "value": "expression of deep regret or sympathy", "audio": true },
+      { "value": "I'm really sorry for your loss.", "audio": true }
+    ],
+    [
+      { "value": "Malas noticias" },
+      { "value": "bad news", "audio": true },
+      { "value": "unwelcome or unpleasant information", "audio": true },
+      {
+        "value": "Unfortunately, I have some bad news to share.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Espera un minuto" },
+      { "value": "Hold on a minute", "audio": true },
+      { "value": "request to wait for a short time", "audio": true },
+      { "value": "Hold on a minute, I need to find my glasses.", "audio": true }
+    ],
+    [
+      { "value": "Lo comprobaré / Voy a verificar" },
+      { "value": "I'll check", "audio": true },
+      { "value": "promise to verify or find out", "audio": true },
+      {
+        "value": "Is the package here? I'll check the front door.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Enviar un mensaje" },
+      { "value": "to send a message", "audio": true },
+      {
+        "value": "to transmit information, often electronically",
+        "audio": true
+      },
+      { "value": "Can you send me a message when you arrive?", "audio": true }
+    ],
+    [
+      { "value": "Vamos a dar un paseo" },
+      { "value": "Let's go for a walk", "audio": true },
+      { "value": "suggestion to take a stroll together", "audio": true },
+      { "value": "The weather is lovely, let's go for a walk.", "audio": true }
+    ],
+    [
+      { "value": "Dejar de llover" },
+      { "value": "to stop raining", "audio": true },
+      { "value": "when precipitation (rain) ceases", "audio": true },
+      {
+        "value": "I hope it stops raining soon so we can go out.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¡Date prisa!" },
+      { "value": "Hurry up!", "audio": true },
+      { "value": "urge someone to move or act faster", "audio": true },
+      {
+        "value": "Hurry up, or we'll miss the beginning of the movie!",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Llegar" },
+      { "value": "to arrive", "audio": true },
+      { "value": "to reach a destination or place", "audio": true },
+      { "value": "The train will arrive at platform 2.", "audio": true }
+    ],
+    [
+      { "value": "Un poco tarde" },
+      { "value": "a bit late", "audio": true },
+      { "value": "slightly delayed in arrival time", "audio": true },
+      {
+        "value": "Don't worry if you're a bit late for the party.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Empezar, comenzar" },
+      { "value": "to start", "audio": true },
+      { "value": "to begin an activity or process", "audio": true },
+      { "value": "The class will start in five minutes.", "audio": true }
+    ],
+    [
+      { "value": "Ya (en preguntas/negativas)" },
+      { "value": "yet", "audio": true },
+      { "value": "up until now (in questions/negatives)", "audio": true },
+      { "value": "Have they finished their homework yet?", "audio": true }
+    ],
+    [
+      { "value": "Ya (en afirmativas)" },
+      { "value": "already", "audio": true },
+      { "value": "before now or a specific time", "audio": true },
+      { "value": "I've already seen that film twice.", "audio": true }
+    ],
+    [
+      { "value": "El siguiente" },
+      { "value": "the next one", "audio": true },
+      { "value": "the one that follows in sequence", "audio": true },
+      {
+        "value": "This chapter is finished, let's read the next one.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Cocinar" },
+      { "value": "to cook", "audio": true },
+      { "value": "to prepare food by heating it", "audio": true },
+      { "value": "I like to cook pasta for my family.", "audio": true }
+    ],
+    [
+      { "value": "Cena" },
+      { "value": "dinner", "audio": true },
+      {
+        "value": "the main meal of the day, usually eaten in the evening",
+        "audio": true
+      },
+      { "value": "What are we having for dinner tonight?", "audio": true }
+    ],
+    [
+      { "value": "Apenas, acabar de" },
+      { "value": "only just", "audio": true },
+      { "value": "very recently, a short time ago", "audio": true },
+      { "value": "I've only just started reading this book.", "audio": true }
+    ],
+    [
+      { "value": "Llegar a casa" },
+      { "value": "to get home", "audio": true },
+      { "value": "to arrive at one's residence", "audio": true },
+      { "value": "What time did you get home last night?", "audio": true }
+    ],
+    [
+      { "value": "Preguntar, pedir" },
+      { "value": "to ask", "audio": true },
+      { "value": "to request information or something", "audio": true },
+      { "value": "Can I ask you a question about the project?", "audio": true }
+    ],
+    [
+      { "value": "Voy a" },
+      { "value": "I'm going to", "audio": true },
+      { "value": "expresses a future intention or plan", "audio": true },
+      {
+        "value": "I'm going to visit my grandparents this weekend.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Hablar con" },
+      { "value": "to speak to", "audio": true },
+      { "value": "to communicate verbally with someone", "audio": true },
+      {
+        "value": "I need to speak to the manager about this issue.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Más tarde" },
+      { "value": "later", "audio": true },
+      { "value": "at a time in the future", "audio": true },
+      { "value": "I'll call you back later.", "audio": true }
+    ],
+    [
+      { "value": "Decidir" },
+      { "value": "to decide", "audio": true },
+      { "value": "to make a choice or judgment", "audio": true },
+      {
+        "value": "We need to decide on a destination for our holiday.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Reservar una mesa" },
+      { "value": "to book a table", "audio": true },
+      { "value": "to make a reservation at a restaurant", "audio": true },
+      { "value": "I'd like to book a table for two at 8 PM.", "audio": true }
+    ],
+    [
+      { "value": "¿Quieres...?" },
+      { "value": "Do you want to...?", "audio": true },
+      { "value": "used to make an offer or invitation", "audio": true },
+      { "value": "Do you want to watch a movie tonight?", "audio": true }
+    ],
+    [
+      { "value": "Jugar al fútbol" },
+      { "value": "to play football", "audio": true },
+      {
+        "value": "to participate in a game of football (soccer)",
+        "audio": true
+      },
+      {
+        "value": "The children love to play football in the park.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Dos veces" },
+      { "value": "twice", "audio": true },
+      { "value": "two times, on two occasions", "audio": true },
+      { "value": "I've visited that city twice.", "audio": true }
+    ],
+    [
+      { "value": "Esta semana" },
+      { "value": "this week", "audio": true },
+      { "value": "during the current week", "audio": true },
+      { "value": "I have a lot of meetings this week.", "audio": true }
+    ],
+    [
+      { "value": "Ver" },
+      { "value": "to see", "audio": true },
+      { "value": "to perceive with the eyes", "audio": true },
+      { "value": "Did you see the beautiful sunset yesterday?", "audio": true }
+    ],
+    [
+      { "value": "Irse, marcharse, dejar" },
+      { "value": "to leave", "audio": true },
+      { "value": "to go away from a place or person", "audio": true },
+      { "value": "She has to leave for work early tomorrow.", "audio": true }
+    ],
+    [
+      { "value": "Todavía estoy cansado/a. Acabo de despertarme." },
+      { "value": "I'm still tired. I have just woken up.", "audio": true }
+    ],
+    [
+      { "value": "Bien hecho. Acabas de terminar todo tu trabajo de hoy." },
+      {
+        "value": "Well done. You have just finished all your work for today.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No quiero almuerzo, gracias. Acabo de comer." },
+      {
+        "value": "I don't want any lunch, thanks. I have just eaten.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No lo creo. ¡Sam acaba de perder su teléfono otra vez!" },
+      {
+        "value": "I don't believe it. Sam has just lost! his phone again.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Eso es genial! Helen acaba de aprobar su examen de conducir."
+      },
+      {
+        "value": "That's brilliant! Helen has just passed her driving test.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Lo siento mucho. Acabo de escuchar las malas noticias." },
+      {
+        "value": "I'm really sorry. I have just heard the bad news.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Espera un minuto, voy a comprobar. Sheila me acaba de enviar un mensaje."
+      },
+      {
+        "value": "Hold on a minute, I'll check. Sheila has just sent me a message.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Vamos a dar un paseo. Acaba de dejar de llover." },
+      {
+        "value": "Let's go for a walk. It has just stopped raining.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¡Date prisa! El taxi acaba de llegar." },
+      { "value": "Hurry up! The taxi has just arrived.", "audio": true }
+    ],
+    [
+      { "value": "Llegas un poco tarde. Acaban de empezar la reunión." },
+      {
+        "value": "You're a bit late. They have just started the meeting.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Ya has terminado el libro?" },
+      { "value": "Have you finished the book yet?", "audio": true }
+    ],
+    [
+      { "value": "Sí, ya he empezado el siguiente." },
+      { "value": "Yes, I've already started the next one.", "audio": true }
+    ],
+    [
+      { "value": "¿Ya has preparado la cena?" },
+      { "value": "Have you cooked the dinner yet?", "audio": true }
+    ],
+    [
+      { "value": "No, acabo de llegar a casa." },
+      { "value": "No, I've only just got home", "audio": true }
+    ],
+    [
+      { "value": "¿Ya le has preguntado a tu esposa?" },
+      { "value": "Have you asked your wife yet?", "audio": true }
+    ],
+    [
+      { "value": "No, voy a hablar con ella más tarde." },
+      { "value": "No, I'm going to speak to her later.", "audio": true }
+    ],
+    [
+      { "value": "¿Ya has decidido dónde vamos?" },
+      { "value": "have you decided where we're going yet", "audio": true }
+    ],
+    [
+      { "value": "Sí, acabamos de reservar una mesa en lo de Mario." },
+      { "value": "Yes, we've just booked a table at Mario's", "audio": true }
+    ],
+    [
+      { "value": "¿Quieres venir a jugar al fútbol?" },
+      { "value": "Do you want to come and play football?", "audio": true }
+    ],
+    [
+      { "value": "No, ya he jugado dos veces esta semana." },
+      { "value": "No, I've already played twice this week", "audio": true }
+    ],
+    [
+      { "value": "¿Has visto a Miranda?" },
+      { "value": "Have you seen Miranda?", "audio": true }
+    ],
+    [
+      { "value": "Sí, acaba de irse." },
+      { "value": "Yes, She's just left", "audio": true }
+    ]
+  ]
+}

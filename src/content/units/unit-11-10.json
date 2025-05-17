@@ -1,0 +1,593 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¿Te importa si...?"
+      },
+      {
+        "value": "Do you mind if I...?",
+        "audio": true
+      },
+      {
+        "value": "Ask for permission politely.",
+        "audio": true
+      },
+      {
+        "value": "Do you mind if I sit here?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Teléfono móvil"
+      },
+      {
+        "value": "Mobile phone",
+        "audio": true
+      },
+      {
+        "value": "Portable telephone for calls.",
+        "audio": true
+      },
+      {
+        "value": "She lost her mobile phone yesterday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Blog"
+      },
+      {
+        "value": "Blog",
+        "audio": true
+      },
+      {
+        "value": "Online personal journal website.",
+        "audio": true
+      },
+      {
+        "value": "He started a food blog last year.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Compartir el enlace"
+      },
+      {
+        "value": "Share the link",
+        "audio": true
+      },
+      {
+        "value": "Provide a web hyperlink.",
+        "audio": true
+      },
+      {
+        "value": "Could you share the link for the Zoom meeting?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Revisar mi correo electrónico"
+      },
+      {
+        "value": "Check my email",
+        "audio": true
+      },
+      {
+        "value": "Look for new e-messages.",
+        "audio": true
+      },
+      {
+        "value": "I need to check my email for a confirmation.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "SMS"
+      },
+      {
+        "value": "SMS",
+        "audio": true
+      },
+      {
+        "value": "Short Message Service (text).",
+        "audio": true
+      },
+      {
+        "value": "He sent me an SMS to say he'd be late.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Llamarte por Skype"
+      },
+      {
+        "value": "Skype you",
+        "audio": true
+      },
+      {
+        "value": "Call via Skype app.",
+        "audio": true
+      },
+      {
+        "value": "My grandmother learned how to Skype me.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Actualizar la página web"
+      },
+      {
+        "value": "Update the webpage",
+        "audio": true
+      },
+      {
+        "value": "Add new info to website.",
+        "audio": true
+      },
+      {
+        "value": "The webmaster will update the webpage tomorrow.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Chatear en línea"
+      },
+      {
+        "value": "Chat online",
+        "audio": true
+      },
+      {
+        "value": "Talk over the internet.",
+        "audio": true
+      },
+      {
+        "value": "Teenagers often chat online for hours.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Publicar un mensaje en línea"
+      },
+      {
+        "value": "Post a message online",
+        "audio": true
+      },
+      {
+        "value": "Publish text on internet.",
+        "audio": true
+      },
+      {
+        "value": "She decided to post a message online to find study partners.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Subir (archivos)"
+      },
+      {
+        "value": "Upload",
+        "audio": true
+      },
+      {
+        "value": "Transfer data to server.",
+        "audio": true
+      },
+      {
+        "value": "Please upload your photos to the shared folder.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sitio de intercambio de vídeos"
+      },
+      {
+        "value": "Video sharing site",
+        "audio": true
+      },
+      {
+        "value": "Website for sharing videos.",
+        "audio": true
+      },
+      {
+        "value": "Many creators use a video sharing site to reach audiences.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Editar"
+      },
+      {
+        "value": "Edit",
+        "audio": true
+      },
+      {
+        "value": "Correct or modify media.",
+        "audio": true
+      },
+      {
+        "value": "I need to edit this document for errors.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Vacaciones"
+      },
+      {
+        "value": "Holiday",
+        "audio": true
+      },
+      {
+        "value": "Leisure time, often travel.",
+        "audio": true
+      },
+      {
+        "value": "They are looking forward to their summer holiday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hacer la maleta / Empacar"
+      },
+      {
+        "value": "Packing",
+        "audio": true
+      },
+      {
+        "value": "Preparing luggage for trip.",
+        "audio": true
+      },
+      {
+        "value": "I find packing very stressful before a holiday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Todavía / Aún (en negativas/preguntas)"
+      },
+      {
+        "value": "Yet",
+        "audio": true
+      },
+      {
+        "value": "(Not) up to now.",
+        "audio": true
+      },
+      {
+        "value": "She hasn't called me yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya"
+      },
+      {
+        "value": "Already",
+        "audio": true
+      },
+      {
+        "value": "Before now or expected.",
+        "audio": true
+      },
+      {
+        "value": "They have already seen that movie.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Verse bien / Tener buen aspecto"
+      },
+      {
+        "value": "Look well",
+        "audio": true
+      },
+      {
+        "value": "Appear healthy and happy.",
+        "audio": true
+      },
+      {
+        "value": "You look well today!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Regresar de"
+      },
+      {
+        "value": "Got back from",
+        "audio": true
+      },
+      {
+        "value": "Returned from a location.",
+        "audio": true
+      },
+      {
+        "value": "We just got back from our trip to the mountains.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acabar de (hacer algo)"
+      },
+      {
+        "value": "(Have) just (done something)",
+        "audio": true
+      },
+      {
+        "value": "Action recently completed.",
+        "audio": true
+      },
+      {
+        "value": "I've just finished reading a great book.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Resultados de los exámenes"
+      },
+      {
+        "value": "Exam results",
+        "audio": true
+      },
+      {
+        "value": "Grades from an examination.",
+        "audio": true
+      },
+      {
+        "value": "Students are anxiously awaiting their exam results.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo te fue?"
+      },
+      {
+        "value": "How did you do?",
+        "audio": true
+      },
+      {
+        "value": "Inquire about performance result.",
+        "audio": true
+      },
+      {
+        "value": "So, you had your driving test. How did you do?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Gastado todo mi dinero"
+      },
+      {
+        "value": "Spent all my money",
+        "audio": true
+      },
+      {
+        "value": "Used all available currency.",
+        "audio": true
+      },
+      {
+        "value": "He realized he had spent all his money on games.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Te importa si uso tu teléfono móvil?"
+      },
+      {
+        "value": "Do you mind if I use your mobile phone?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acabo de empezar un nuevo blog donde escribo sobre política, y mucha gente lo está leyendo."
+      },
+      {
+        "value": "I've just started a new blog where I write about politics, and lots of people are reading it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Has visto ese vídeo del gato? Espera, te compartiré el enlace para que puedas verlo."
+      },
+      {
+        "value": "Have you seen that video with the cat? Wait, I'll share the link so that you can see it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo voy a revisar mi correo electrónico en busca de mensajes nuevos."
+      },
+      {
+        "value": "I'm just going to check my email for new messages.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Por qué no le envías un SMS?"
+      },
+      {
+        "value": "Why don't you send her an SMS?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si estás en casa más tarde, te llamaré por Skype para que podamos hablar sobre los planes para el fin de semana."
+      },
+      {
+        "value": "If you're at home later, I'll Skype you so we can talk about the plans for the weekend.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Has actualizado la página web con nuestras nuevas fotos?"
+      },
+      {
+        "value": "Have you updated the webpage with our new photos?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No nos vemos a menudo, pero chateamos mucho online."
+      },
+      {
+        "value": "We don't see each other often, but we chat a lot online.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "He perdido mi teléfono, así que voy a publicar un mensaje online pidiendo a la gente que me envíe sus números."
+      },
+      {
+        "value": "I've lost my phone, so I'm going to post a message online asking people to send me their numbers.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me encanta filmar pájaros en el parque. Normalmente edito las películas y luego las subo a un sitio de intercambio de vídeos."
+      },
+      {
+        "value": "I love filming birds in the park. I usually edit the movies, then upload them to a video sharing site.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Estás listo/a para tus vacaciones?"
+      },
+      {
+        "value": "Are you ready for your holiday?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Todavía no he terminado de hacer la maleta."
+      },
+      {
+        "value": "I haven't finished packing yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No olvides llamar a Amy."
+      },
+      {
+        "value": "Don't forget to call Amy.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Ya he hablado con ella?"
+      },
+      {
+        "value": "I've already spoken to her?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hola. ¡Te ves bien!"
+      },
+      {
+        "value": "Hi. You look well!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, acabamos de regresar de nuestras vacaciones."
+      },
+      {
+        "value": "Yes, we've just got back from our holiday?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Es ese el nuevo DVD de Shining Stars?"
+      },
+      {
+        "value": "Is that the new Shining Stars DVD?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, pero todavía no lo he visto."
+      },
+      {
+        "value": "Yes, but I haven't watched it yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acabo de recibir los resultados de mis exámenes."
+      },
+      {
+        "value": "I've just got my exam results?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Cuéntame! ¿Cómo te fue?"
+      },
+      {
+        "value": "Tell me! How did you do?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Necesitas comprar un regalo para Josh."
+      },
+      {
+        "value": "You need to buy a present for Josh.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero, ¿ya me he gastado todo el dinero?"
+      },
+      {
+        "value": "But I've already spent all my money?",
+        "audio": true
+      }
+    ]
+  ]
+}

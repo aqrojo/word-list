@@ -1,6 +1,330 @@
 {
   "nodes": [
     [
+      { "value": "Ya" },
+      { "value": "Already", "audio": true },
+      { "value": "Before now or expected time.", "audio": true },
+      { "value": "She has already finished her homework.", "audio": true }
+    ],
+    [
+      { "value": "Aún / Todavía" },
+      { "value": "Yet", "audio": true },
+      { "value": "Still; up to now (neg/ques).", "audio": true },
+      {
+        "value": "I haven't seen that movie yet. Have you done your chores yet?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Acabar de / Recién" },
+      { "value": "Just", "audio": true },
+      { "value": "A very short time ago.", "audio": true },
+      { "value": "They have just arrived.", "audio": true }
+    ],
+    [
+      { "value": "Al extranjero" },
+      { "value": "Abroad", "audio": true },
+      { "value": "In or to foreign country.", "audio": true },
+      { "value": "He has always wanted to study abroad.", "audio": true }
+    ],
+    [
+      { "value": "Vari_s / Varias" },
+      { "value": "Several", "audio": true },
+      { "value": "More than two, not many.", "audio": true },
+      { "value": "Several people have volunteered to help.", "audio": true }
+    ],
+    [
+      { "value": "Programa (de ejercicios)" },
+      { "value": "Exercise programme", "audio": true },
+      { "value": "Planned series of physical activities.", "audio": true },
+      {
+        "value": "She started an new exercise programme to get fit.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Blog (bitácora digital)" },
+      { "value": "Blog", "audio": true },
+      { "value": "Regularly updated online journal/website.", "audio": true },
+      { "value": "He writes a popular blog about cooking.", "audio": true }
+    ],
+    [
+      { "value": "Pensar en / Considerar" },
+      { "value": "Think about/of", "audio": true },
+      { "value": "Consider or reflect on something.", "audio": true },
+      { "value": "I'm thinking about my next holiday.", "audio": true }
+    ],
+    [
+      { "value": "Aprender" },
+      { "value": "Learn", "audio": true },
+      { "value": "Gain knowledge or skill.", "audio": true },
+      { "value": "It's important to learn from your mistakes.", "audio": true }
+    ],
+    [
+      { "value": "Crear" },
+      { "value": "Create", "audio": true },
+      { "value": "Bring into existence; make new.", "audio": true },
+      {
+        "value": "The company plans to create more jobs next year.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Página web" },
+      { "value": "Webpage", "audio": true },
+      { "value": "Single document on the Web.", "audio": true },
+      {
+        "value": "You can find more information on our official webpage.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Proyecto" },
+      { "value": "Project", "audio": true },
+      { "value": "Planned work for specific aim.", "audio": true },
+      {
+        "value": "The students are working on a science project.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Organizar" },
+      { "value": "Organise", "audio": true },
+      { "value": "Arrange systematically; plan an activity.", "audio": true },
+      {
+        "value": "She needs to organise her schedule for the week.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Vacaciones" },
+      { "value": "Holiday", "audio": true },
+      { "value": "Leisure time; trip for pleasure.", "audio": true },
+      {
+        "value": "We are planning a family holiday to the beach.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Decidir" },
+      { "value": "Decide", "audio": true },
+      { "value": "Make a choice after thinking.", "audio": true },
+      { "value": "He can't decide which car to buy.", "audio": true }
+    ],
+    [
+      { "value": "Reservar" },
+      { "value": "Book", "audio": true },
+      { "value": "Reserve something in advance (seat/room).", "audio": true },
+      { "value": "I need to book my flight tickets soon.", "audio": true }
+    ],
+    [
+      { "value": "Ponerse en forma" },
+      { "value": "Get in shape", "audio": true },
+      { "value": "Become physically fit via exercise.", "audio": true },
+      {
+        "value": "He's started jogging every morning to get in shape.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Unirse a / Apuntarse a" },
+      { "value": "Join", "audio": true },
+      { "value": "Become member of a group.", "audio": true },
+      { "value": "She decided to join the local choir.", "audio": true }
+    ],
+    [
+      { "value": "Gimnasio" },
+      { "value": "Gym", "audio": true },
+      { "value": "Place for indoor exercise/sports.", "audio": true },
+      { "value": "I go to the gym three times a week.", "audio": true }
+    ],
+    [
+      { "value": "Entradas / Publicaciones (de blog)" },
+      { "value": "Posts", "audio": true },
+      { "value": "Online published content items/articles.", "audio": true },
+      { "value": "Her latest blog posts are very informative.", "audio": true }
+    ],
+    [
+      { "value": "Elegir / Escoger" },
+      { "value": "Choose", "audio": true },
+      { "value": "Select from multiple possibilities/options.", "audio": true },
+      {
+        "value": "You have to choose between these two options.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Planear / Planificar" },
+      { "value": "Plan", "audio": true },
+      { "value": "Decide and arrange in advance.", "audio": true },
+      { "value": "They are planning a trip to Europe.", "audio": true }
+    ],
+    [
+      { "value": "Construir / Desarrollar" },
+      { "value": "Build", "audio": true },
+      { "value": "Construct by putting parts together.", "audio": true },
+      { "value": "He wants to build his own house someday.", "audio": true }
+    ],
+    [
+      { "value": "Llegar" },
+      { "value": "Arrive", "audio": true },
+      { "value": "Reach a place (journey's end).", "audio": true },
+      { "value": "What time does the train arrive?", "audio": true }
+    ],
+    [
+      { "value": "Concurrido / Ajetreado" },
+      { "value": "Busy", "audio": true },
+      { "value": "Full of activity or people.", "audio": true },
+      { "value": "The city centre is always busy on Saturdays.", "audio": true }
+    ],
+    [
+      { "value": "Amable / Amistoso" },
+      { "value": "Friendly", "audio": true },
+      { "value": "Pleasant, kind towards other people.", "audio": true },
+      {
+        "value": "The local people were very friendly and welcoming.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Curso" },
+      { "value": "Course", "audio": true },
+      { "value": "Series of lessons or lectures.", "audio": true },
+      { "value": "I'm taking an intensive Spanish course.", "audio": true }
+    ],
+    [
+      { "value": "Estar deseando / Tener muchas ganas de" },
+      { "value": "Look forward to", "audio": true },
+      {
+        "value": "Eagerly anticipate something pleasant (+ing/noun).",
+        "audio": true
+      },
+      { "value": "I'm really looking forward to seeing you.", "audio": true }
+    ],
+    [
+      { "value": "Compartir" },
+      { "value": "Share", "audio": true },
+      { "value": "Use or divide with others.", "audio": true },
+      { "value": "Would you like to share this pizza with me?", "audio": true }
+    ],
+    [
+      { "value": "Piso / Apartamento" },
+      { "value": "Flat", "audio": true },
+      { "value": "Set of rooms, one floor (UK).", "audio": true },
+      {
+        "value": "They rented a small flat near the university.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Sonar / Parecer (por cómo suena)" },
+      { "value": "Sound (verb)", "audio": true },
+      { "value": "Seem based on hearing it.", "audio": true },
+      { "value": "That sounds like a fantastic idea!", "audio": true }
+    ],
+    [
+      { "value": "Centro de la ciudad" },
+      { "value": "City centre", "audio": true },
+      { "value": "City's main commercial business area (UK).", "audio": true },
+      { "value": "Let's meet in the city centre.", "audio": true }
+    ],
+    [
+      { "value": "Salir (a divertirse)" },
+      { "value": "Go out", "audio": true },
+      { "value": "Leave home for social event.", "audio": true },
+      { "value": "They like to go out for dinner on weekends.", "audio": true }
+    ],
+    [
+      { "value": "Finalmente / Por fin" },
+      { "value": "Finally", "audio": true },
+      { "value": "After long time or delay.", "audio": true },
+      {
+        "value": "After waiting for hours, the bus finally arrived.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Actualizar / Poner al día" },
+      { "value": "Update", "audio": true },
+      { "value": "Give most recent information/news.", "audio": true },
+      {
+        "value": "Could you update me on the latest developments?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Gira / Recorrido" },
+      { "value": "Tour", "audio": true },
+      { "value": "Journey visiting several different places.", "audio": true },
+      { "value": "We went on a guided tour of the museum.", "audio": true }
+    ],
+    [
+      { "value": "Maravilloso /a" },
+      { "value": "Wonderful", "audio": true },
+      { "value": "Extremely good; inspiring great delight.", "audio": true },
+      { "value": "We had a wonderful time on our trip.", "audio": true }
+    ],
+    [
+      { "value": "Lago" },
+      { "value": "Lake", "audio": true },
+      { "value": "Large body of surrounded water.", "audio": true },
+      {
+        "value": "The view of the lake from the mountain was breathtaking.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Castillo" },
+      { "value": "Castle", "audio": true },
+      { "value": "Large old fortified historic building.", "audio": true },
+      { "value": "They visited an ancient castle in Scotland.", "audio": true }
+    ],
+    [
+      { "value": "Disfrutar" },
+      { "value": "Enjoy", "audio": true },
+      { "value": "Get pleasure from doing something.", "audio": true },
+      {
+        "value": "I really enjoy reading books in my free time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Noticias / Novedades" },
+      { "value": "News", "audio": true },
+      { "value": "Information about recent important events.", "audio": true },
+      { "value": "The news about the election was surprising.", "audio": true }
+    ],
+    [
+      { "value": "Quedarse / Permanecer" },
+      { "value": "Stay", "audio": true },
+      { "value": "Remain in same place/condition.", "audio": true },
+      { "value": "They decided to stay at home tonight.", "audio": true }
+    ],
+    [
+      { "value": "Al menos / Como mínimo" },
+      { "value": "At least", "audio": true },
+      { "value": "Not less than; the minimum.", "audio": true },
+      {
+        "value": "You should study for at least two hours every day.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Vivir (la acción o experiencia)" },
+      { "value": "Living", "audio": true },
+      { "value": "State or manner of life.", "audio": true },
+      {
+        "value": "Living in a foreign country can be a great experience.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Experiencia" },
+      { "value": "Experience", "audio": true },
+      { "value": "Knowledge from doing; impactful event.", "audio": true },
+      { "value": "She has a lot of experience in marketing.", "audio": true }
+    ],
+    [
       { "value": "¿Qué cosas ya ha hecho la mujer?" },
       { "value": "What things has the woman already done?", "audio": true }
     ],

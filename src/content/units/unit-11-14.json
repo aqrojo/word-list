@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    [
+      { "value": "Playa" },
+      { "value": "ビーチ", "audio": true },
+      { "value": "海に面した、砂や小石でできた海岸。", "audio": true },
+      {
+        "value": "子供たちはビーチで砂のお城を作るのが大好きです。",
+        "audio": true
+      }
+    ]
+  ]
+}
