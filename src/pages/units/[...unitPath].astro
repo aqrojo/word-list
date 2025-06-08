@@ -1,0 +1,121 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import Header from "../../components/Header.astro";
+import Footer from "../../components/Footer.astro";
+import ContentDisplay from "../../components/ContentDisplay.astro";
+import type { CollectionEntry } from "astro:content";
+
+// Definir tipos para mayor claridad
+type UnitCollection = CollectionEntry<"units">;
+
+interface LessonInfo {
+  id: string;
+  lessonNum: number;
+  name: string;
+}
+
+interface NodeItem {
+  value: string;
+  audio?: boolean;
+}
+
+interface Props {
+  entry: CollectionEntry<"units">;
+}
+
+interface Params {
+  unitPath: string;
+}
+
+// Generar todas las rutas posibles
+export async function getStaticPaths() {
+  const unitsEntries = await getCollection("units");
+
+  return unitsEntries.map((entry: CollectionEntry<"units">) => {
+    // Obtener el path completo sin la extensión .json
+    const unitPath = entry.id.replace(".json", "");
+
+    return {
+      params: { unitPath },
+      props: { entry },
+    };
+  });
+}
+
+// Obtener los datos de la unidad específica
+const { entry } = Astro.props as Props;
+const unitPath = (Astro.params as Params).unitPath;
+
+// Extraer información de la estructura de carpetas
+const pathParts = unitPath.split("/");
+const [category = "", lessonFolder = "", exerciseName = ""] = pathParts;
+
+// Obtener todas las unidades para la navegación
+const allUnits = await getCollection("units");
+
+// Solo filtrar ejercicios de la misma lección si tenemos estructura de carpetas
+const sameLessonExercises: LessonInfo[] =
+  category && lessonFolder && exerciseName
+    ? allUnits
+        .filter((unit: CollectionEntry<"units">) => {
+          const unitFilePath = unit.id.replace(".json", "");
+          const [unitCategory = "", unitLesson = ""] = unitFilePath.split("/");
+          return (
+            unitCategory === category &&
+            unitLesson === lessonFolder &&
+            unitFilePath !== unitPath
+          );
+        })
+        .map((unit: CollectionEntry<"units">) => {
+          const unitFilePath = unit.id.replace(".json", "");
+          const [, , fileName = ""] = unitFilePath.split("/");
+          const exerciseNum = parseInt(fileName?.match(/\d+/)?.[0] || "0");
+          return {
+            id: unitFilePath,
+            lessonNum: exerciseNum,
+            name: fileName,
+          };
+        })
+        .sort((a: LessonInfo, b: LessonInfo) => a.lessonNum - b.lessonNum)
+    : [];
+
+// Encontrar ejercicio anterior y siguiente en la misma lección
+const currentExerciseNum = parseInt(exerciseName?.match(/\d+/)?.[0] || "0");
+const previousExercise = sameLessonExercises.find(
+  (ex) => ex.lessonNum < currentExerciseNum
+);
+const nextExercise = sameLessonExercises.find(
+  (ex) => ex.lessonNum > currentExerciseNum
+);
+
+// Formatear nombres para mostrar
+const formatName = (name: string) => name.replace(/[-_]/g, " ");
+
+const pageTitle =
+  category && lessonFolder && exerciseName
+    ? `${formatName(category)} - ${formatName(lessonFolder)} - ${formatName(
+        exerciseName
+      )}`
+    : `Unidad - ${unitPath}`;
+const headerTitle =
+  category && lessonFolder && exerciseName
+    ? `${formatName(category)} • ${formatName(lessonFolder)} • ${formatName(
+        exerciseName
+      )}`
+    : `Unidad - ${unitPath}`;
+---
+
+<Layout title={pageTitle}>
+  <div
+    class="flex flex-col min-h-screen dark:bg-gray-900 transition-colors duration-200"
+  >
+    <Header title={headerTitle} showBackButton={true} />
+    <ContentDisplay nodes={entry.data.nodes} />
+    <Footer
+      currentIndex={1}
+      totalTerms={entry.data.nodes.length}
+      showNavigation={true}
+    />
+  </div>
+</Layout>

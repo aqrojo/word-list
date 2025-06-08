@@ -1,6 +1,6 @@
 import { defineCollection, z } from "astro:content";
 
-// Define el esquema para la colección de unidades
+// Define el esquema para la colección de unidades con estructura de carpetas anidadas
 const unitsCollection = defineCollection({
   type: "data",
   schema: z.object({
