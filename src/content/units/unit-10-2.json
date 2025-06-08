@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Mi nombre real es James, pero mis amigos me llaman Jim."
+      },
+      {
+        "value": "My real name is James, but I am called Jim by my friends.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En mi décimo cumpleaños, me llevaron a Disneyland."
+      },
+      {
+        "value": "On my tenth birthday, I was taken to Disneyland.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Actualmente, la gente en mi empresa recibe un bono cada diciembre."
+      },
+      {
+        "value": "These days, people in my company are paid with a bonus every December.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando era más joven, fui ayudado por muchos maestros."
+      },
+      {
+        "value": "When I was younger, I was helped by many teachers.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En nuestro primer día, a todos los estudiantes nuevos se les muestra la escuela."
+      },
+      {
+        "value": "On our first day, all the new students are shown around the school.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Incluso ahora, me dicen que me parezco a mi madre."
+      },
+      {
+        "value": "Even now, I am told that I look like my mother.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando éramos jóvenes, se esperaba que todos los niños de mi familia fueran doctores."
+      },
+      {
+        "value": "When we were young, all the children in my family were expected to be doctors.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cada mañana, el periódico es entregado en la puerta de mi casa."
+      },
+      {
+        "value": "Every morning, the newspaper is delivered to my doorstep.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Anoche, mi coche fue forzado mientras estaba aparcado en la calle."
+      },
+      {
+        "value": "Last night, my car was broken into while it was parked on the street.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En nuestra oficina, todas las decisiones importantes son tomadas por el equipo de gestión."
+      },
+      {
+        "value": "In our office, all important decisions are made by the management team.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando estaba en la universidad, a menudo me elogiaban por mis habilidades de escritura."
+      },
+      {
+        "value": "When I was at university, I was often praised for my writing skills.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La próxima semana, el nuevo software será instalado en todas las computadoras de la empresa."
+      },
+      {
+        "value": "Next week, the new software will be installed on all the company's computers.",
+        "audio": true
+      }
+    ]
+  ]
+}

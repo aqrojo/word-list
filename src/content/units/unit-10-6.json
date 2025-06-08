@@ -1,0 +1,265 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Hola, ¿podrías ayudarme? Hay un problema con el aire acondicionado."
+      },
+      {
+        "value": "Hello, could you help me? There's a problem with the air conditioner.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya veo, por favor, dime cuál es el problema."
+      },
+      {
+        "value": "I see, please tell me what's the problem.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acabo de intentar encenderlo, pero no funciona."
+      },
+      {
+        "value": "I've just tried to switch it on but it doesn't work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Está completamente muerto?"
+      },
+      {
+        "value": "Is it completely dead?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Completamente, absolutamente nada."
+      },
+      {
+        "value": "Completely, absolutely nothing.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ok, lo investigaremos de inmediato, enviaré a otra persona."
+      },
+      {
+        "value": "Ok, We'll look into it right away, I'll send someone else.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Gracias."
+      },
+      {
+        "value": "Thank you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Serán unos cinco minutos, ¿está bien?"
+      },
+      {
+        "value": "It'll be about five minutes, it's ok?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me temo que tengo una queja, ¿podría hablar con el gerente, por favor?"
+      },
+      {
+        "value": "I'm afraid I have a complain, could I speak to the manager please?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, por supuesto."
+      },
+      {
+        "value": "Yes, of course.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Buenas noches, señor, entiendo que hay un problema."
+      },
+      {
+        "value": "Good evening sir, I understand there's a problem.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, llegamos aquí a las 8 y estuvimos esperando aquí 20 minutos por una mesa."
+      },
+      {
+        "value": "Yes, we've got here at 8 and we were waiting here 20 minutes for a table.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esto es para una mesa que reservamos para las 8, ¿ok?"
+      },
+      {
+        "value": "This is for a table we booked for 8, ok?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y esperamos otra hora por una comida."
+      },
+      {
+        "value": "And we waited another hour for a meal.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Luego, cuando llegó la cuenta, nos pusieron un cargo extra por ello."
+      },
+      {
+        "value": "Then, when the bill arrived, they put an extra charge for it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Un cargo extra? Probablemente sea el cargo por servicio."
+      },
+      {
+        "value": "An extra charge? that's probably the service charge.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno, ¿podrías revisarlo por mí, por favor?"
+      },
+      {
+        "value": "Well, can you check this for me please?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, eso es servicio."
+      },
+      {
+        "value": "Yes, that's service.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno, para ser honesto, no quiero pagar por esto."
+      },
+      {
+        "value": "Well, to be honest, I don't want to pay for this.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Por supuesto que no, bueno señor... Lo siento mucho, es una época del año muy concurrida."
+      },
+      {
+        "value": "Of course not, well sir ... I'm really sorry about that it's a very busy time of year.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Disculpe, ¿trabaja usted aquí?"
+      },
+      {
+        "value": "Excuse me, do you work here?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Sabe cuándo llegará el próximo tren?"
+      },
+      {
+        "value": "Do you know when the next train will be arriving?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno, todo está retrasado."
+      },
+      {
+        "value": "Well, everything is delayed.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Llevo aquí más de una hora."
+      },
+      {
+        "value": "I've been here for over an hour.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo siento, pero no hay nada que podamos hacer en este momento."
+      },
+      {
+        "value": "I'm sorry but there is nothing we can do at the moment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y, ¿sabe cuándo viene el próximo tren?"
+      },
+      {
+        "value": "And, do you know when the next train is coming?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No, no tengo idea."
+      },
+      {
+        "value": "No, I have no idea.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿O cuál es la causa del retraso?"
+      },
+      {
+        "value": "Or why is the cause of the delay?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Hay mucha nieve en la vía?"
+      },
+      {
+        "value": "Is there a lot of snow on the track?",
+        "audio": true
+      }
+    ]
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¡Llego tan tarde! Hubo enormes retrasos en el transporte público esta mañana."
+      },
+      {
+        "value": "I'm so late! There were huge public transport delays this morning.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Oh no, eso es frustrante. ¿Perdiste tu reunión?"
+      },
+      {
+        "value": "Oh no, that's frustrating. Did you miss your meeting?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mira toda esta basura en las calles aquí."
+      },
+      {
+        "value": "Look at all this litter on the streets here.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, es una pena. La gente debería ser más cuidadosa."
+      },
+      {
+        "value": "Yes, it's a shame. People should be more careful.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No puedo creer el mal servicio en ese restaurante anoche."
+      },
+      {
+        "value": "I can't believe the bad service in that restaurant last night.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Yo tampoco! El camarero nos ignoró por completo."
+      },
+      {
+        "value": "Me neither! The waiter completely ignored us.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La impresora no funciona de nuevo. Creo que es un equipo defectuoso."
+      },
+      {
+        "value": "The printer isn't working again. I think it's faulty equipment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Probablemente. Siempre se estropea."
+      },
+      {
+        "value": "Probably. It always breaks down.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Mi computadora sigue fallando! No puedo hacer nada de trabajo."
+      },
+      {
+        "value": "My computer keeps crashing! I can't get any work done.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Has intentado reiniciarla?"
+      },
+      {
+        "value": "Have you tried restarting it?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Perdón por llegar tarde. Me quedé atascado en un embotellamiento durante una hora."
+      },
+      {
+        "value": "Sorry I'm late. I got stuck in a traffic jam for an hour.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No te preocupes, la reunión aún no ha comenzado."
+      },
+      {
+        "value": "Don't worry, the meeting hasn't started yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy cansado de recibir spam en mi bandeja de entrada todos los días."
+      },
+      {
+        "value": "I'm tired of receiving spam in my inbox every day.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Yo también! Es tan molesto."
+      },
+      {
+        "value": "Me too! It's so annoying.",
+        "audio": true
+      }
+    ]
+  ]
+}

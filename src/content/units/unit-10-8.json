@@ -1,0 +1,220 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Llamo por mi servicio de internet. Ha estado increíblemente lento todo el día."
+      },
+      {
+        "value": "I'm calling about my internet service. It's been incredibly slow all day.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "De acuerdo, señor. ¿Puede describir el problema con más detalle?"
+      },
+      {
+        "value": "Okay, sir. Can you describe the problem in more detail?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Las páginas tardan una eternidad en cargar y mis videollamadas se congelan constantemente. Es prácticamente inutilizable."
+      },
+      {
+        "value": "Pages are taking ages to load, and my video calls keep freezing. It's practically unusable.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya veo. ¿Ha intentado reiniciar su router?"
+      },
+      {
+        "value": "I see. Have you tried restarting your router?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, lo he hecho varias veces. No sirvió de nada."
+      },
+      {
+        "value": "Yes, I've done that several times already. It didn't help.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bien. Ejecutaré una prueba de diagnóstico desde nuestro lado. Por favor, espere un momento."
+      },
+      {
+        "value": "Right. I'll run a diagnostic test from our end. Please bear with me for a moment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esto es realmente frustrante ya que trabajo desde casa."
+      },
+      {
+        "value": "This is really frustrating as I work from home.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Entiendo. Haremos todo lo posible para resolver esto rápidamente para usted."
+      },
+      {
+        "value": "I understand. We'll do our best to resolve this quickly for you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hola, llamo porque el técnico de mi lavadora aún no ha llegado."
+      },
+      {
+        "value": "Hi, I'm calling because the technician for my washing machine hasn't arrived yet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Para qué hora era su cita, señora?"
+      },
+      {
+        "value": "What time was your appointment for, madam?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estaba programada para las 2 PM, y ya son casi las 3:30. He estado esperando desde entonces."
+      },
+      {
+        "value": "It was scheduled for 2 PM, and it's nearly 3:30 now. I've been waiting since then.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo siento mucho. Permítame revisar su horario."
+      },
+      {
+        "value": "I'm really sorry about that. Let me check his schedule for you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Disculpe, me temo que tengo que quejarme del ruido que viene de la habitación de arriba."
+      },
+      {
+        "value": "Excuse me, I'm afraid I have to complain about the noise coming from the room upstairs.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Oh, en serio? ¿Qué está pasando?"
+      },
+      {
+        "value": "Oh, really? What's going on?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Han estado poniendo música muy alta desde la medianoche y no puedo dormir."
+      },
+      {
+        "value": "They've been playing very loud music since midnight, and I can't get any sleep.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lamento mucho escuchar eso. Enviaremos seguridad de inmediato."
+      },
+      {
+        "value": "I'm very sorry to hear that. We'll send security up immediately.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hola, llamo por mi última factura de electricidad. Creo que hay un error."
+      },
+      {
+        "value": "Hello, I'm calling about my latest electricity bill. I think there's a mistake.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "De acuerdo, ¿qué parece ser incorrecto, señor?"
+      },
+      {
+        "value": "Okay, what seems to be incorrect, sir?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Dice que usé el doble de electricidad de lo habitual, pero no he cambiado mis hábitos."
+      },
+      {
+        "value": "It says I used twice as much electricity as usual, but I haven't changed my habits.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Permítame buscar los detalles de su cuenta. ¿Puede confirmarme su número de cuenta?"
+      },
+      {
+        "value": "Let me pull up your account details. Can you confirm your account number for me?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Disculpe, acabo de usar los baños públicos de abajo y están bastante sucios."
+      },
+      {
+        "value": "Excuse me, I just used the public restrooms downstairs, and they are quite dirty.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Oh, lamento escuchar eso. ¿Cuál fue el problema específico?"
+      },
+      {
+        "value": "Oh, I'm sorry to hear that. What was the specific issue?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El suelo estaba mojado y no había jabón en los dispensadores."
+      },
+      {
+        "value": "The floor was wet, and there was no soap in the dispensers.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Eso es inaceptable. Llamaré al personal de limpieza de inmediato para que lo solucionen."
+      },
+      {
+        "value": "That's unacceptable. I'll call the cleaning staff immediately to address it.",
+        "audio": true
+      }
+    ]
+  ]
+}

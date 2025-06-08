@@ -1,0 +1,256 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¡Estoy tan molesto! Llegué una hora tarde al trabajo esta mañana."
+      },
+      {
+        "value": "I'm so annoyed! I was an hour late for work this morning.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Oh, Dios, ¿qué pasó?"
+      },
+      {
+        "value": "Oh dear, what happened?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hubo grandes retrasos en el transporte público en mi línea de tren. Simplemente se detuvo por mucho tiempo."
+      },
+      {
+        "value": "There were major public transport delays on my train line. It just stopped for ages.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Eso es increíblemente frustrante cuando intentas llegar al trabajo."
+      },
+      {
+        "value": "That's incredibly frustrating when you're trying to get to work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Viste toda la basura en las calles cerca del parque hoy? Estaba por todas partes."
+      },
+      {
+        "value": "Did you see all the litter on the streets near the park today? It was everywhere.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, es terrible, ¿no? La gente realmente necesita usar los botes de basura."
+      },
+      {
+        "value": "Yes, it's terrible, isn't it? People really need to use the bins.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hace que toda la zona se vea tan desordenada y descuidada."
+      },
+      {
+        "value": "It makes the whole area look so untidy and uncared for.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy de acuerdo. Es una verdadera lástima para un lugar tan agradable."
+      },
+      {
+        "value": "I agree. It's a real shame for such a nice place.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nuestra cena de anoche fue un desastre. Tuvimos un servicio tan malo en ese restaurante."
+      },
+      {
+        "value": "Our dinner last night was a disaster. We had such bad service in that restaurant.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿En serio? ¿Qué salió mal?"
+      },
+      {
+        "value": "Really? What went wrong?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La camarera tardó mucho en tomar nuestro pedido y luego trajo la comida equivocada."
+      },
+      {
+        "value": "The waitress took ages to take our order and then she brought the wrong food.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Eso suena horrible. ¡Espero que no hayas dejado propina!"
+      },
+      {
+        "value": "That sounds awful. I hope you didn't leave a tip!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No puedo terminar mi informe porque el proyector no funciona. Creo que es un equipo defectuoso."
+      },
+      {
+        "value": "I can't finish my report because the projector isn't working. I think it's faulty equipment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Otra vez? Es la tercera vez este mes."
+      },
+      {
+        "value": "Again? That's the third time this month.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, sigue parpadeando. Es imposible de usar."
+      },
+      {
+        "value": "Yes, it keeps flickering on and off. It's impossible to use.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Definitivamente deberíamos reemplazarlo pronto."
+      },
+      {
+        "value": "We should definitely get it replaced soon.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Oh no, mi computadora se está bloqueando de nuevo! Acabo de perder todo mi trabajo sin guardar."
+      },
+      {
+        "value": "Oh no, my computer's crashing again! I just lost all my unsaved work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Esa es la peor sensación! ¿Hiciste una copia de seguridad de tus archivos recientemente?"
+      },
+      {
+        "value": "That's the worst feeling! Did you back up your files recently?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No, no lo he hecho en un tiempo. Debería haberlo guardado más a menudo."
+      },
+      {
+        "value": "No, I haven't in a while. I should have saved it more often.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es una buena lección aprendida, pero dolorosa."
+      },
+      {
+        "value": "It's a good lesson learned, but a painful one.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo siento mucho, llego tarde. Me quedé atascado en un enorme atasco en la autopista."
+      },
+      {
+        "value": "I'm so sorry I'm late. I got stuck in a huge traffic jam on the motorway.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No te preocupes, acabamos de empezar la presentación."
+      },
+      {
+        "value": "Don't worry, we've just started the presentation.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pensé que había salido con mucho tiempo, pero el tráfico estaba completamente parado."
+      },
+      {
+        "value": "I thought I had left with plenty of time, but the traffic was just completely stopped.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pasa. Al menos estás aquí ahora."
+      },
+      {
+        "value": "It happens. At least you're here now.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mi bandeja de entrada está llena de basura. Constantemente recibo spam en mi bandeja de entrada."
+      },
+      {
+        "value": "My inbox is full of junk. I'm constantly receiving spam in my inbox.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Yo también! Es tan molesto borrar todos esos mensajes."
+      },
+      {
+        "value": "Me too! It's so annoying to delete all those messages.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ojalá hubiera una manera de detenerlo por completo."
+      },
+      {
+        "value": "I wish there was a way to stop it completely.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Quizás tu proveedor de correo electrónico tenga mejores filtros de spam que puedas habilitar."
+      },
+      {
+        "value": "Perhaps your email provider has better spam filters you can enable.",
+        "audio": true
+      }
+    ]
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Disculpe, necesito ayuda. Me temo que este artículo está defectuoso."
+      },
+      {
+        "value": "Excuse me, I need some help. I'm afraid this item is faulty.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Oh, lamento escuchar eso. ¿Qué le pasa?"
+      },
+      {
+        "value": "Oh, I'm sorry to hear that. What's wrong with it?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es esta cafetera. Acabo de desempacarla y no enciende."
+      },
+      {
+        "value": "It's this coffee machine. I just unpacked it, and it won't turn on.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Ha revisado el enchufe?"
+      },
+      {
+        "value": "Have you checked the plug?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, he probado varios enchufes. Está completamente muerta."
+      },
+      {
+        "value": "Yes, I've tried several sockets. It's completely dead.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bien, ¿tiene su recibo con usted? Se lo podemos cambiar."
+      },
+      {
+        "value": "Right, do you have your receipt with you? We can exchange it for you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, aquí está. Muchas gracias."
+      },
+      {
+        "value": "Yes, here it is. Thank you very much.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Llamo para quejarme de una entrega que recibí hoy."
+      },
+      {
+        "value": "I'm calling to complain about a delivery I received today.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "De acuerdo, ¿cuál parece ser el problema?"
+      },
+      {
+        "value": "Okay, what seems to be the problem?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pedí un sofá azul, pero me han entregado uno rojo."
+      },
+      {
+        "value": "I ordered a blue sofa, but you've delivered a red one.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mis disculpas, señor. ¿Puede darme su número de pedido?"
+      },
+      {
+        "value": "My apologies, sir. Can you give me your order number?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es 789012. Esto definitivamente no es lo que pedí."
+      },
+      {
+        "value": "It's 789012. This is definitely not what I ordered.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya veo. Haremos los arreglos para que se le entregue el sofá correcto lo antes posible."
+      },
+      {
+        "value": "I see. We'll arrange for the correct sofa to be delivered as soon as possible.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Y cuándo será eso? No quiero esperar otras dos semanas."
+      },
+      {
+        "value": "And when will that be? I don't want to wait another two weeks.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Permítame verificar nuestro cronograma de entrega ahora mismo."
+      },
+      {
+        "value": "Let me check our delivery schedule for you now.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Disculpe, me temo que tengo una queja sobre nuestra habitación de hotel."
+      },
+      {
+        "value": "Excuse me, I'm afraid I have a complaint about our hotel room.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Buenas noches, señora. ¿Cuál parece ser el problema?"
+      },
+      {
+        "value": "Good evening, madam. What seems to be the issue?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno, el aire acondicionado no funciona en absoluto, y hace bastante calor aquí."
+      },
+      {
+        "value": "Well, the air conditioning isn't working at all, and it's quite warm in here.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Oh, lo siento. Puedo enviar a alguien para que lo revise."
+      },
+      {
+        "value": "Oh dear, I'm sorry. I can send someone up to look at it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Además, el minibar está completamente vacío."
+      },
+      {
+        "value": "Also, the minibar is completely empty.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mis disculpas. Enviaré a alguien con una llave para reponerlo de inmediato."
+      },
+      {
+        "value": "My apologies. I'll send someone with a key to restock it right away.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Gracias. Es la habitación 402."
+      },
+      {
+        "value": "Thank you. It's room 402.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo atenderemos lo más rápido posible."
+      },
+      {
+        "value": "We'll attend to it as quickly as possible.",
+        "audio": true
+      }
+    ]
+  ]
+}

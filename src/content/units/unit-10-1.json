@@ -1,0 +1,229 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "La policía atrapa a un hombre robando libros de una librería."
+      },
+      {
+        "value": "The police catch a man stealing books from a bookshop.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Un hombre es sorprendido robando libros de una librería."
+      },
+      {
+        "value": "A man is caught stealing books from a bookshop.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El juez envió al hombre a leer cuentos."
+      },
+      {
+        "value": "The judge sent the man to read stories.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El hombre fue enviado a leer cuentos."
+      },
+      {
+        "value": "The man was sent to read stories.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los niños están comiendo los sándwiches."
+      },
+      {
+        "value": "The children are eating the sandwiches.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los sándwiches están siendo comidos por los niños."
+      },
+      {
+        "value": "The sandwiches are being eaten by the children.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Alguien construyó esta casa en 1950."
+      },
+      {
+        "value": "Someone built this house in 1950.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esta casa fue construida en 1950."
+      },
+      {
+        "value": "This house was built in 1950.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El perro persiguió al gato."
+      },
+      {
+        "value": "The dog chased the cat.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El gato fue perseguido por el perro."
+      },
+      {
+        "value": "The cat was chased by the dog.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ellos publicarán los resultados mañana."
+      },
+      {
+        "value": "They will publish the results tomorrow.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los resultados serán publicados mañana."
+      },
+      {
+        "value": "The results will be published tomorrow.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mi madre hizo esta torta."
+      },
+      {
+        "value": "My mother made this cake.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esta torta fue hecha por mi madre."
+      },
+      {
+        "value": "This cake was made by my mother.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La maestra nos da tarea todos los días."
+      },
+      {
+        "value": "The teacher gives us homework every day.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La tarea nos es dada todos los días por la maestra."
+      },
+      {
+        "value": "Homework is given to us every day by the teacher.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nos dan tarea todos los días por la maestra."
+      },
+      {
+        "value": "We are given homework every day by the teacher.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La compañía produce miles de autos cada año."
+      },
+      {
+        "value": "The company produces thousands of cars every year.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Miles de autos son producidos por la compañía cada año."
+      },
+      {
+        "value": "Thousands of cars are produced by the company every year.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La gente habla inglés en todo el mundo."
+      },
+      {
+        "value": "People speak English all over the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El inglés es hablado en todo el mundo."
+      },
+      {
+        "value": "English is spoken all over the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ella escribió un hermoso poema."
+      },
+      {
+        "value": "She wrote a beautiful poem.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Un hermoso poema fue escrito por ella."
+      },
+      {
+        "value": "A beautiful poem was written by her.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ellos han terminado el proyecto."
+      },
+      {
+        "value": "They have finished the project.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El proyecto ha sido terminado."
+      },
+      {
+        "value": "The project has been finished.",
+        "audio": true
+      }
+    ]
+  ]
+}
