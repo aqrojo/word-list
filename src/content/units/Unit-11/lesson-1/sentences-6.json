@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    [
+      { "value": "Estoy pensando en empezar un blog." },
+      { "value": "I’m thinking of starting a blog.", "audio": true }
+    ],
+    [
+      { "value": "¡Qué bien! ¿Ya has escrito alguna entrada?" },
+      { "value": "Nice! Have you written any posts yet?", "audio": true }
+    ],
+    [
+      { "value": "No, todavía no. Pero ya he elegido un nombre para él." },
+      {
+        "value": "No, not yet. But I’ve already chosen a name for it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Estoy planeando construir un sitio web personal." },
+      { "value": "I’m planning to build a personal website.", "audio": true }
+    ],
+    [
+      { "value": "¡Genial! ¿Ya has creado la página web?" },
+      { "value": "Cool! Have you created the webpage already?", "audio": true }
+    ],
+    [
+      { "value": "No, acabo de empezar a aprender cómo hacerlo." },
+      { "value": "No, I’ve just started learning how to do it.", "audio": true }
+    ],
+    [
+      { "value": "Acabo de llegar a Izmir." },
+      { "value": "I've just arrived in Izmir.", "audio": true }
+    ],
+    [
+      { "value": "Es grande, hermosa y concurrida, y la gente es muy amable." },
+      {
+        "value": "It's big, beautiful and busy, and the people are so friendly.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo llevo aquí una semana y ya he hecho muchos amigos nuevos."
+      },
+      {
+        "value": "I've only been here for one week and I've made lots of new friends already.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La mayoría de ellos también son estudiantes y son nuevos en Izmir."
+      },
+      {
+        "value": "Most of them are students too, and they're new to Izmir.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nuestro curso aún no ha comenzado, pero tengo muchas ganas de que empiece."
+      },
+      {
+        "value": "Our course hasn't started yet, but I'm really looking forward to it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Voy a compartir piso con otro estudiante, Ahmed." },
+      {
+        "value": "I'm going to share a flat with another student, Ahmed.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Aún no lo conozco, pero parece agradable por teléfono." },
+      {
+        "value": "I haven't met him yet, but he sounds nice on the phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El piso está cerca del centro de la ciudad y hay muchos bares y restaurantes cerca"
+      },
+      {
+        "value": "The flat is near the city centre and there are lots of bars and restaurants near there",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Así que debería estar bien para salir por la noche."
+      },
+      {
+        "value": "So it should be good for going out at night.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Alecia y yo finalmente hemos llegado a Bucarest, y a Alecia y a mí nos encanta Bucarest."
+      },
+      {
+        "value": "Alecia and I have finally arrived in Bucharest, and Alecia and I love Bucharest.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pensamos que deberíamos poneros al día sobre la gira de Alecia y mía."
+      },
+      {
+        "value": "We thought we should update you on Alecia's and my tour.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "El mes pasado estuvimos en Hungría." },
+      { "value": "Last month we were in Hungary.", "audio": true }
+    ],
+    [
+      { "value": "Lo pasamos muy bien en Hungría." },
+      { "value": "We had a really good time in Hungary.", "audio": true }
+    ],
+    [
+      {
+        "value": "Conocimos a un hombre llamado George, que era muy amigable."
+      },
+      {
+        "value": "We met a man called George, who was very friendly.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "George nos llevó a unos lagos y castillos maravillosos, y disfrutamos mucho de los lagos y castillos."
+      },
+      {
+        "value": "George took us to some wonderful lakes and castles, and we really enjoyed the lakes and castles.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La otra noticia es que hemos decidido quedarnos en Bucarest durante al menos dos años."
+      },
+      {
+        "value": "The other news is that we have decided to stay in Bucharest for at least two years.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creemos que vivir en Bucarest será una experiencia maravillosa para Alecia y para mí."
+      },
+      {
+        "value": "We think living in Bucharest will be a wonderful experience for Alecia and me.",
+        "audio": true
+      }
+    ]
+  ]
+}

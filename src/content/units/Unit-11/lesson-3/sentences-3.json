@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Uso internet todo el día en el trabajo."
+      },
+      {
+        "value": "I use the internet all day at work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y aun así termino mi trabajo."
+      },
+      {
+        "value": "And I still get my work done.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo siento, pero realmente no veo cuál es el problema."
+      },
+      {
+        "value": "I'm sorry, but I really don't see what the problem is.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creo que el problema es que muchos trabajadores pasan todo el día navegando por internet."
+      },
+      {
+        "value": "I think the problem is that lots of workers spend all day surfing the internet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Están perdiendo el tiempo en lugar de hacer su trabajo."
+      },
+      {
+        "value": "They are wasting their time instead of doing their work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y los estudiantes universitarios están reprobando sus carreras."
+      },
+      {
+        "value": "And students at university are failing their degrees.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pasan todo el tiempo revisando Facebook."
+      },
+      {
+        "value": "They spend all their time checking Facebook.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ven videos que sus amigos les envían."
+      },
+      {
+        "value": "They watch videos that friends send them.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No creo que el problema sea internet."
+      },
+      {
+        "value": "I don't think the problem is the internet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creo que el problema está en los sitios web como Facebook."
+      },
+      {
+        "value": "I think the problem is with the websites like Facebook.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, definitivamente, como YouTube."
+      },
+      {
+        "value": "Yeah, definitely, like YouTube.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Algunas empresas y universidades te impiden usar ciertos sitios web."
+      },
+      {
+        "value": "Some companies and universities stop you from using certain websites.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y en mi opinión eso está bien."
+      },
+      {
+        "value": "And in my opinion that's OK.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero es tan fácil perder el tiempo."
+      },
+      {
+        "value": "But it's so easy to waste time.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No creo que debas usar internet cuando intentas trabajar."
+      },
+      {
+        "value": "I don't think you should use the internet when you're trying to work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A menos que lo necesites para tu trabajo, para investigación o algo así."
+      },
+      {
+        "value": "Unless you need it for your work, for research or something.",
+        "audio": true
+      }
+    ]
+  ]
+}

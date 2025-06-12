@@ -1,0 +1,459 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Protestas políticas"
+      },
+      {
+        "value": "Political protests",
+        "audio": true
+      },
+      {
+        "value": "Public demonstrations or actions by groups of people to express their disagreement or opposition to political policies or leaders.",
+        "audio": true
+      },
+      {
+        "value": "The city center was filled with political protests against the new law.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cambio social"
+      },
+      {
+        "value": "Social change",
+        "audio": true
+      },
+      {
+        "value": "Significant alteration over time in behavior patterns and cultural values and norms.",
+        "audio": true
+      },
+      {
+        "value": "The invention of the internet brought about massive social change.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Organizarse"
+      },
+      {
+        "value": "Organize themselves",
+        "audio": true
+      },
+      {
+        "value": "To arrange or prepare themselves for an activity or event.",
+        "audio": true
+      },
+      {
+        "value": "The students decided to organize themselves for the group project.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Comunidades en línea"
+      },
+      {
+        "value": "Online communities",
+        "audio": true
+      },
+      {
+        "value": "Groups of people who interact with each other primarily through the internet, often sharing common interests or goals.",
+        "audio": true
+      },
+      {
+        "value": "Many gamers are part of large online communities.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Economía global injusta"
+      },
+      {
+        "value": "Unfair global economy",
+        "audio": true
+      },
+      {
+        "value": "An economic system that operates on a global scale but is perceived as having uneven distribution of wealth, opportunities, or power, leading to disadvantages for some.",
+        "audio": true
+      },
+      {
+        "value": "Activists are protesting against what they call an unfair global economy.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Petición en línea"
+      },
+      {
+        "value": "Online petition",
+        "audio": true
+      },
+      {
+        "value": "A formal written request, typically signed by many people and submitted through the internet, appealing to authority with respect to a particular cause.",
+        "audio": true
+      },
+      {
+        "value": "They launched an online petition to save the local park.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Firmas"
+      },
+      {
+        "value": "Signatures",
+        "audio": true
+      },
+      {
+        "value": "A person's name written in a distinctive way as a form of identification in authorization, especially at the end of a document.",
+        "audio": true
+      },
+      {
+        "value": "The document needs 100 signatures to be valid.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acosadores adolescentes"
+      },
+      {
+        "value": "Teenage bullies",
+        "audio": true
+      },
+      {
+        "value": "Adolescents who habitually seek to harm, intimidate, or coerce those perceived as vulnerable.",
+        "audio": true
+      },
+      {
+        "value": "The school has a strict policy against teenage bullies.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Se hizo viral"
+      },
+      {
+        "value": "Went viral",
+        "audio": true
+      },
+      {
+        "value": "To become very popular very quickly on the internet.",
+        "audio": true
+      },
+      {
+        "value": "The video of the cat playing the piano went viral.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Conmocionado"
+      },
+      {
+        "value": "Shocked",
+        "audio": true
+      },
+      {
+        "value": "Feeling surprised and upset.",
+        "audio": true
+      },
+      {
+        "value": "I was shocked by the news of the accident.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Recaudar dinero"
+      },
+      {
+        "value": "Raise money",
+        "audio": true
+      },
+      {
+        "value": "To collect money, often for a specific cause or charity.",
+        "audio": true
+      },
+      {
+        "value": "They organized a concert to raise money for the hospital.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Crear una fundación"
+      },
+      {
+        "value": "Set up a foundation",
+        "audio": true
+      },
+      {
+        "value": "To establish an institution or organization, especially one that is endowed with money for a specific purpose, such as charity or research.",
+        "audio": true
+      },
+      {
+        "value": "After winning the lottery, he decided to set up a foundation to help local artists.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Detener el acoso"
+      },
+      {
+        "value": "Stop bullying",
+        "audio": true
+      },
+      {
+        "value": "To put an end to intimidating or coercing behavior, especially towards those perceived as weaker.",
+        "audio": true
+      },
+      {
+        "value": "The school introduced new rules to stop bullying.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El cambio social ha sido muy importante para las protestas políticas."
+      },
+      {
+        "value": "Social change has been very important for political protests.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "También ha sido importante para el cambio social en todo el mundo."
+      },
+      {
+        "value": "It has also been important for social change around the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Grandes grupos de personas ahora pueden organizarse rápidamente para protestar contra los gobiernos."
+      },
+      {
+        "value": "Large groups of people can now quickly organize themselves to protest against governments.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Utilizan los medios para mostrar al resto del mundo lo que está sucediendo."
+      },
+      {
+        "value": "They use media to show the rest of the world what’s happening.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Grupos como Occupy Wall Street construyen comunidades en línea."
+      },
+      {
+        "value": "Groups like Occupy Wall Street build online communities.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estas comunidades intentan luchar contra lo que consideran una economía global injusta."
+      },
+      {
+        "value": "These communities try to fight against what they see as an unfair global economy.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "McKenna Pope, de 13 años, vio que a su hermano menor le gustaba cocinar."
+      },
+      {
+        "value": "13-year-old McKenna Pope saw that her younger brother enjoyed cooking.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Quería comprarle un horno de juguete como regalo."
+      },
+      {
+        "value": "She wanted to buy him a toy oven as a present.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ella buscó en línea, pero encontró un problema."
+      },
+      {
+        "value": "She went online, but she found a problem.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo podía comprar hornos de juguete diseñados para niñas."
+      },
+      {
+        "value": "She could only buy toy ovens designed for girls.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Decidió iniciar una petición en línea a los juguetes Hasbro."
+      },
+      {
+        "value": "She decided to start an online petition to Hasbro toys.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Les pidió que fabricaran hornos de juguete para niños."
+      },
+      {
+        "value": "She asked them to make toy ovens for boys.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En menos de un mes, su petición recibió 45.000 firmas."
+      },
+      {
+        "value": "In less than a month, her petition received 45,000 signatures.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hasbro luego decidió cambiar el empaque de sus hornos."
+      },
+      {
+        "value": "Hasbro then decided to change the packaging for their ovens.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acosadores adolescentes en Nueva York se filmaron haciendo llorar a su conductor de autobús escolar."
+      },
+      {
+        "value": "Teenage bullies in New York filmed themselves making their school bus driver cry.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Subieron el video a YouTube y se hizo viral."
+      },
+      {
+        "value": "They uploaded the video to YouTube and it went viral.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Max Sidorov, un hombre canadiense de 25 años, vio el video."
+      },
+      {
+        "value": "Max Sidorov, a 25-year-old Canadian man, saw the video.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estaba conmocionado por ello."
+      },
+      {
+        "value": "He was shocked by it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Inició una campaña usando las redes sociales para recaudar dinero."
+      },
+      {
+        "value": "He started a campaign using social media to raise money.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El dinero era para darle unas vacaciones a la conductora del autobús, Karen Klein, de 68 años."
+      },
+      {
+        "value": "The money was to give the bus driver, 68-year-old Karen Klein, a holiday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Quería recaudar 5.000 dólares."
+      },
+      {
+        "value": "He wanted to raise $5,000.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sin embargo, en tres semanas la campaña recaudó más de 600.000 dólares."
+      },
+      {
+        "value": "However, within three weeks the campaign raised more than $600,000.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando Karen recibió el dinero, usó 100.000 dólares."
+      },
+      {
+        "value": "When Karen received the money, she used $100,000.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creó la Fundación Karen Klein para intentar detener el acoso en toda América."
+      },
+      {
+        "value": "She set up the Karen Klein Foundation to try and stop bullying across America.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Así que, sea cual sea tu problema, usa las redes sociales."
+      },
+      {
+        "value": "So, whatever your problem is, use social media.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayudarás a personas que te ayudarán a cambiar el mundo."
+      },
+      {
+        "value": "You’ll help people who will help you change the world.",
+        "audio": true
+      }
+    ]
+  ]
+}

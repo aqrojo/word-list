@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Para algunas personas, las redes sociales podrían ser una buena manera de mantenerse en contacto con amigos, chatear sobre la última descarga de música o jugar videojuegos entre ellos."
+      },
+      {
+        "value": "For some people, social media might be a good way to keep in touch with friends, chat about the latest music download, or play games with each other.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero las redes sociales también están siendo utilizadas por los jóvenes para cambiar el mundo."
+      },
+      {
+        "value": "But social media is also being used by young people to change the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El 43 por ciento de los jóvenes tiene 24 años o menos, y muchos de estos jóvenes usan tecnología móvil."
+      },
+      {
+        "value": "43 percent of young people are 24 years old or younger, and many of these young people use mobile technology.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si esta generación no está contenta con algo, no esperarán a que los políticos lo cambien, usarán las redes sociales para cambiar las cosas ellos mismos."
+      },
+      {
+        "value": "If this generation isn’t happy about something, they won’t wait for politicians to change it, they’ll use social media to change things themselves.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estos son algunos ejemplos de cómo los jóvenes de todo el mundo usan la tecnología y las redes sociales para realmente marcar la diferencia."
+      },
+      {
+        "value": "These are some examples of how young people from around the world use technology and social media to really make a difference.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lee la introducción a un artículo y responde las preguntas."
+      },
+      {
+        "value": "Read the introduction to an article and answer the questions.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué tipo de situaciones crees que la gente puede cambiar usando las redes sociales?"
+      },
+      {
+        "value": "What kind of situations do you think people can change by using social networks?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cómo crees que podrían hacer esto?" },
+      { "value": "How do you think they might do this?", "audio": true }
+    ],
+    [
+      { "value": "Lee el resto del artículo. ¿Menciona tus ideas?" },
+      {
+        "value": "Read the rest of the article. Does it mention your ideas?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo pueden las redes sociales ayudar a los jóvenes a organizar el cambio político?"
+      },
+      {
+        "value": "How can social media help young people to organize political change?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Qué quería hacer McKenna Pope? ¿Tuvo éxito?" },
+      {
+        "value": "What did McKenna Pope want to do? Was she successful?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Cómo empezó la fundación Karen Klein?" },
+      { "value": "How did the Karen Klein foundation start?", "audio": true }
+    ],
+    [
+      {
+        "value": "¿Qué ejemplos en el artículo crees que son buenos usos de las redes sociales?"
+      },
+      {
+        "value": "Which examples in the article do you think are good uses of social media?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Usarías las redes sociales para este tipo de cosas? ¿Por qué / Por qué no?"
+      },
+      {
+        "value": "Would you use social media for these kinds of things? Why/Why not?",
+        "audio": true
+      }
+    ]
+
+  ]
+}

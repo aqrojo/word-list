@@ -1,0 +1,103 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Si usas las redes sociales, encontrarás personas que te ayudarán."
+      },
+      {
+        "value": "If you use social media, you’ll find people who will help you.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si recaudamos suficiente dinero, el conductor del autobús no necesitará trabajar más."
+      },
+      {
+        "value": "If we raise enough money, the bus driver won’t need to work any more.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando la gente vea lo que está pasando, se quedará en shock."
+      },
+      {
+        "value": "When people see what’s happening, they will be shocked.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Las protestas continuarán si no cambian el gobierno."
+      },
+      {
+        "value": "The protests will continue if they don’t change the government.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si me das tus datos, te enviaré la foto."
+      },
+      {
+        "value": "If you give me your details, I will send you the photo.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si firmas la petición, la empresa responderá."
+      },
+      {
+        "value": "If you sign the petition, the company will respond.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando tus amigos vean el video, no se sorprenderán."
+      },
+      {
+        "value": "When your friends see the video, they won't be surprised.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si la situación empeora, ¿dejarás tu trabajo?"
+      },
+      {
+        "value": "If the situation gets worse, will you leave your job?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando veas esta foto, ¡estaré en las Canarias!"
+      },
+      {
+        "value": "When you see this picture, I will be in the Canaries!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si el producto es realmente bueno, la gente no escribirá malas críticas."
+      },
+      {
+        "value": "If the product is really good, the people won't write bad reviews.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si cambian el diseño, ¿comprarás uno?"
+      },
+      {
+        "value": "If they change the design, will you buy one?",
+        "audio": true
+      }
+    ]
+  ]
+}

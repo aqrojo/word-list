@@ -1,0 +1,202 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "No estoy seguro de eso."
+      },
+      {
+        "value": "I'm not sure about that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Navegar por internet a veces te da un respiro."
+      },
+      {
+        "value": "Going on the internet sometimes gives you a break.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es como tomar una taza de café."
+      },
+      {
+        "value": "It's like having a cup of coffee.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "O hablar con alguien en la oficina."
+      },
+      {
+        "value": "Or talking to someone in the office.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La gente debería usar internet tanto como quiera."
+      },
+      {
+        "value": "People should use the internet as much as they like.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No lo creo."
+      },
+      {
+        "value": "I don't think so.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, así es."
+      },
+      {
+        "value": "Yes, that's right.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creo que está bien."
+      },
+      {
+        "value": "I think it's good.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Tengo un pequeño negocio y mi personal usa internet tanto como quiere."
+      },
+      {
+        "value": "I run a small business and my staff use the internet as much as they want to.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No reviso lo que están haciendo."
+      },
+      {
+        "value": "I don't check what they are doing.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hacen todo su trabajo y están contentos."
+      },
+      {
+        "value": "They do all their work and they are happy.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No creo que sea una pérdida de tiempo en absoluto."
+      },
+      {
+        "value": "I don't think it's a waste of time at all.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es lo mismo que ir a una librería."
+      },
+      {
+        "value": "It's the same as going to a bookshop.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "O mirar a través de una pila de revistas."
+      },
+      {
+        "value": "Or looking through a pile of magazines.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me temo que estoy totalmente en desacuerdo."
+      },
+      {
+        "value": "I'm afraid I totally disagree.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El problema es que la gente es adicta."
+      },
+      {
+        "value": "The problem is that people are addicts.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La gente no es adicta a leer libros."
+      },
+      {
+        "value": "People aren't addicted to reading books.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero internet es diferente."
+      },
+      {
+        "value": "But the internet is different.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La gente pasa demasiado tiempo frente a su computadora o su teléfono."
+      },
+      {
+        "value": "People spend too much time in front of their computer or their phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Eligen internet en lugar de los deportes y salir."
+      },
+      {
+        "value": "They choose the internet over sports and going out.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Olvidan cómo vivir en el mundo real."
+      },
+      {
+        "value": "They forget how to live in the real world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y creo que es un problema real."
+      },
+      {
+        "value": "And I think it's a real problem.",
+        "audio": true
+      }
+    ]
+  ]
+}

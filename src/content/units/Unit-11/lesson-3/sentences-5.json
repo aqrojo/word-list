@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Lo siento, pero no creo que haya suficiente dinero para eso."
+      },
+      {
+        "value": "I'm sorry, but I don't think there is enough money for that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No creo que debamos dedicar demasiado tiempo a discutir esto."
+      },
+      {
+        "value": "I don't think we should spend too much time discussing this.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Tengo que decir que creo que tienes razón."
+      },
+      {
+        "value": "I have to say I think you're right.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me temo que estoy totalmente en desacuerdo."
+      },
+      {
+        "value": "I'm afraid I totally disagree.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Hacer que paguen multas? No estoy seguro de eso."
+      },
+      {
+        "value": "Make them pay fines? I'm not sure about that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En mi opinión, deberíamos empezar desde el principio."
+      },
+      {
+        "value": "In my opinion, we should start from the beginning.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creo que todos deberíamos ir a casa temprano hoy."
+      },
+      {
+        "value": "I think we should all go home early today.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No estoy seguro de eso."
+      },
+      {
+        "value": "I'm not sure about that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Está bien tener animales para hacer deporte."
+      },
+      {
+        "value": "It's OK to have animals for sport.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me temo que estoy totalmente en desacuerdo."
+      },
+      {
+        "value": "I'm afraid I totally disagree.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En mi opinión, estos políticos deberían ir a prisión."
+      },
+      {
+        "value": "In my opinion, these politicians should go to prison.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Definitivamente! Son criminales."
+      },
+      {
+        "value": "Definitely! They are criminals.",
+        "audio": true
+      }
+    ]
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    [
+      { "value": "Lo siento, pero realmente no veo cuál es el problema." },
+      {
+        "value": "I'm sorry, but I really don't see what the problem is.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No creo que sea una pérdida de tiempo en absoluto." },
+      { "value": "I don't think it's a waste of time at all.", "audio": true }
+    ],
+    [
+      { "value": "Eso es verdad, pero no creo que el problema sea internet." },
+      {
+        "value": "That's true, but I don't think the problem is the internet.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Me temo que estoy totalmente en desacuerdo." },
+      { "value": "I'm afraid I totally disagree.", "audio": true }
+    ],
+    [
+      {
+        "value": "Usa el lenguaje cuidadosamente cuando discrepas. No seas demasiado directo. Usa frases como 'Lo siento, pero...', 'Me temo que...', 'No estoy seguro/a ...', y 'No creo que ...'"
+      },
+      {
+        "value": "Use language carefully when you disagree. Don't be too direct. Use phrases like I'm sorry, but..., I'm afraid..., I'm not sure ..., and I don't think ...",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No deberías creer lo que lees en internet." },
+      {
+        "value": "You shouldn't believe what you read on the internet.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Internet ha hecho del mundo un lugar mejor." },
+      {
+        "value": "The internet has made the world a better place.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mucha de la tecnología que usamos no es necesaria." },
+      {
+        "value": "A lot of the technology we use is not necessary.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es mejor hablar con alguien que enviarle un mensaje de texto."
+      },
+      {
+        "value": "It's better to talk to someone than to send them a text message.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Descargar canciones gratis está BIEN." },
+      { "value": "Downloading songs for free is OK.", "audio": true }
+    ],
+    [
+      { "value": "Los libros en línea significarán el fin de las librerías." },
+      { "value": "Online books will mean the end of bookshops.", "audio": true }
+    ],
+    [
+      { "value": "Todo el mundo en el mundo debería tener una computadora." },
+      {
+        "value": "Everybody in the world should have a computer.",
+        "audio": true
+      }
+    ]
+  ]}
+

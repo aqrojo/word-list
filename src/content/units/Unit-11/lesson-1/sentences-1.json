@@ -1,0 +1,107 @@
+{
+  "nodes": [
+    [
+      { "value": "¿Con qué frecuencia tú y tu pareja hacéis estas cosas?" },
+      {
+        "value": "how often do you and your partner do these things?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Usar tu teléfono móvil" },
+      { "value": "Use your mobile phone", "audio": true }
+    ],
+    [
+      { "value": "Escribir un bloque (probablemente 'blog')" },
+      { "value": "Write a block", "audio": true }
+    ],
+    [
+      { "value": "Usar un sitio para compartir videos" },
+      { "value": "Use a video sharing site", "audio": true }
+    ],
+    [
+      { "value": "Enviar un mensaje de texto" },
+      { "value": "Send a text message", "audio": true }
+    ],
+    [
+      { "value": "Chatear en línea" },
+      { "value": "Chat online", "audio": true }
+    ],
+    [
+      { "value": "Actualizar tu página web" },
+      { "value": "Update your webpage", "audio": true }
+    ],
+    [
+      { "value": "Seguir un blog" },
+      { "value": "Follow a blog", "audio": true }
+    ],
+    [
+      { "value": "Compartir enlaces" },
+      { "value": "Share links", "audio": true }
+    ],
+    [
+      { "value": "Publicar mensajes" },
+      { "value": "Post messages", "audio": true }
+    ],
+    [
+      { "value": "Usar sitios de redes sociales" },
+      { "value": "Use social networking sites", "audio": true }
+    ],
+    [
+      { "value": "Uso mi teléfono para todo" },
+      { "value": "I use my phone for everything", "audio": true }
+    ],
+    [
+      {
+        "value": "Envío mensajes de texto la mayor parte del tiempo porque es rápido y barato"
+      },
+      {
+        "value": "I texts most of the time because is quick and cheap",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Así que le envío mensajes de texto a mi amiga y a mi novio" },
+      { "value": "So I text my friend and my boyfriend", "audio": true }
+    ],
+    [
+      { "value": "Me gustan los mensajes de texto por el silencio" },
+      { "value": "I like text because the quiet", "audio": true }
+    ],
+    [
+      { "value": "Nadie sabe lo que estás diciendo" },
+      { "value": "Nobody knows what you're saying", "audio": true }
+    ],
+    [
+      {
+        "value": "Mi mamá solía llamarme todo el tiempo para comprobar que estoy bien"
+      },
+      {
+        "value": "My mom used to call me all the time to check I'm ok",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pero ahora podría enviarme mensajes de texto porque es mejor"
+      },
+      {
+        "value": "But now she could text me because it's better",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me molesta mucho cuando estás hablando con alguien y está enviando mensajes de texto a otra persona"
+      },
+      {
+        "value": "I get really annoyed when you're talking with someone and they're texting someone else",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Creo que eso es muy maleducado" },
+      { "value": "I think that's really rude", "audio": true }
+    ]
+  ]
+}

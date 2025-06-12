@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¿Cuáles de las cosas... posees?"
+      },
+      {
+        "value": "Which of the things... do you own?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cuáles usas todos los días?"
+      },
+      {
+        "value": "Which do you use every day?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué artículos... son los más útiles?"
+      },
+      {
+        "value": "Which items... are the most useful?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En EE. UU., un niño ve televisión un promedio de 3 horas al día."
+      },
+      {
+        "value": "In the USA a child watches TV for an average of 3 hours a day.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En algunas partes del Reino Unido, más del 50 por ciento de los niños de primaria tienen un televisor en su dormitorio."
+      },
+      {
+        "value": "In parts of the UK, more than 50 percent of primary school children have a TV in their bedroom.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La persona promedio pasa 3 años comiendo y 9 años viendo televisión."
+      },
+      {
+        "value": "The average person spends 3 years eating and 9 years watching TV.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los niños menores de tres años que ven más de 1 hora de televisión al día"
+      },
+      {
+        "value": "Children under three years old who watch more than 1 hour of TV a day",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pueden tener problemas para concentrarse en la escuela cuando sean mayores."
+      },
+      {
+        "value": "May have problems concentrating at school when they are older.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En EE. UU., algunas familias pasan solo 38 minutos a la semana teniendo conversaciones significativas con sus hijos."
+      },
+      {
+        "value": "In the USA some families spend only 38 minutes a week having meaningful conversations with their children.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esos niños pasan 1023 minutos a la semana viendo televisión."
+      },
+      {
+        "value": "Those children spend 1023 minutes a week watching TV.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cuántas horas pasas viendo la TV por semana?"
+      },
+      {
+        "value": "How many hours do you spend watching TV per week?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué crees que harán los niños cuando les quiten sus televisiones y videojuegos?"
+      },
+      {
+        "value": "What do you think the children will do when their televisions and video games are taken away?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo crees que se sentirán los padres durante el experimento?"
+      },
+      {
+        "value": "How do you think the parents will feel during the experiment?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Es mala la TV para los niños?"
+      },
+      {
+        "value": "Is TV Bad For Kids?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Vivir sin televisiones, computadoras y videojuegos."
+      },
+      {
+        "value": "live without televisions, computers and video games",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los niños que ven demasiada TV engordan."
+      },
+      {
+        "value": "Children who watch too much TV get fat.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El programa Panorama fue a una escuela secundaria en Manchester."
+      },
+      {
+        "value": "The programme Panorama went to a secondary school in Manchester.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sacaron los microondas de los hogares de la mitad de los niños de la clase."
+      },
+      {
+        "value": "They took the microwaves out of the homes of half the children in the class.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Dieron a los niños una cámara para grabar lo que sucedió."
+      },
+      {
+        "value": "They gave the children a camera to record what happened.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los padres tuvieron que trabajar mucho más duro cuando no había televisiones."
+      },
+      {
+        "value": "The parents had to work a lot harder when there were no TVs.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Después del experimento, las familias vieron la misma cantidad de TV que antes."
+      },
+      {
+        "value": "After the experiment, the families watched the same amount of TV as before.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué piensas del experimento? ¿Crees que fue una buena idea?"
+      },
+      {
+        "value": "What do you think of the experiment? Do you think it was a good idea?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo mantienen entretenidos los padres a sus hijos en tu país?"
+      },
+      {
+        "value": "How do parents keep their children entertained in your country?",
+        "audio": true
+      }
+    ]
+  ]
+}

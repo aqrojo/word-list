@@ -1,0 +1,247 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Smartphone? Es esencial."
+      },
+      {
+        "value": "Smart phone? That's essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo amo."
+      },
+      {
+        "value": "I love it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo uso todo el tiempo, para todo."
+      },
+      {
+        "value": "I use it all the time, for everything.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hablo con gente, chateo, envío mensajes de texto, tomo fotos."
+      },
+      {
+        "value": "I talk to people, chat, text, take photos.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No podría vivir sin mi teléfono."
+      },
+      {
+        "value": "I couldn't live without my phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Microondas? Eso es esencial."
+      },
+      {
+        "value": "Microwave? That's essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No tengo mucho tiempo para cocinar, así que lo uso mucho."
+      },
+      {
+        "value": "I don't have lots of time for cooking, so I use it a lot.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Televisión? No esencial."
+      },
+      {
+        "value": "Television? Not essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No veo mucha televisión."
+      },
+      {
+        "value": "I don't watch much television.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "DVD."
+      },
+      {
+        "value": "DVD.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Uso mi teléfono."
+      },
+      {
+        "value": "I use my phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Entonces qué más?"
+      },
+      {
+        "value": "So, what else?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Laptop? Eso es realmente esencial, uso mi laptop para trabajar, así que sí, la necesito."
+      },
+      {
+        "value": "Laptop? That's really essential, I use my laptop for work, so yes, I need that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Tablet? Hmm. Supongo que no es esencial."
+      },
+      {
+        "value": "Tablet? Hmm. I guess it's not essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cuáles son esenciales? ¡Todos ellos!"
+      },
+      {
+        "value": "Which are essential? All of them!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Dios mío. Bien. ¿Smartphone? Esencial."
+      },
+      {
+        "value": "Goodness. Right. Smart phone? Essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No voy a ninguna parte sin mi teléfono."
+      },
+      {
+        "value": "I don't go anywhere without my phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo necesito en caso de una emergencia y tenga que llamar a alguien."
+      },
+      {
+        "value": "I need it in case there's an emergency and I have to call someone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "O si hay un problema con uno de los niños."
+      },
+      {
+        "value": "Or if there's a problem with one of the children.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, definitivamente necesito mi teléfono."
+      },
+      {
+        "value": "Yes, I definitely need my phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Televisión? Eso es realmente esencial."
+      },
+      {
+        "value": "TV? That's essential really.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No podría vivir sin mi televisión y mi reproductor de DVD."
+      },
+      {
+        "value": "I couldn't live without my television and DVD player.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Uhm. ¿Laptop? Bueno, realmente necesito una computadora, así que sí, eso es esencial."
+      },
+      {
+        "value": "Umm. Laptop? Well, I need a computer really so yes, that's essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Tablet. Bueno, no, eso no es esencial."
+      },
+      {
+        "value": "Tablet. Well, no that's not essential.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cámara digital? Supongo que no la necesito."
+      },
+      {
+        "value": "Digital camera? I suppose I don't need that.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Alguien más puede tomar las fotos!"
+      },
+      {
+        "value": "Someone else can take the photos!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué más? Microondas. No. Puedo vivir sin eso."
+      },
+      {
+        "value": "What else? Microwave. No. I can live without that.",
+        "audio": true
+      }
+    ]
+  ]
+}

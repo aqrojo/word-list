@@ -1,0 +1,266 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¡Hola! Para este ejercicio, no estoy contento con el transporte público en nuestra ciudad."
+      },
+      {
+        "value": "Hi! So, for this exercise, I'm not happy about the public transport in our city.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "A menudo llega tarde y está muy concurrido."
+      },
+      {
+        "value": "It's often late and very crowded.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Oh, estoy de acuerdo!"
+      },
+      {
+        "value": "Oh, I agree!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es un gran problema."
+      },
+      {
+        "value": "It's a big problem.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo podríamos usar las redes sociales para cambiarlo?"
+      },
+      {
+        "value": "How could we use social media to change it?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno, creo que podríamos crear un grupo de Facebook."
+      },
+      {
+        "value": "Well, I think we could create a Facebook group.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Podríamos compartir fotos y videos del mal servicio allí."
+      },
+      {
+        "value": "We could share photos and videos of the bad service there.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Esa es una buena idea!"
+      },
+      {
+        "value": "That's a good idea!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Y qué harías específicamente?"
+      },
+      {
+        "value": "And what would you do specifically?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Animaríamos a la gente a publicar sus propias experiencias."
+      },
+      {
+        "value": "I would encourage people to post their own experiences.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "También podríamos etiquetar a la compañía de transporte en nuestras publicaciones para llamar su atención."
+      },
+      {
+        "value": "We could also tag the transport company in our posts to get their attention.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Y qué hay de una petición en línea o una protesta?"
+      },
+      {
+        "value": "And what about an online petition or a protest?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, si el grupo crece lo suficiente, podríamos iniciar una petición en línea pidiendo mejores horarios y más autobuses."
+      },
+      {
+        "value": "Yes, if the group gets big enough, we could start an online petition asking for better bus schedules and more buses.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Una protesta podría ser demasiado difícil, pero una petición es posible."
+      },
+      {
+        "value": "A protest could be too difficult, but a petition is possible.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy un poco preocupado por la falta de contenedores de reciclaje en nuestro vecindario."
+      },
+      {
+        "value": "I'm a bit worried about the lack of recycling bins in our neighborhood.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La gente quiere reciclar, pero no hay suficientes lugares para hacerlo."
+      },
+      {
+        "value": "People want to recycle, but there aren't enough places to do it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Eso es cierto!"
+      },
+      {
+        "value": "That's true!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Es un problema para el medio ambiente."
+      },
+      {
+        "value": "It's a problem for the environment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo podemos usar las redes sociales para esto?"
+      },
+      {
+        "value": "How can we use social media for this?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Podríamos iniciar una campaña en Instagram."
+      },
+      {
+        "value": "We could start an Instagram campaign.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Podríamos publicar fotos de basura que podría reciclarse y pedir más contenedores al concejo local."
+      },
+      {
+        "value": "We could post pictures of trash that could be recycled, and ask the local council for more bins.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Buena idea!"
+      },
+      {
+        "value": "Good idea!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué harías exactamente?"
+      },
+      {
+        "value": "What exactly would you do?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Usaría un hashtag específico, como #MásContenedoresDeReciclaje, y pediría a todos que lo usaran."
+      },
+      {
+        "value": "I'd use a specific hashtag, like #MoreRecyclingBins, and ask everyone to use it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "También podríamos crear algunos videos cortos explicando por qué el reciclaje es importante."
+      },
+      {
+        "value": "We could also create some short videos explaining why recycling is important.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Podríamos organizar una petición en línea o intentar recaudar dinero?"
+      },
+      {
+        "value": "Could we organise an online petition or try to raise money?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Una petición en línea sería genial!"
+      },
+      {
+        "value": "An online petition would be great!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Podríamos pedir al gobierno local que instale más contenedores en lugares públicos."
+      },
+      {
+        "value": "We could ask the local government to install more bins in public places.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Recaudar dinero podría ser más difícil, pero la petición es un buen primer paso."
+      },
+      {
+        "value": "Raising money might be harder, but the petition is a good first step.",
+        "audio": true
+      }
+    ]
+
+  ]
+}

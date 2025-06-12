@@ -1,0 +1,154 @@
+{
+  "nodes": [
+
+
+
+
+    [
+      { "value": "Uso mucho internet" },
+      { "value": "I use the internet a lot", "audio": true }
+    ],
+    [
+      {
+        "value": "Uso Skype para estar en contacto con mi familia porque mi hija vive en Francia"
+      },
+      {
+        "value": "I use skype to be in touch with my family because my daughter leaves in France",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Así que no la veo muy a menudo y el teléfono es caro" },
+      {
+        "value": "So I don't see very often and the phone is expensive",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Con internet, puedo ver a mis nietos y es maravilloso" },
+      {
+        "value": "With the internet, I can see my grandchildren and it's wonderful",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Mi hijo me configuró el ordenador" },
+      { "value": "My son set up the computer for me", "audio": true }
+    ],
+    [
+      { "value": "Todavía no he aprendido cómo hacerlo" },
+      { "value": "I haven't learn how to do that yet", "audio": true }
+    ],
+    [
+      {
+        "value": "Y a veces se cuelga durante la llamada, lo cual es molesto, o no puedo ver la imagen correctamente"
+      },
+      {
+        "value": "And sometimes it crashes during the phone call which is annoying o I can't see the picture properly",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Pero usualmente está bien" },
+      { "value": "But usually it's fine", "audio": true }
+    ],
+    [
+      { "value": "Generalmente creo que la tecnología es maravillosa" },
+      { "value": "Generally I think technology is wonderful", "audio": true }
+    ],
+    [
+      {
+        "value": "Cuando era más joven solo soñábamos con tener videollamadas, pero ahora es posible y es gratis"
+      },
+      {
+        "value": "When I was younger we only dream to have video calls but now it's possible and it's free",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Usamos un blog. Es una gran manera de contarle a la gente sobre tus experiencias de viaje"
+      },
+      {
+        "value": "We use a blog. It's a great way to tell people about your travelling experiences",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya hemos estado en tantos lugares y es agradable contárselo a la gente"
+      },
+      {
+        "value": "We've been to so many places already and it's nice to tell people about them",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y puedes poner fotos allí con la gente que conociste y los lugares que visitaste"
+      },
+      {
+        "value": "And you can place photos there with the people you met and the places you visited",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo mejor es que tan pronto como escribes el blog, gente de todo el mundo puede leerlo"
+      },
+      {
+        "value": "The best thing is that as soon as you write the blog, people all over the world can read it",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El único problema que tenemos es que a veces no podemos encontrar un cibercafé"
+      },
+      {
+        "value": "The only problem we have is that sometimes we can't find an internet cafe",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Acabo de empezar a usar sitios de redes sociales como Facebook"
+      },
+      {
+        "value": "I've just started to use networking sites like facebook",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "He encontrado algunos amigos que no había visto en años y fue genial volver a ponernos en contacto"
+      },
+      {
+        "value": "I've found some friends I haven't seen for years and it was great to get in touch again",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El único problema es que sigo revisándolo cuando debería estar trabajando"
+      },
+      {
+        "value": "The only problem is that I keep checking it when I should be working",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Uso Instagram y TikTok todos los días." },
+      { "value": "I use Instagram and TikTok every day.", "audio": true }
+    ],
+    [
+      {
+        "value": "Así es como me mantengo en contacto con mis amigos y veo qué hace todo el mundo."
+      },
+      {
+        "value": "It’s how I stay in touch with my friends and see what everyone’s up to.",
+        "audio": true
+      }
+    ]
+  ]
+}

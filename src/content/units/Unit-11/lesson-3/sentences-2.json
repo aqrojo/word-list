@@ -1,0 +1,148 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¿Cuál es el problema con las tardes de viernes?"
+      },
+      {
+        "value": "What is the problem with Friday afternoons?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿De qué tipo de distracciones habla el artículo?"
+      },
+      {
+        "value": "What kind of distractions does the article talk about?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cuánto tiempo pierde la gente sin trabajar?"
+      },
+      {
+        "value": "How much time do people waste not working?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Por qué es internet malo para las relaciones?"
+      },
+      {
+        "value": "Why is the internet bad for relationships?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Crees que estar en internet es una buena manera de pasar tu tiempo libre?"
+      },
+      {
+        "value": "Do you think being on the internet is a good way to spend your free time?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿O crees que la gente pasa demasiado tiempo en internet?"
+      },
+      {
+        "value": "Or do you think people spend too much time on the internet?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los hombres ambos usan internet en el trabajo."
+      },
+      {
+        "value": "The men both use the internet at work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La mujer piensa que la gente no debería usar internet cuando está en el trabajo."
+      },
+      {
+        "value": "The woman thinks people shouldn’t use the internet when they are at work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los hombres ambos piensan que internet es una pérdida de tiempo."
+      },
+      {
+        "value": "The men both think that the internet is a waste of time.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La mujer dice que algunas personas prefieren internet al deporte."
+      },
+      {
+        "value": "The woman says some people prefer the internet to sport.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Adictivo. Alguna gente no puede dejar de usarlo."
+      },
+      {
+        "value": "Addictive. Some people can’t stop using it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Malo para las relaciones."
+      },
+      {
+        "value": "Bad for relationships.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Peligroso. Puedes conocer gente peligrosa en internet."
+      },
+      {
+        "value": "Dangerous. You can meet dangerous people on the internet.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bueno cuando quieres un descanso del trabajo."
+      },
+      {
+        "value": "Good when you want a break from work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Causar que la gente suspenda sus títulos universitarios porque pasan demasiado tiempo en sitios de redes sociales cuando deberían estar estudiando."
+      },
+      {
+        "value": "Causing people to fail their university degrees because they spend too much time on social networking sites when they should be studying.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Una pérdida de tiempo."
+      },
+      {
+        "value": "A waste of time.",
+        "audio": true
+      }
+    ]
+  ]
+}

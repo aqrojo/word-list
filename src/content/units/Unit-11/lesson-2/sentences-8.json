@@ -1,0 +1,166 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Si alguien me envía una petición en línea, probablemente la leeré."
+      },
+      {
+        "value": "If someone sends me an online petition, I'll probably read it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si estoy enojado con el gobierno o una gran empresa, podría escribirles un correo electrónico."
+      },
+      {
+        "value": "If I'm angry about the government or a big company, I might write an email to them.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando me vaya de vacaciones la próxima vez, iré a la playa."
+      },
+      {
+        "value": "When I next go on holiday, I'm going to visit the beach.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando llegue a casa esta tarde, veré una película."
+      },
+      {
+        "value": "When I get home this evening, I'll watch a film.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si tengo hambre más tarde, me haré un sándwich."
+      },
+      {
+        "value": "If I'm hungry later, I'll make a sandwich.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si alguien me invita a una fiesta, definitivamente iré."
+      },
+      {
+        "value": "If someone invites me to a party, I'll definitely go.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si salgo este fin de semana, me encontraré con mis amigos."
+      },
+      {
+        "value": "If I go out this weekend, I'll meet my friends.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si pierdo mi teléfono móvil, lo llamaré desde el teléfono de un amigo."
+      },
+      {
+        "value": "If I lose my mobile phone, I'll call it from a friend's phone.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si llueve mañana, me quedaré en casa y leeré un libro."
+      },
+      {
+        "value": "If it rains tomorrow, I'll stay at home and read a book.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando termine de trabajar hoy, voy a cocinar pasta para cenar."
+      },
+      {
+        "value": "When I finish work today, I'm going to cook pasta for dinner.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si ahorro suficiente dinero, me compraré un par de zapatillas nuevas el próximo mes."
+      },
+      {
+        "value": "If I save enough money, I'll buy a new pair of trainers next month.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando empiece mi programa de televisión favorito, dejaré lo que esté haciendo y lo veré."
+      },
+      {
+        "value": "When my favourite TV show starts, I'll stop what I'm doing and watch it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si hace buen tiempo este fin de semana, iremos a pasear por el parque."
+      },
+      {
+        "value": "If the weather is good this weekend, we'll go for a walk in the park.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando vea a mis padres la próxima vez, les contaré sobre mi nuevo trabajo."
+      },
+      {
+        "value": "When I see my parents next, I'll tell them about my new job.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si no me siento bien mañana por la mañana, no iré a trabajar."
+      },
+      {
+        "value": "If I don't feel well tomorrow morning, I won't go to work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando aprenda inglés perfectamente, viajaré por todo el mundo."
+      },
+      {
+        "value": "When I learn English perfectly, I'll travel around the world.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Si la tienda está abierta, compraré pan fresco de camino a casa."
+      },
+      {
+        "value": "If the shop is open, I'll buy some fresh bread on my way home.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Cuando lleguen las vacaciones de verano, estaré muy feliz y relajado."
+      },
+      {
+        "value": "When the summer holidays arrive, I'll be very happy and relaxed.",
+        "audio": true
+      }
+    ]
+  ]
+}

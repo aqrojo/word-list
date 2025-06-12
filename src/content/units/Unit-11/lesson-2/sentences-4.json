@@ -1,0 +1,184 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "La última vez que estuve realmente confundido fue intentando montar un mueble nuevo."
+      },
+      {
+        "value": "The last time I was really confused was trying to assemble a new piece of furniture.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Oh, conozco esa sensación! ¿Cuál fue el problema?"
+      },
+      {
+        "value": "Oh, I know that feeling! What was the problem?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Las instrucciones eran imposibles de entender. Eran solo imágenes, y no tenían ningún sentido."
+      },
+      {
+        "value": "The instructions were impossible to understand. They were only pictures, and they didn't make any sense.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Lograste terminarlo al final?"
+      },
+      {
+        "value": "Did you manage to finish it in the end?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, pero me llevó horas, ¡y creo que puse una parte al revés!"
+      },
+      {
+        "value": "Yes, but it took me hours, and I think I put one part on backwards!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La última vez que estuve realmente preocupado fue cuando mi perro desapareció durante unas horas."
+      },
+      {
+        "value": "The last time I was really worried was when my dog went missing for a few hours.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Oh no, eso es terrible! ¿Qué pasó?"
+      },
+      {
+        "value": "Oh no, that's terrible! What happened?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Simplemente se escapó durante nuestro paseo, y no pude encontrarlo por ninguna parte."
+      },
+      {
+        "value": "He just ran off during our walk, and I couldn't find him anywhere.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo te sentiste?"
+      },
+      {
+        "value": "How did you feel?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estaba tan asustado. Pensé que se había perdido para siempre, pero por suerte, regresó a casa solo."
+      },
+      {
+        "value": "I was so scared. I thought he was lost forever, but luckily, he came back home by himself.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La última vez que me sentí bastante solo fue durante las primeras semanas del confinamiento."
+      },
+      {
+        "value": "The last time I felt quite lonely was during the first few weeks of the lockdown.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, ese fue un momento difícil para muchas personas. ¿Por qué te sentías solo?"
+      },
+      {
+        "value": "Yes, that was a tough time for many people. Why did you feel lonely?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No podía ver a mis amigos ni a mi familia, y extrañaba nuestras actividades habituales."
+      },
+      {
+        "value": "I couldn't see my friends or family, and I missed our usual activities.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué hiciste para sentirte mejor?"
+      },
+      {
+        "value": "What did you do to feel better?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Empecé a llamar a mis amigos más a menudo, y eso realmente ayudó."
+      },
+      {
+        "value": "I started calling my friends more often, and that really helped.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La última vez que estuve realmente emocionado fue cuando reservé mis vacaciones de verano."
+      },
+      {
+        "value": "The last time I was really excited was when I booked my summer holiday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Oh, esa es una gran sensación! ¿A dónde vas?"
+      },
+      {
+        "value": "Oh, that's a great feeling! Where are you going?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Voy a Mallorca con algunos amigos. ¡No puedo esperar!"
+      },
+      {
+        "value": "I'm going to Mallorca with some friends. I can't wait!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué planeas hacer allí?"
+      },
+      {
+        "value": "What are you planning to do there?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esperamos pasar mucho tiempo en la playa y visitar algunos pueblos bonitos."
+      },
+      {
+        "value": "We're hoping to spend a lot of time on the beach and visit some nice towns.",
+        "audio": true
+      }
+    ]
+  ]
+}

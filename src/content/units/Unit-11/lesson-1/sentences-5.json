@@ -1,0 +1,94 @@
+{
+  "nodes": [
+    [
+      { "value": "¿Qué cosas ya ha hecho la mujer?" },
+      { "value": "What things has the woman already done?", "audio": true }
+    ],
+    [
+      { "value": "Ya he estado allí." },
+      { "value": "I've been there already", "audio": true }
+    ],
+    [
+      { "value": "Aún no la conozco." },
+      { "value": "I haven't met her yet", "audio": true }
+    ],
+    [
+      { "value": "Acabamos de ver una película." },
+      { "value": "We've just seen a film", "audio": true }
+    ],
+    [
+      { "value": "Ya se han ido." },
+      { "value": "They've already gone", "audio": true }
+    ],
+    [
+      { "value": "Aún no hemos terminado." },
+      { "value": "We haven't finished yet", "audio": true }
+    ],
+    [
+      { "value": "Él acaba de hablar con ella." },
+      { "value": "He's just spoken to her", "audio": true }
+    ],
+    [
+      { "value": "Ya he viajado al extranjero varias veces por trabajo." },
+      {
+        "value": "I’ve already traveled abroad several times for work.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¿Ya has empezado un programa de ejercicios?" },
+      { "value": "Have you started an exercise programme yet?", "audio": true }
+    ],
+    [
+      {
+        "value": "Ella aún no ha escrito un blog regularmente, pero está pensando en ello."
+      },
+      {
+        "value": "She hasn’t written a regular blog yet, but she’s thinking about it.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "¡Acabo de aprender a tocar la guitarra!" },
+      { "value": "I’ve just learned to play the guitar!", "audio": true }
+    ],
+    [
+      { "value": "¿Ya ha aprendido él a conducir un coche?" },
+      { "value": "Has he learned to drive a car yet?", "audio": true }
+    ],
+    [
+      { "value": "Ellos ya han creado su propia página web para el proyecto." },
+      {
+        "value": "They’ve already created their own webpage for the project.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Necesito organizar mis vacaciones." },
+      { "value": "I need to organise my holiday.", "audio": true }
+    ],
+    [
+      { "value": "OK. ¿Ya has decidido dónde ir?" },
+      { "value": "OK. Have you already decided where to go?", "audio": true }
+    ],
+    [
+      { "value": "Sí. Pero aún no he reservado los billetes." },
+      { "value": "Yes. But I haven't booked the tickets yet.", "audio": true }
+    ],
+    [
+      { "value": "Quiero ponerme en forma este año." },
+      { "value": "I want to get in shape this year.", "audio": true }
+    ],
+    [
+      { "value": "¡Genial! ¿Ya has empezado un programa de ejercicios?" },
+      {
+        "value": "Great! Have you already started an exercise programme?",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Sí, acabo de apuntarme a un gimnasio cerca de mi casa." },
+      { "value": "Yes, I’ve just joined a gym near my house.", "audio": true }
+    ]
+  ]
+}

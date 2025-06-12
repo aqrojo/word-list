@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Los retrasos en el transporte público a menudo me hacen llegar tarde al trabajo."
+      },
+      {
+        "value": "Public transport delays often make me late for work.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No podemos permitirnos más retrasos en el transporte público hoy."
+      },
+      {
+        "value": "We can't afford any more public transport delays today.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La basura en las calles es un gran problema en muchas ciudades."
+      },
+      {
+        "value": "Litter on the streets is a big problem in many cities.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Por favor, no tires basura en las calles."
+      },
+      {
+        "value": "Please don't drop litter on the streets.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "El cliente se quejó del mal servicio en el restaurante."
+      },
+      {
+        "value": "The customer complained about the bad service in the restaurant.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me fui por el mal servicio en esa tienda."
+      },
+      {
+        "value": "I left because of the bad service in that shop.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La nueva máquina tiene equipo defectuoso."
+      },
+      {
+        "value": "The new machine has faulty equipment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Necesitamos reemplazar el equipo defectuoso inmediatamente."
+      },
+      {
+        "value": "We need to replace the faulty equipment immediately.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mi computadora sigue fallando cuando abro ese programa."
+      },
+      {
+        "value": "My computer keeps crashing when I open that program.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Tus computadoras se caen a menudo?"
+      },
+      {
+        "value": "Are your computers crashing often?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Odio quedarme atascado en un embotellamiento de camino a casa."
+      },
+      {
+        "value": "I hate getting stuck in a traffic jam on my way home.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nos quedamos atascados en un embotellamiento durante una hora."
+      },
+      {
+        "value": "We got stuck in a traffic jam for an hour.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Siempre estoy recibiendo spam en mi bandeja de entrada."
+      },
+      {
+        "value": "I'm always receiving spam in my inbox.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Revisa tu bandeja de entrada de spam para ese correo electrónico."
+      },
+      {
+        "value": "Check your spam inbox for that email.",
+        "audio": true
+      }
+    ]
+  ]
+}

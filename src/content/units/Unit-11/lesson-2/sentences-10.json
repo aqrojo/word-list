@@ -1,0 +1,129 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "No estoy muy contento con el alumbrado público en algunas zonas de nuestra ciudad, especialmente por la noche."
+      },
+      {
+        "value": "I'm not very happy about the street lighting in some areas of our town, especially at night.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Se siente un poco inseguro."
+      },
+      {
+        "value": "It feels a bit unsafe.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, sé a lo que te refieres."
+      },
+      {
+        "value": "Yes, I know what you mean.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Puede estar bastante oscuro."
+      },
+      {
+        "value": "It can be quite dark.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Cómo podrían ayudarnos las redes sociales con esto?"
+      },
+      {
+        "value": "How could social media help us with this?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Creo que podríamos usar Twitter para reportar los puntos oscuros."
+      },
+      {
+        "value": "I think we could use Twitter to report the dark spots.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Podríamos tomar fotos de las calles sin luces y tuitearlas a las autoridades locales."
+      },
+      {
+        "value": "We could take photos of the streets without lights and tweet them to the local authorities.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Esa es una estrategia directa!"
+      },
+      {
+        "value": "That's a direct approach!",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Qué más harías?"
+      },
+      {
+        "value": "What else would you do?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Pediría a otros residentes que hicieran lo mismo, e incluiría la ubicación exacta de las zonas oscuras."
+      },
+      {
+        "value": "I would ask other residents to do the same, and include the exact location of the dark areas.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "También podríamos crear un mapa en línea mostrando todos los puntos problemáticos."
+      },
+      {
+        "value": "We could also create a map online showing all the problematic spots.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Considerarías una petición en línea o una protesta?"
+      },
+      {
+        "value": "Would you consider an online petition or a protest?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Una petición en línea sería muy útil, pidiendo al concejo local que mejore el alumbrado público por razones de seguridad."
+      },
+      {
+        "value": "An online petition would be very useful, asking the local council to improve the street lighting for safety reasons.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Una protesta podría ser demasiado para esto, pero una petición podría conseguir muchas firmas."
+      },
+      {
+        "value": "A protest might be too much for this, but a petition could get many signatures.",
+        "audio": true
+      }
+    ]
+  ]}

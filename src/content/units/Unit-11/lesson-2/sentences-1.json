@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Aburrido/a"
+      },
+      {
+        "value": "Bored",
+        "audio": true
+      },
+      {
+        "value": "Feeling weary or restless because one is unoccupied or lacks interest in one's current activity.",
+        "audio": true
+      },
+      {
+        "value": "I get bored when there's nothing to do.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nervioso/a"
+      },
+      {
+        "value": "Nervous",
+        "audio": true
+      },
+      {
+        "value": "Feeling worried, anxious, or agitated.",
+        "audio": true
+      },
+      {
+        "value": "She felt nervous before her big presentation.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Incómodo/a"
+      },
+      {
+        "value": "Uncomfortable",
+        "audio": true
+      },
+      {
+        "value": "Feeling uneasy or awkward; not feeling physically or mentally at ease.",
+        "audio": true
+      },
+      {
+        "value": "He was uncomfortable with the silence in the room.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Asombrado/a"
+      },
+      {
+        "value": "Amazed",
+        "audio": true
+      },
+      {
+        "value": "Greatly surprised or impressed; filled with wonder.",
+        "audio": true
+      },
+      {
+        "value": "I was amazed by the beauty of the Grand Canyon.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Confundido/a"
+      },
+      {
+        "value": "Confused",
+        "audio": true
+      },
+      {
+        "value": "Unable to think clearly or understand something.",
+        "audio": true
+      },
+      {
+        "value": "The instructions were so complex that I got confused.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Preocupado/a"
+      },
+      {
+        "value": "Worried",
+        "audio": true
+      },
+      {
+        "value": "Feeling anxious or troubled about actual or potential problems.",
+        "audio": true
+      },
+      {
+        "value": "She's worried about her upcoming exam.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo/a"
+      },
+      {
+        "value": "Lonely",
+        "audio": true
+      },
+      {
+        "value": "Sad because one has no friends or company.",
+        "audio": true
+      },
+      {
+        "value": "He felt lonely after moving to a new city.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Emocionado/a"
+      },
+      {
+        "value": "Excited",
+        "audio": true
+      },
+      {
+        "value": "Feeling very enthusiastic and eager.",
+        "audio": true
+      },
+      {
+        "value": "The children were excited about their trip to the zoo.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Las redes sociales me ponen nervioso."
+      },
+      {
+        "value": "Social media makes me feel nervous.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me siento incómodo compartiendo información con gente que no conozco."
+      },
+      {
+        "value": "I'm uncomfortable sharing information with people I don't know.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Siempre me asombra cuánta información útil se puede encontrar en las redes sociales."
+      },
+      {
+        "value": "I'm always amazed by how much useful information you can find on social media.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Para mí, es como una herramienta de aprendizaje."
+      },
+      {
+        "value": "For me, it's like a learning tool.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy confundido sobre por qué las redes sociales son tan populares."
+      },
+      {
+        "value": "I am confused as to why social media is so popular.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me preocupa que en realidad haga que la gente se sienta sola."
+      },
+      {
+        "value": "I'm worried that it actually makes people feel lonely.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "En lugar de tener unos pocos amigos realmente buenos con quienes puedan hablar."
+      },
+      {
+        "value": "Instead of having a few really good friends who they can talk to.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los jóvenes ahora tienen cientos de amigos de los que no saben nada."
+      },
+      {
+        "value": "Young people now have hundreds of friends who they know nothing about.",
+        "audio": true
+      }
+    ]
+  ]
+}

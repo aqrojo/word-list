@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Aburrido: cómo te sientes cuando no tienes nada que hacer."
+      },
+      {
+        "value": "Bored: how you feel when you have nothing to do.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Confundido: cómo te sientes cuando no entiendes cómo funciona algo."
+      },
+      {
+        "value": "Confused: how you feel when you don't understand how something works.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Solo: cómo te sientes cuando estás solo y no tienes amigos."
+      },
+      {
+        "value": "Lonely: how you feel when you are alone and you have no friends.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Emocionado: cómo te sientes cuando algo especial va a suceder y estás feliz."
+      },
+      {
+        "value": "Excited: how you feel when something special is going to happen and you are happy.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Incómodo: cómo te sientes cuando no puedes relajarte porque estás avergonzado o preocupado."
+      },
+      {
+        "value": "Uncomfortable: how you feel when you're unable to relax because you are embarrassed or worried.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Asombrado: cómo te sientes cuando estás muy positivamente sorprendido."
+      },
+      {
+        "value": "Amazed: how you feel when you are very positively surprised.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Preocupado: cómo te sientes cuando sigues pensando en un problema o en algo malo que podría suceder."
+      },
+      {
+        "value": "Worried: How do you feel when you keep trying thinking about a problem or something bad that might happen.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Nervioso: cómo te sientes cuando te preocupas por algo y no puedes relajarte."
+      },
+      {
+        "value": "Nervous: How do you feel when you worry about something and cannot relax.",
+        "audio": true
+      }
+    ]
+  ]
+}

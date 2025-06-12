@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    [
+      { "value": "Todavía no he hecho nada de deporte esta semana" },
+      { "value": "I haven't done any sport this week yet", "audio": true }
+    ],
+    [
+      { "value": "Mi mejor amigo/a acaba de tener un bebé" },
+      { "value": "My best friend has just have a baby", "audio": true }
+    ],
+    [
+      { "value": "Ya he tenido vacaciones este año" },
+      { "value": "I've already had a holiday this year", "audio": true }
+    ],
+    [
+      { "value": "Todavía no he terminado mis deberes" },
+      { "value": "I haven't finished my homework yet", "audio": true }
+    ],
+    [
+      { "value": "Ya he visto la nueva película de James Bond" },
+      { "value": "I've already seen the new James Bond movie", "audio": true }
+    ],
+    [
+      { "value": "Acabo de mudarme de casa" },
+      { "value": "I've just moved house", "audio": true }
+    ],
+    [
+      { "value": "Acabo de pagar mi próximo curso de inglés" },
+      { "value": "I've just paid for my next English course", "audio": true }
+    ],
+    [
+      { "value": "Acabo de almorzar." },
+      { "value": "I’ve just eaten lunch.", "audio": true }
+    ],
+    [
+      { "value": "Ella acaba de llamarme." },
+      { "value": "She’s just called me.", "audio": true }
+    ],
+    [
+      { "value": "Ellos acaban de salir del edificio." },
+      { "value": "They’ve just left the building.", "audio": true }
+    ],
+    [
+      { "value": "Acabamos de llegar al aeropuerto." },
+      { "value": "We’ve just arrived at the airport.", "audio": true }
+    ],
+    [
+      { "value": "Él acaba de terminar su clase en línea." },
+      { "value": "He’s just finished his online class.", "audio": true }
+    ],
+    [
+      { "value": "Ya he lavado los platos." },
+      { "value": "I’ve already done the dishes.", "audio": true }
+    ],
+    [
+      { "value": "Ella ya se ha ido a la cama." },
+      { "value": "She’s already gone to bed.", "audio": true }
+    ],
+    [
+      { "value": "Ya hemos visitado ese museo." },
+      { "value": "We’ve already visited that museum.", "audio": true }
+    ],
+    [
+      { "value": "Él ya me ha contado la noticia." },
+      { "value": "He’s already told me the news.", "audio": true }
+    ],
+    [
+      { "value": "Ellos ya han empezado la reunión." },
+      { "value": "They’ve already started the meeting.", "audio": true }
+    ],
+    [
+      { "value": "¿Ya has terminado tu ensayo?" },
+      { "value": "Have you finished your essay yet?", "audio": true }
+    ],
+    [
+      { "value": "Todavía no he visto esa película." },
+      { "value": "I haven’t seen that movie yet.", "audio": true }
+    ],
+    [
+      { "value": "¿Ya han llegado?" },
+      { "value": "Have they arrived yet?", "audio": true }
+    ],
+    [
+      { "value": "Ella todavía no ha respondido a mi mensaje." },
+      { "value": "She hasn’t replied to my message yet.", "audio": true }
+    ],
+    [
+      { "value": "¿Ya has reservado el hotel?" },
+      { "value": "Have you booked the hotel yet?", "audio": true }
+    ]
+  ]
+}

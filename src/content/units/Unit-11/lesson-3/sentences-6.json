@@ -1,0 +1,104 @@
+{
+  "nodes": [
+    [{ "value": "Eso es verdad." }, { "value": "That's true", "audio": true }],
+    [
+      { "value": "Yo totalmente..." },
+      { "value": "I totally...", "audio": true }
+    ],
+    [
+      { "value": "No estoy seguro de eso." },
+      { "value": "I'm not sure about that", "audio": true }
+    ],
+    [
+      { "value": "Yo creo... / Pienso que..." },
+      { "value": "I think...", "audio": true }
+    ],
+    [
+      { "value": "Todo el mundo debería aprender un segundo idioma." },
+      { "value": "Everyone should learn a second language.", "audio": true }
+    ],
+    [
+      { "value": "Yo también lo creo. Es muy útil." },
+      {
+        "value": "I think so too. It's very useful.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "No es educado llegar tarde a una cita." },
+      {
+        "value": "It's not polite to arrive late for an appointment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Eso es verdad. Siempre llego a tiempo."
+      },
+      {
+        "value": "That's true. I always arrive on time.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Es bueno hacer tantas preguntas como sea posible en clase." },
+      {
+        "value": "It's good to ask as many questions as possible in class.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No estoy seguro/a de eso. Algunos estudiantes hacen demasiadas preguntas."
+      },
+      {
+        "value": "I'm not sure about that. Some students ask too many questions.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "Es mejor vivir en un país cálido y soleado." },
+      { "value": "It's best to live in a hot sunny country.", "audio": true }
+    ],
+    [
+      {
+        "value": "Definitivamente. A todo el mundo le encanta el sol."
+      },
+      {
+        "value": "Definitely. Everybody loves the sunshine.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Los niños deberían estudiar para los exámenes desde los seis años."
+      },
+      {
+        "value": "Children should study for exams from the age of six.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy totalmente en desacuerdo. Ningún niño menor de diez años debería tener que estudiar para un examen."
+      },
+      {
+        "value": "I totally disagree. No child under ten should have to study for an exam.",
+        "audio": true
+      }
+    ],
+    [
+      { "value": "A todo el mundo le encanta la música clásica." },
+      { "value": "Everyone loves classical music.", "audio": true }
+    ],
+    [
+      {
+        "value": "No lo creo. A la mayoría de la gente le gusta la música pop."
+      },
+      {
+        "value": "I don't think so. Most people like pop music.",
+        "audio": true
+      }
+    ]
+  ]
+}
