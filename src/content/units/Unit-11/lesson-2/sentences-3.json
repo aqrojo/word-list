@@ -104,3 +104,36 @@
         "value": "¡Guau, eso suena increíble! ¿Qué fue lo que más te gustó?"
       },
       {
+        "value": "Wow, that sounds incredible! What did you like most about it?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "La arquitectura era simplemente asombrosa, y los jardines eran muy hermosos. Nunca había visto nada igual."
+      },
+      {
+        "value": "The architecture was just stunning, and the gardens were so beautiful. I'd never seen anything like it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Tomaste muchas fotos?"
+      },
+      {
+        "value": "Did you take many photos?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¡Cientos! Quería recordar cada detalle."
+      },
+      {
+        "value": "Hundreds! I wanted to remember every detail.",
+        "audio": true
+      }
+    ]
+  ]
+}
