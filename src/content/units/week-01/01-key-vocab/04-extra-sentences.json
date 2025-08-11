@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "me podrías dar una actualización sobre"
+      },
+      {
+        "value": "Could you give me an update on",
+        "audio": true
+      },
+      {
+        "value": "This is a polite way to ask for the current status of a project or task.",
+        "audio": true
+      },
+      {
+        "value": "Could you give me an update on the progress of the new website?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Me podrías dar una actualización sobre el progreso de la implementación de la interfaz de usuario?"
+      },
+      {
+        "value": "Could you give me an update on the progress of the user interface implementation?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "alguien tiene tiempo para ayudar con"
+      },
+      {
+        "value": "Does anyone have time to help with",
+        "audio": true
+      },
+      {
+        "value": "This is a way to politely ask for assistance from your team, acknowledging that they may be busy.",
+        "audio": true
+      },
+      {
+        "value": "Does anyone have time to help with the code review for the new feature?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Alguien tiene tiempo para ayudar con la revisión del código de los componentes?"
+      },
+      {
+        "value": "Does anyone have time to help with the code review of the components?",
+        "audio": true
+      }
+    ]
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¿Cómo van las cosas por tu lado?"
+      },
+      {
+        "value": "How are things on your side?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayer corregí el problema de espaciado en el modal de perfil y actualicé la tipografía según las especificaciones de diseño."
+      },
+      {
+        "value": "Yesterday I fixed the spacing issue in the profile modal and updated the typography according to the design specs.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy terminaré el desplegable de notificaciones y luego empezaré con la página de restablecimiento de contraseña."
+      },
+      {
+        "value": "Today I’ll finish the notifications dropdown and then start on the password reset page.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No hay bloqueos en este momento."
+      },
+      {
+        "value": "No blockers right now.",
+        "audio": true
+      }
+    ]
+  ]
+}

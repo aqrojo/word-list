@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Agustín, ¿nos podrías dar tu actualización?"
+      },
+      {
+        "value": "Agustin, could you give us your update?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Claro. He estado trabajando en la página de configuración del perfil."
+      },
+      {
+        "value": "Sure. I’ve been working on the profile settings page.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayer, completé el diseño responsive para escritorio y móvil."
+      },
+      {
+        "value": "Yesterday, I completed the responsive layout for desktop and mobile.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy, me estoy centrando en integrar la API del backend."
+      },
+      {
+        "value": "Today, I’m focusing on integrating the backend API.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Algún bloqueo?"
+      },
+      {
+        "value": "Any blockers?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Sí, estoy bloqueado por un error de CORS al llamar al endpoint de autenticación."
+      },
+      {
+        "value": "Yes, I’m blocked by a CORS error when calling the authentication endpoint.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ya abrí un ticket para soporte de backend."
+      },
+      {
+        "value": "I’ve already opened a ticket for backend support.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Entendido, lo revisaré después de la reunión."
+      },
+      {
+        "value": "Got it, I’ll check that after the meeting.",
+        "audio": true
+      }
+    ]
+  ]
+}

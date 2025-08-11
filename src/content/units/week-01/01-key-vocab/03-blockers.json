@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Estoy bloqueado por"
+      },
+      {
+        "value": "I’m blocked by",
+        "audio": true
+      },
+      {
+        "value": "This phrase is used when an obstacle is preventing you from continuing your work.",
+        "audio": true
+      },
+      {
+        "value": "I'm blocked by a database issue and can't proceed.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy bloqueado por la falta de una maqueta de diseño."
+      },
+      {
+        "value": "I’m blocked by the lack of a design mockup.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy esperando"
+      },
+      {
+        "value": "I’m waiting for",
+        "audio": true
+      },
+      {
+        "value": "This is used when you cannot continue with your task until you receive something from another person or team.",
+        "audio": true
+      },
+      {
+        "value": "I'm waiting for the client's approval before I can launch the new feature.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy esperando que el equipo de backend termine la API."
+      },
+      {
+        "value": "I’m waiting for the backend team to finish the API.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Necesito ayuda con"
+      },
+      {
+        "value": "I need help with",
+        "audio": true
+      },
+      {
+        "value": "This is a direct and clear way to ask for assistance on a specific task.",
+        "audio": true
+      },
+      {
+        "value": "I need help with the final code review before we merge the branch.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Necesito ayuda con la implementación de la autenticación de usuarios."
+      },
+      {
+        "value": "I need help with user authentication implementation.",
+        "audio": true
+      }
+    ]
+  ]
+}

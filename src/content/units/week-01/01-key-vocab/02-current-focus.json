@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "centrándome en"
+      },
+      {
+        "value": "focusing on",
+        "audio": true
+      },
+      {
+        "value": "Giving special attention to one particular task or project.",
+        "audio": true
+      },
+      {
+        "value": "I am focusing on completing this document before lunch.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy, me estoy centrando en la refactorización de código."
+      },
+      {
+        "value": "Today, I’m focusing on code refactoring.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "mi próximo paso es"
+      },
+      {
+        "value": "My next step is to",
+        "audio": true
+      },
+      {
+        "value": "The action you plan to take immediately after finishing a current task.",
+        "audio": true
+      },
+      {
+        "value": "My next step is to prepare the final report.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Mi próximo paso es integrar la nueva API."
+      },
+      {
+        "value": "My next step is to integrate the new API.",
+        "audio": true
+      }
+    ]
+  ]
+}

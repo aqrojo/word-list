@@ -1,0 +1,49 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Agustín, adelante."
+      },
+      {
+        "value": "Agustin, go ahead.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayer trabajé con el diseñador de UX para ajustar los filtros del panel de control."
+      },
+      {
+        "value": "Yesterday I worked with the UX designer to adjust the dashboard filters.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy estoy implementando el nuevo diseño."
+      },
+      {
+        "value": "Today I’m implementing the new layout.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Más tarde necesitaré ayuda del backend para asegurarme de que los parámetros de filtrado coincidan con la API."
+      },
+      {
+        "value": "I’ll need help from backend later to make sure the filtering parameters match the API.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Claro, te enviaré la documentación actualizada."
+      },
+      {
+        "value": "Sure, I’ll send you the updated documentation.",
+        "audio": true
+      }
+    ]
+  ]
+}

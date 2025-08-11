@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "Agustín, es tu turno."
+      },
+      {
+        "value": "Agustin, your turn.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayer trabajé en las animaciones de la pantalla de inicio de sesión."
+      },
+      {
+        "value": "Yesterday I worked on the login screen animations.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Y terminé las versiones de escritorio y móvil."
+      },
+      {
+        "value": "And finished both desktop and mobile versions.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy empezaré a integrarlas en el flujo principal de la aplicación."
+      },
+      {
+        "value": "Today I’ll start integrating them into the main app flow.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No hay bloqueos por el momento."
+      },
+      {
+        "value": "No blockers at the moment.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Genial, mantennos informados si surge algo."
+      },
+      {
+        "value": "Great, keep us posted if anything comes up.",
+        "audio": true
+      }
+    ]
+  ]
+}

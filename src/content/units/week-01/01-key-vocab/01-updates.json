@@ -1,0 +1,82 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "trabajando en"
+      },
+      {
+        "value": "working on",
+        "audio": true
+      },
+      {
+        "value": "The act of being busy with a task or project.",
+        "audio": true
+      },
+      {
+        "value": "What are you working on right now?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "He estado trabajando en la implementación de una nueva interfaz de usuario."
+      },
+      {
+        "value": "I’ve been working on a new user interface implementation.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "completado"
+      },
+      {
+        "value": "completed",
+        "audio": true
+      },
+      {
+        "value": "Finished a task or project.",
+        "audio": true
+      },
+      {
+        "value": "Have you completed your homework?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Terminé la optimización del rendimiento ayer."
+      },
+      {
+        "value": "I completed the performance optimization yesterday.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "empecé a trabajar en"
+      },
+      {
+        "value": "started working on",
+        "audio": true
+      },
+      {
+        "value": "Began a task or project.",
+        "audio": true
+      },
+      {
+        "value": "We started working on the report after the meeting.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Empecé a trabajar en la corrección de errores de CSS esta mañana."
+      },
+      {
+        "value": "I started working on the CSS bug fixes this morning.",
+        "audio": true
+      }
+    ]
+  ]
+}

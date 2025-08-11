@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "¿Cómo va la funcionalidad de búsqueda?"
+      },
+      {
+        "value": "How’s the search feature going?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Completé la interfaz de usuario para la barra de búsqueda y la lista de resultados."
+      },
+      {
+        "value": "I completed the UI for the search bar and the results list.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Estoy esperando que el equipo de backend finalice la API para poder empezar a probar la integración."
+      },
+      {
+        "value": "I’m waiting for the backend team to finalize the API so I can start testing the integration.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Esperamos tenerla lista para mañana por la tarde."
+      },
+      {
+        "value": "We expect to have it ready by tomorrow afternoon.",
+        "audio": true
+      }
+    ]
+  ]
+}
