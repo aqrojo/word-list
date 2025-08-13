@@ -1,0 +1,130 @@
+{
+  "nodes": [
+    [
+      {
+        "value": "De acuerdo, Agustín, es tu turno. ¿Cuál es tu actualización?"
+      },
+      {
+        "value": "Alright, Agustin, your turn — what’s your update?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Ayer trabajé en el diseño de la página de inicio de sesión."
+      },
+      {
+        "value": "Yesterday I worked on the login page layout.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Hoy me estoy centrando en implementarlo."
+      },
+      {
+        "value": "Today I'm focusing on implementing it.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "No hay bloqueadores."
+      },
+      {
+        "value": "No blockers.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Entendido. ¿Qué parte de la página de inicio de sesión estás implementando hoy?"
+      },
+      {
+        "value": "Got it. Which part of the login page are you implementing today?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Debería poder completar la tarea hoy."
+      },
+      {
+        "value": "I should be able to complete the task today.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo implementaré antes del almuerzo y planeo probarlo por la tarde."
+      },
+      {
+        "value": "I'll implementing it before lunch and I plan to testing it in the afternoon.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "¿Tendrás tiempo para cubrir los casos extremos durante las pruebas de esta tarde?"
+      },
+      {
+        "value": "Will you have time to cover edge cases during the testing this afternoon?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Debería tener tiempo suficiente para cubrirlos."
+      },
+      {
+        "value": "I should have enough time to cover them.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Bien. Solo recuerda actualizar Jira una vez que hayas completado los casos extremos."
+      },
+      {
+        "value": "Good. Just remember to update Jira once you’ve completed the edge cases.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Lo actualizaré después de terminar la tarea."
+      },
+      {
+        "value": "I'll update it after finish the task.",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Suena bien. Backend, ¿hay algo que necesitemos saber para esta integración?"
+      },
+      {
+        "value": "Sounds good. Backend, anything we need to know for this integration?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Agustín, ¿estás usando la última versión de la documentación de la API?"
+      },
+      {
+        "value": "Agustin, are you using the latest version of the API documentation?",
+        "audio": true
+      }
+    ],
+    [
+      {
+        "value": "Todavía no he llegado a esa parte, pero lo tendré en cuenta cuando empiece a trabajar en ello."
+      },
+      {
+        "value": "I haven't reached that part yet, but I'll keep it in mind when I start working on it.",
+        "audio": true
+      }
+    ]
+  ]
+}
